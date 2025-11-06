@@ -6,6 +6,11 @@ Busco aplicar meus conhecimentos técnicos para otimizar processos, gerar insigh
 
 ---
 
+### 🚀 Áreas de Atuação
+💻 Suporte Técnico • 🔐 Segurança da Informação • 🤖 Inteligência Artificial
+
+---
+
 ### ⚙️ **Principais competências**
 - Python (automação, análise e aprendizado de máquina)
 - Power BI e Excel 
