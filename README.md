@@ -40,6 +40,6 @@ Projeto acadêmico de **IA e Visão Computacional**, usando **OpenCV e aprendiza
 ---
 
 ### 📫 **Contato**
-📧 E-mail: seu-email@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/vitorhugoss](#)  
-💻 GitHub: [github.com/vitorhugoss](#)
+📧 E-mail: vitoor.hugoo@hotmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/vitor-hugo-3861391b8](#)  
+💻 GitHub: [https://github.com/vitorsantoszoo](#)
