@@ -24,19 +24,12 @@ Busco aplicar meus conhecimentos técnicos para otimizar processos, gerar insigh
 
 ## 🤖 Inteligência Artificial e Pesquisa
 
-### 🧠 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./inteligencia-artificial/detecao-lixo-ia-smartcity)
+### 🧠 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./inteligencia-artificial/deteccao-lixo-ia-smartcity)
 Projeto acadêmico desenvolvido durante a Pós-Graduação em **Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025)**.  
-A proposta apresenta um **modelo conceitual de sistema de visão computacional e deep learning** capaz de identificar resíduos sólidos urbanos em tempo real, utilizando câmeras públicas.  
+A proposta apresenta um modelo conceitual de **IA e Visão Computacional** para detectar resíduos urbanos em tempo real a partir de câmeras públicas, contribuindo para a gestão sustentável de **Cidades Inteligentes**.
 
-**Principais tópicos abordados:**
-- Conceitos de **Cidades Inteligentes** e **IA Sustentável**  
-- Arquiteturas de **Redes Neurais Convolucionais (CNNs)** e **YOLOv8**  
-- Aplicações de **Cloud Computing (AWS e Google Cloud)**  
-- Integração com APIs e painéis de monitoramento (Grafana / Power BI)  
-- Projeção de redução de **30% nos custos operacionais de monitoramento urbano**
-
-📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes.pdf)  
-📘 Tecnologias: `Python`, `IA`, `Visão Computacional`, `YOLOv8`, `AWS`, `Power BI`
+📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema%20de%20Detec%C3%A7%C3%A3o%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)  
+📘 Tecnologias: `Python`, `YOLOv8`, `Visão Computacional`, `Deep Learning`, `Power BI`, `AWS`, `IA Sustentável`
 
 ---
 
