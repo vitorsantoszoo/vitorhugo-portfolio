@@ -35,7 +35,7 @@ A proposta apresenta um **modelo conceitual de sistema de visão computacional e
 - Integração com APIs e painéis de monitoramento (Grafana / Power BI)  
 - Projeção de redução de **30% nos custos operacionais de monitoramento urbano**
 
-📄 [Documentação completa (PDF)](./inteligencia-artificial/detecao-lixo-ia-smartcity/Projeto_Inteligencia_Artificial.pdf)  
+📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes.pdf)  
 📘 Tecnologias: `Python`, `IA`, `Visão Computacional`, `YOLOv8`, `AWS`, `Power BI`
 
 ---
