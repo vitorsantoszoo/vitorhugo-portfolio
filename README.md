@@ -8,7 +8,7 @@ Busco aplicar meus conhecimentos técnicos para otimizar processos, gerar insigh
 
 ### ⚙️ **Principais competências**
 - Python (automação, análise e aprendizado de máquina)
-- Power BI e Excel Avançado
+- Power BI e Excel 
 - SQL (SQL Server e MySQL)
 - Governança e Segurança da Informação (ISO 27001)
 - Redes, infraestrutura e suporte técnico
