@@ -17,6 +17,24 @@ Busco aplicar meus conhecimentos técnicos para otimizar processos, gerar insigh
 
 ### 🧠 **Projetos em destaque**
 
+## 🤖 Inteligência Artificial e Pesquisa
+
+### 🧠 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./inteligencia-artificial/detecao-lixo-ia-smartcity)
+Projeto acadêmico desenvolvido durante a Pós-Graduação em **Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025)**.  
+A proposta apresenta um **modelo conceitual de sistema de visão computacional e deep learning** capaz de identificar resíduos sólidos urbanos em tempo real, utilizando câmeras públicas.  
+
+**Principais tópicos abordados:**
+- Conceitos de **Cidades Inteligentes** e **IA Sustentável**  
+- Arquiteturas de **Redes Neurais Convolucionais (CNNs)** e **YOLOv8**  
+- Aplicações de **Cloud Computing (AWS e Google Cloud)**  
+- Integração com APIs e painéis de monitoramento (Grafana / Power BI)  
+- Projeção de redução de **30% nos custos operacionais de monitoramento urbano**
+
+📄 [Documentação completa (PDF)](./inteligencia-artificial/detecao-lixo-ia-smartcity/Projeto_Inteligencia_Artificial.pdf)  
+📘 Tecnologias: `Python`, `IA`, `Visão Computacional`, `YOLOv8`, `AWS`, `Power BI`
+
+---
+
 #### 🔹 Automação de Relatórios de Produção (Python + IA)
 Script desenvolvido em Python para automatizar relatórios de produção industrial, reduzindo o tempo manual de consolidação de dados e melhorando a precisão das análises.
 📘 Tecnologias: `Python`, `Pandas`, `OpenPyXL`
