@@ -66,6 +66,6 @@ Pós-Graduação em **Inteligência Artificial e Aprendizado de Máquina – UNI
 
 ## 📫 Contato
 👤 **Vitor Hugo da Silva Santos**  
-📧 vitorhugoss.dev@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/vitorhugoss)  
-💻 [GitHub](https://github.com/vitorhugoss)
+📧 vitoor.hugoo@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vitor-hugo-3861391b8)  
+💻 [GitHub](https://github.com/vitorsantoszoo)
