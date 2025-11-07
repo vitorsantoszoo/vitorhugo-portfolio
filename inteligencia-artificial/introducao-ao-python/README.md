@@ -1,6 +1,6 @@
 # 🐍 Introdução ao Python
 
-Projetos desenvolvidos durante a disciplina de **Introdução ao Python**, parte da Pós-Graduação em Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025).
+Projetos desenvolvidos durante a disciplina de **Introdução ao Python**, parte da Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina (UNINOVE, 2025).
 
 Nesta disciplina, foram trabalhados os conceitos fundamentais da linguagem Python, como variáveis, estruturas de decisão, laços de repetição, funções e manipulação de dados.
 
