@@ -57,10 +57,6 @@ Ao longo da disciplina foram analisados:
 
 ---
 
-### Estrutura da pasta
-
----
-
 ### Status
 
 ✔ Disciplina concluída  
