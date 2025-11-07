@@ -96,9 +96,8 @@ Grande parte das atividades foi desenvolvida em Python utilizando Jupyter / Goog
 
 | Projeto / Atividade | Arquivo | Descrição |
 |--------------------|---------|-----------|
-| Detecção de Pedestres com CNN (PyTorch) | [Atividade_CNN_Pedestres.ipynb](./Atividade_CNN_Pedestres.ipynb) | Implementação inicial de rede neural convolucional para classificar imagens entre “pedestre” e “não pedestre” |
-| CNN para Classificação de Pedestres — versão 2 (melhorias) | [CNN_Classificacao_Pedestre_v2.ipynb](./CNN_Classificacao_Pedestre_v2.ipynb) | Versão otimizada da CNN com ajustes de hiperparâmetros e melhoria de acurácia |
-| CNN para Pedestres — versão final atualizada | [CNN_Pedestres_Atualizado.ipynb](./CNN_Pedestres_Atualizado.ipynb) | Pipeline final revisado com melhor resultado e validação do modelo |
-| Solução de Detecção de Pedestres com TensorFlow | [Atividade_Solucao_Deteccao_pedestre_Usando_Redes_Neurais_Tensorflow.ipynb](./Atividade_Solucao_Deteccao_pedestre_Usando_Redes_Neurais_Tensorflow.ipynb) | Implementação da solução usando TensorFlow para comparação com PyTorch |
+| Detecção de Pedestres com CNN (PyTorch) | [Atividade_CNN_Pedestres.ipynb](./Atividade_CNN_Pedestres.ipynb) | Implementação de uma rede neural convolucional para classificar imagens entre “pedestre” e “não pedestre”, utilizando PyTorch |
+| Solução de Detecção de Pedestres com TensorFlow | [Atividade_Solucao_Deteccao_pedestre_Usando_Redes_Neurais_Tensorflow.ipynb](./Atividade_Solucao_Deteccao_pedestre_Usando_Redes_Neurais_Tensorflow.ipynb) | Construção da mesma solução utilizando TensorFlow, comparando desempenho entre frameworks |
+
 
 ---
