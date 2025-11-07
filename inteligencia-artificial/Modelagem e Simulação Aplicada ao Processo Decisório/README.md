@@ -14,6 +14,7 @@ A disciplina explorou métodos para criar representações computacionais de pro
   - estáticos x dinâmicos
   - contínuos x discretos
 - Etapas estruturadas de um projeto de simulação:
+  
   1°) definição do problema  
   2°) coleta e preparação dos dados de entrada  
   3°) construção do modelo conceitual  
