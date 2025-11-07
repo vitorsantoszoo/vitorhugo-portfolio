@@ -2,34 +2,23 @@
 
 Esta pasta reúne os materiais, atividades e exercícios desenvolvidos durante a disciplina **Análise e Processamento de Dados**, cursada na Pós-Graduação em Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025).
 
-Nesta disciplina foram abordados conceitos fundamentais de estatística, preparação e exploração de dados, visualização analítica e introdução a modelos supervisionados de Machine Learning utilizando Python e bibliotecas como `pandas`, `numpy` e `scikit-learn`.
+Nesta disciplina foram abordados conceitos fundamentais de estatística aplicada, preparação e exploração de dados, visualização analítica e introdução a modelos supervisionados de Machine Learning utilizando Python e bibliotecas como `pandas`, `numpy` e `scikit-learn`.
 
 ---
 
 ## 🧠 Principais Tópicos Estudados
 
 - Introdução à Análise de Dados
-- Exploração e limpeza de datasets
-- Visualização gráfica e análise de métricas
-- Regressão Linear e Regressão Logística
-- Classificação supervisionada
-- Modelos Machine Learning com Scikit-Learn
-- Árvores de Decisão, Random Forest, SVM
-- PCA – Principal Component Analysis
+- Exploração, limpeza e padronização de datasets
+- Métricas descritivas e visualização de dados
+- Regressão Linear e análise preditiva
+- Introdução a modelos supervisionados com Scikit-Learn
+- Classificação (SVM, Árvores, Random Forest)
+- PCA (Principal Component Analysis)
 
 ---
 
-## 📘 Material de Referência (Slides das Aulas)
-
-- [Aula 1 – Introdução e Gráficos](./AULA1_PROC_DE_DADOS_SLIDES.pdf)
-- [Aula 2 – Machine Learning e Scikit-Learn](./AULA2_PROC_DE_DADOS_MACHINE_LEARNING_slides.pdf)
-- [Aula 3 – Regressão Linear](./AULA3_ Regressão Linear.pdf)
-- [Aula 10 – SVM, Árvores e Random Forest](./AULA10_ Support Vector Machines, Árvores e RF..pdf)
-- [Aula 11 – Árvores e PCA](./AULA11_ARVORES_PCA_slides.pdf)
-
----
-
-## 🧩 Atividades / Exercícios da Disciplina
+## 🧩 Atividades da Disciplina
 
 | Arquivo | Descrição |
 |---------|-----------|
@@ -42,6 +31,6 @@ Nesta disciplina foram abordados conceitos fundamentais de estatística, prepara
 
 ## Observação
 
-Todos os arquivos `.ipynb` foram desenvolvidos durante as aulas oficiais da disciplina e representam parte da evolução prática do conteúdo estudado.
+Todos os arquivos `.ipynb` desta pasta foram desenvolvidos durante as aulas da disciplina — representando parte da aplicação prática dos conteúdos de processamento, análise e modelagem de dados.
 
 ---
