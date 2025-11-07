@@ -15,31 +15,36 @@ Notebook introdutório abordando conceitos de sintaxe, operadores, tipos de dado
 🧠 **Conceitos aplicados:** variáveis, entrada e saída de dados, e manipulação básica de estruturas.
 
 ---
-### 🔐 Exercício 1 – Validador de Senha Forte
+
+## 📘 Projetos da Disciplina
+
+### 🔐 [Exercício 1 – Validador de Senha Forte](./exercicio_1.py)
 Programa que valida se uma senha atende critérios mínimos de segurança (maiúscula, minúscula, número, caractere especial e sem sequência numérica).
 
 📂 Arquivo: `exercicio_1.py`
 
 ---
 
-### 🔎 Exercício 2 – Verificador de Palíndromos
+### 🔎 [Exercício 2 – Verificador de Palíndromos](./exercicio_2.py)
 Função que verifica se uma palavra é um palíndromo, desconsiderando espaços e diferenças de maiúsculas/minúsculas.
 
 📂 Arquivo: `exercicio_2.py`
 
 ---
 
-### 📄 Exercício 3 – Contador de Palavras em Arquivo Texto
+### 📄 [Exercício 3 – Contador de Palavras em Arquivo Texto](./exercicio_3.py)
 Programa que lê um arquivo .TXT de texto e retorna quantas palavras ele contém.
 
 📂 Arquivo: `exercicio_3.py`
 
 ---
 
-### 🎮 [Jogo Pedra, Papel, Tesoura, Lagarto e Spock](./exercicio_4.py)
-Um programa interativo que permite ao usuário jogar contra o computador, utilizando a biblioteca `random` para gerar escolhas aleatórias e um dicionário de regras para determinar o vencedor da rodada.
+### 🎮 [Exercício 4 – Pedra, Papel, Tesoura, Lagarto e Spock](./exercicio_4.py)
+Um programa interativo que permite ao usuário jogar contra o computador, usando a biblioteca `random` para gerar escolhas e regras do jogo.
 
 📂 **Arquivo:** `exercicio_4.py`  
 🧠 **Conceitos aplicados:** estruturas condicionais, dicionários, funções e aleatoriedade.
 
 ---
+
+
