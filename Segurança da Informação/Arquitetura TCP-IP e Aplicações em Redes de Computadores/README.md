@@ -46,3 +46,34 @@ Este conteúdo é extremamente aplicado em ambientes reais de infraestrutura e o
 - configuração de VLANs, NAT, DHCP, DNS
 - análise de pacotes com Wireshark
 - modelagem de topologias para redes corporativas
+- compreensão de protocolos de aplicação
+
+---
+
+## Conceitos-chave desenvolvidos
+
+| Tema | Entendimento gerado |
+|------|----------------------|
+| Arquitetura TCP/IP | Estrutura modular de comunicação |
+| Endereçamento IPv4 | Planejamento, subnetting, VLSM e CIDR |
+| Transporte TCP/UDP | Confiabilidade, conexão, handshake |
+| Protocolos de aplicação | HTTP, DNS, SMTP, POP3, FTP etc. |
+| Tecnologias Ethernet | Funcionamento, limites físicos, padrões |
+
+---
+
+## Avaliação
+
+Nesta disciplina não houve projeto prático formal.
+
+A nota foi obtida por **prova teórica** envolvendo cálculos e resolução de questões sobre Ethernet, IPv4, TTL, Sub-redes, etc.
+
+> **arquivos de avaliação estão anexados na pasta**
+
+---
+
+## Conclusão
+
+Esta disciplina constrói a base técnica da comunicação de redes — permitindo entender, analisar e raciocinar sobre o fluxo real de dados nos ambientes corporativos.
+
+Ela fundamenta as próximas etapas de infraestrutura, roteamento, protocolos, análise de pacotes e troubleshooting profissional em redes.
