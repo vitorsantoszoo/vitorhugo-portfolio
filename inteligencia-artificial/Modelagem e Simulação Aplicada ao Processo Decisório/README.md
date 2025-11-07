@@ -35,7 +35,6 @@ Nesta disciplina foi desenvolvido um projeto aplicado utilizando **Simulação d
 
 | Entrega | Tipo | Arquivo |
 |--------|------|---------|
-| Apresentação do Projeto — Probabilidade do ZAP no Truco Paulista | Apresentação oficial utilizada em banca | [Probabilidade_do_ZAP_no_Truco_Paulista_Uma_Análise_com_Simulação_de_Monte_Carlo.pptx](./Probabilidade_do_ZAP_no_Truco_Paulista_Uma_An%C3%A1lise_com_Simula%C3%A7%C3%A3o_de_Monte_Carlo.pptx) |
 | Relatório Final do Projeto — Modelagem e Simulação | Documento oficial entregue para avaliação final | [GRUPO MODELAR TECH_PROJETO_MODELAGEM E SIMULAÇÃO APLICADA AO PROCESSO DECISÓRIO.pdf](./GRUPO%20MODELAR%20TECH_PROJETO_MODELAGEM%20E%20SIMULA%C3%87%C3%83O%20APLICADA%20AO%20PROCESSO%20DECIS%C3%93RIO.pdf) |
 | Código em Python — Simulação de Monte Carlo do ZAP | Código utilizado para execução das simulações e cálculos estatísticos | [ZAP.ipynb](./ZAP.ipynb) |
 
