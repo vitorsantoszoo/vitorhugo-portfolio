@@ -55,10 +55,10 @@ Durante as aulas foram abordados conceitos fundamentais para compreensão e apli
 
 ## 📂 Projeto — Otimização de Rotas com Algoritmos de Busca
 
-Projeto aplicado da disciplina **Resolução de Problemas com IA e AM**: otimização de rotas na “última milha” de e-commerce usando **Dijkstra** e **A\*** (busca no espaço de estados).
+Projeto final aplicado da disciplina **Resolução de Problemas com Inteligência Artificial e Aprendizagem de Máquina**, utilizando algoritmos de busca (A\* e Dijkstra) para otimização de rotas na última milha logística.
 
 | Entrega | Tipo | Arquivo |
 |---|---|---|
-| Apresentação do Projeto | .pptx | [GRUPO_MODELAR TECH_PROJETO_RESOLUÇÃO DE PROBLEMAS EM IA-AM-CD.pptx](./GRUPO_MODELAR%20TECH_PROJETO_RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20EM%20IA-AM-CD.pptx) |
+| Apresentação do Projeto | PDF | [GRUPO_MODELAR TECH_PROJETO_RESOLUÇÃO DE PROBLEMAS EM IA-AM-CD.pdf](./GRUPO_MODELAR%20TECH_PROJETO_RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20EM%20IA-AM-CD.pdf) |
 
 ---
