@@ -2,7 +2,7 @@
 
 🎯 Sou formado em **Segurança da Informação** e atualmente curso pós-graduação em **Inteligência Artificial e Aprendizagem de Máquina**. Tenho conhecimento teórico em boas práticas de segurança, fundamentos de cibersegurança e no padrão ISO 27001, incluindo conceitos de gestão de riscos, proteção de dados e políticas de segurança.
 
-Também possuo experiência em **planejamento de produção (PCP)** e em automação de relatórios com Python, onde pude trabalhar com organização de informações e suporte a processos internos, apoio na rotina de apontamento de produção e fechamento de ordens, análise de capacidade produtiva e identificação de gargalos com emissão de relatórios de acompanhamento de performance industrial.
+Também possuo experiência em **planejamento de produção (PCP)** e em automação de relatórios com Python(I.A), onde pude trabalhar com organização de informações e suporte a processos internos, apoio na rotina de apontamento de produção e fechamento de ordens, análise de capacidade produtiva e identificação de gargalos com emissão de relatórios de acompanhamento de performance industrial.
 
 Busco iniciar minha trajetória profissional na área de Tecnologia da Informação, especialmente em Segurança da Informação para aplicar o que aprendi na parte teórica e prática acadêmica, afim de aprender com profissionais mais experientes e desenvolver minhas habilidades dentro do ambiente corporativo.
 
