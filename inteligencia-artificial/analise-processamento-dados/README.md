@@ -1,6 +1,6 @@
 # 📊 Análise e Processamento de Dados
 
-Esta pasta reúne os materiais, atividades e exercícios desenvolvidos durante a disciplina **Análise e Processamento de Dados**, cursada na Pós-Graduação em Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025).
+Esta pasta reúne as atividades e exercícios desenvolvidos durante a disciplina **Análise e Processamento de Dados**, cursada na Pós-Graduação em Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025).
 
 Nesta disciplina foram abordados conceitos fundamentais de estatística aplicada, preparação e exploração de dados, visualização analítica e introdução a modelos supervisionados de Machine Learning utilizando Python e bibliotecas como `pandas`, `numpy` e `scikit-learn`.
 
