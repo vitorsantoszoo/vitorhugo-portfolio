@@ -59,3 +59,40 @@ Este projeto **é prático** — diferentemente de outros módulos da pós onde 
 Aqui foi implementado e executado um pipeline completo de visão computacional usando Python + OpenCV.
 
 ---
+
+---
+
+## 🧠 Aprendizagem de Máquina (Machine Learning) — Conteúdo estudado
+
+Na sequência da mesma disciplina, avançamos para a parte de Aprendizagem de Máquina e Redes Neurais, aprofundando o trabalho com modelos supervisionados para classificação e regressão.
+
+Grande parte das atividades foi desenvolvida em Python utilizando Jupyter / Google Colab, aplicando bibliotecas de Deep Learning como **PyTorch**, **scikit-learn** e **TensorFlow**.
+
+### Temas estudados nesta etapa:
+
+- Conceitos de redes neurais artificiais
+- Neurônios, pesos, bias e funções de ativação
+- Backpropagation e atualização de pesos
+- Funções de custo para classificação e regressão
+- Otimização com Adam e SGD
+- Normalização e preparação de dados para treino
+- Separação de datasets em treino / teste
+- Redes Neurais com PyTorch:
+  - Tensores, Autograd, gradientes
+  - Construção de modelos `nn.Module`
+  - treino e avaliação de modelo
+- Redes neurais com scikit-learn
+- Redes Neurais Convolucionais (CNN) — passo a passo
+  - convolução
+  - pooling
+  - máscaras
+  - forward/backward
+- Transfer Learning (ex. VGG16)
+- Aplicações em visão computacional e classificação de imagens
+
+---
+
+## 📂 Projetos e Atividades — Aprendizagem de Máquina
+
+> em seguida iremos adicionar aqui os arquivos / notebooks desta parte da disciplina
+> quando você finalizar o upload dos projetos em ML.
