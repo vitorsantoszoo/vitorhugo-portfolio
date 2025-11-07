@@ -1,3 +1,5 @@
+![Capa do Projeto](./images/capa.png)
+
 # 📚 Resolução de Problemas com Inteligência Artificial e Aprendizagem de Máquina
 
 Esta disciplina faz parte da **Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina** e teve como foco o uso de técnicas de IA para resolver problemas reais, desde busca e otimização até redes neurais profundas.
