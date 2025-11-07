@@ -29,33 +29,15 @@ A disciplina explorou métodos para criar representações computacionais de pro
 
 ---
 
-## 📂 Projeto — Otimização de Rotas com Algoritmos de Busca
+## 📂 Projeto — Modelagem e Simulação
 
-### Tema: Otimização de Rotas de Entrega para E-commerce com Algoritmos de Busca
-
-**Problema:**  
-Empresas de e-commerce enfrentam o desafio de otimizar rotas de entrega para múltiplos destinos, minimizando o tempo de viagem e o custo operacional. Trata-se de um problema clássico de otimização combinatória — que cresce em complexidade conforme o número de paradas aumenta.
-
-**Técnica Utilizada:**  
-Foram aplicados algoritmos de Busca no Espaço de Estados, com foco em **A\*** e **Dijkstra**.  
-Esse conjunto de algoritmos está diretamente relacionado ao Problema do Caminho Mínimo (PCM), abordado na Aula 03.
-
-A Busca A\* é especialmente interessante porque combina:
-
-- custo real do caminho percorrido (g)
-- estimativa heurística do custo restante (h)
-
-→ buscando soluções ótimas de forma mais eficiente do que a busca por menor custo puro.
-
-**Justificativa:**  
-A otimização de rotas tem impacto direto em custo logístico, consumo de combustível e tempo de entrega — portanto sua aplicação gera ganho real de eficiência operacional.  
-Esse exemplo conecta conceitos de IA ao contexto real de e-commerce e logística urbana, variando entre Caixeiro Viajante (TSP) e Problemas de Roteamento de Veículos (VRP).
-
-### Arquivos do Projeto
+Nesta disciplina foi desenvolvido um projeto aplicado utilizando **Simulação de Monte Carlo** para analisar a probabilidade de um jogador receber o **ZAP** (manilha de Paus) no Truco Paulista, considerando diferentes cenários de jogo e tipos de baralho.
 
 | Entrega | Tipo | Arquivo |
-|---|---|---|
-| Apresentação Final — Otimização de Rotas com IA | PDF | [GRUPO_MODELAR TECH_PROJETO_RESOLUÇÃO DE PROBLEMAS EM IA-AM-CD.pdf](./GRUPO_MODELAR%20TECH_PROJETO_RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20EM%20IA-AM-CD.pdf) |
+|--------|------|---------|
+| Relatório Final do Projeto — Modelagem e Simulação | Documento oficial entregue para avaliação final | [GRUPO MODELAR TECH_PROJETO_MODELAGEM E SIMULAÇÃO APLICADA AO PROCESSO DECISÓRIO.pdf](./GRUPO%20MODELAR%20TECH_PROJETO_MODELAGEM%20E%20SIMULA%C3%87%C3%83O%20APLICADA%20AO%20PROCESSO%20DECIS%C3%93RIO.pdf) |
+| Código em Python — Simulação de Monte Carlo do ZAP | Código utilizado para execução das simulações e cálculos estatísticos | [ZAP.ipynb](./ZAP.ipynb) |
 
----
+> O arquivo `projeto.pdf` era apenas o documento orientador da atividade e não faz parte do entregável final.
+
 
