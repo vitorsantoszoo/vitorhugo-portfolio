@@ -14,12 +14,12 @@ A disciplina explorou métodos para criar representações computacionais de pro
   - estáticos x dinâmicos
   - contínuos x discretos
 - Etapas estruturadas de um projeto de simulação:
-  1) definição do problema  
-  2) coleta e preparação dos dados de entrada  
-  3) construção do modelo conceitual  
-  4) implementação computacional  
-  5) validação e testes  
-  6) análise dos resultados
+  1°) definição do problema  
+  2°) coleta e preparação dos dados de entrada  
+  3°) construção do modelo conceitual  
+  4°) implementação computacional  
+  5°) validação e testes  
+  6°) análise dos resultados
 - Tratamento de dados de entrada e análise estatística
 - Distribuições probabilísticas aplicadas à simulação
 - Simulação de Monte Carlo
