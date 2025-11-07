@@ -14,10 +14,10 @@ Busco iniciar minha trajetória profissional na área de Tecnologia da Informaç
 ---
 
 ### ⚙️ **Principais competências**
+- Governança e Segurança da Informação (ISO 27001)
 - Python (automação, análise e aprendizado de máquina)
 - Power BI e Excel 
 - SQL (SQL Server e MySQL)
-- Governança e Segurança da Informação (ISO 27001)
 - Redes, infraestrutura e suporte técnico
 
 ---
