@@ -53,10 +53,13 @@ Durante as aulas foram abordados conceitos fundamentais para compreensão e apli
 
 ---
 
-## 📂 Atividades e Projetos da Disciplina
+## 📂 Projeto — Otimização de Rotas com Algoritmos de Busca
 
-> Esta área será atualizada com os projetos desenvolvidos na disciplina.
+Projeto aplicado da disciplina **Resolução de Problemas com IA e AM**: otimização de rotas na “última milha” de e-commerce usando **Dijkstra** e **A\*** (busca no espaço de estados).
 
-(assim que os arquivos/projetos forem enviados — adicionaremos aqui da mesma forma que fizemos nas outras disciplinas)
+| Entrega | Tipo | Arquivo |
+|---|---|---|
+| Apresentação do Projeto | .pptx | [GRUPO_MODELAR TECH_PROJETO_RESOLUÇÃO DE PROBLEMAS EM IA-AM-CD.pptx](./GRUPO_MODELAR%20TECH_PROJETO_RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20EM%20IA-AM-CD.pptx) |
+| Versão para visualização | **PDF (abre no navegador)** | *(recomendado exportar e subir um PDF)* |
 
 ---
