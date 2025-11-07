@@ -38,6 +38,5 @@ Nesta disciplina foi desenvolvido um projeto aplicado utilizando **Simulação d
 | Relatório Final do Projeto — Modelagem e Simulação | Documento oficial entregue para avaliação final | [GRUPO MODELAR TECH_PROJETO_MODELAGEM E SIMULAÇÃO APLICADA AO PROCESSO DECISÓRIO.pdf](./GRUPO%20MODELAR%20TECH_PROJETO_MODELAGEM%20E%20SIMULA%C3%87%C3%83O%20APLICADA%20AO%20PROCESSO%20DECIS%C3%93RIO.pdf) |
 | Código em Python — Simulação de Monte Carlo do ZAP | Código utilizado para execução das simulações e cálculos estatísticos | [ZAP.ipynb](./ZAP.ipynb) |
 
-> O arquivo `projeto.pdf` era apenas o documento orientador da atividade e não faz parte do entregável final.
 
 
