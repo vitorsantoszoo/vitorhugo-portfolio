@@ -60,6 +60,5 @@ Projeto aplicado da disciplina **Resolução de Problemas com IA e AM**: otimiza
 | Entrega | Tipo | Arquivo |
 |---|---|---|
 | Apresentação do Projeto | .pptx | [GRUPO_MODELAR TECH_PROJETO_RESOLUÇÃO DE PROBLEMAS EM IA-AM-CD.pptx](./GRUPO_MODELAR%20TECH_PROJETO_RESOLU%C3%87%C3%83O%20DE%20PROBLEMAS%20EM%20IA-AM-CD.pptx) |
-| Versão para visualização | **PDF (abre no navegador)** | *(recomendado exportar e subir um PDF)* |
 
 ---
