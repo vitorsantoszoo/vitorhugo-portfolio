@@ -30,23 +30,55 @@ Durante essa etapa da disciplina, foram desenvolvidos trabalhos de análise e ex
 
 ---
 
-## 🧠 Conteúdo estudado — Governança de Dados
+## 📚 Governança de Dados — Conteúdo estudado
 
-- Conceito de governança e gestão de ciclo de vida dos dados
-- Segurança da Informação aplicada a dados corporativos
-- Classificação e categorização de dados
-- Políticas internas, compliance e LGPD
-- Atributos de qualidade (accuracy, completeness, consistency, timeliness)
-- Papel e responsabilidades do Data Steward
-- Data Catalog e metadados
-- Monitoramento e auditoria
-- Dicionário de dados
-- Políticas de acesso e controles
+A segunda parte desta disciplina abordou os fundamentos, princípios e modelos relacionados à Governança de Dados, com foco em como as organizações estruturam processos, papéis e normas para garantir que seus dados sejam tratados como um ativo estratégico.
+
+Entre os tópicos estudados estão:
+
+### 🔹 Conceitos centrais
+
+- Governança de Dados (GD) como estrutura de processos, políticas e métricas
+- Diferença entre **Governança** (quem decide) e **Gestão** (quem executa)
+- Dados como ativo estratégico para competitividade, inovação e tomada de decisão
+
+### 🔹 Princípios básicos da Governança de Dados
+
+- Qualidade dos dados (precisão, integridade, consistência, atualidade)
+- Acessibilidade e disponibilidade dos dados
+- Segurança (confidencialidade, integridade, resiliência)
+- Conformidade com normas (ex: LGPD, GDPR)
+
+### 🔹 Benefícios de uma boa Governança
+
+- Decisões mais assertivas e confiáveis
+- Eficiência operacional e redução de custos
+- Transparência e segurança de informações
+- Redução de riscos e conformidade regulatória
+- Vantagem competitiva baseada em dados
+
+### 🔹 Frameworks e modelos estudados
+
+- DAMA-DMBOK2 — referência mundial em arquitetura & governança
+- Estrutura de 11 áreas de conhecimento do DMBOK2
+- Importância do alinhamento entre dados, negócio e estratégia
+
+### 🔹 Estudos de caso analisados
+
+- Empresas reais que estruturam GD para garantir segurança, disponibilidade e qualidade dos dados
+- Relação direta entre GD, Data Lake, metadados, e ciclo de vida dos dados
+
+> Em síntese: Governança define **quem decide** sobre os dados e **como** os dados devem ser tratados ao longo de todo seu ciclo de vida, garantindo valor, segurança, ética, compliance e confiabilidade.
 
 ---
 
-## 📂 Projetos / Atividades da Disciplina
+## 📂 Atividade — Governança de Dados
 
-> As atividades práticas serão adicionadas nesta seção quando os arquivos forem enviados.
+Nesta etapa da disciplina foi desenvolvido um trabalho aplicado de Governança de Dados, estruturado como um estudo de caso com foco em implementação prática.
+
+| Atividade | Descrição | Arquivo |
+|----------|-----------|---------|
+| Plano de Implementação de Governança de Dados baseado em Domínios de Decisão | Estudo de caso elaborado para aplicação de um framework de Governança de Dados em uma empresa fictícia (VH-Tech Soluções), incluindo diagnóstico, proposta de framework operacional e fases de implementação | [Atividade - Governança de Dados.pdf](./Atividade%20-%20Governan%C3%A7a%20de%20Dados.pdf) |
 
 ---
+
