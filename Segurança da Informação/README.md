@@ -7,42 +7,23 @@ Aqui serão organizados os projetos e atividades divididos por disciplina, assim
 
 ---
 
-## Disciplinas da Formação
+## Disciplinas Principais da Formação
 
-A graduação foi composta por diversas disciplinas que abrangem áreas fundamentais da Segurança da Informação, Redes de Computadores, Infraestrutura, Cibersegurança, Gestão e Governança de Tecnologias.
+Abaixo estão as principais disciplinas da graduação que representam os pilares da minha formação em Segurança da Informação, Redes e Infraestrutura. Estas serão as disciplinas documentadas neste portfólio.
 
-As disciplinas serão documentadas neste portfólio conforme os projetos e atividades forem sendo adicionados.
+### Disciplinas selecionadas
 
-### Disciplinas estudadas
-
+**Segurança da Informação / Cibersegurança**
 - Ataques e Proteções em Sistemas Computacionais
-- Auditoria e Forense Computacional
 - Criptografia e Certificação Digital
-- Programação para Segurança da Informação
-- Projeto de Perícia e Teste de Segurança em Sistemas Computacionais
-- Técnicas de Teste de Intrusão
-- Administração de Sistemas Operacionais de Redes Proprietários
 - Governança e Segurança da Informação
-- Internet das Coisas
-- Projeto de Implantação de Sistemas Operacionais de Redes
-- Prática e Administração de Sistemas Operacionais de Redes
+- Segurança e Proteção de Dados
+- Auditoria e Forense Computacional
+- Técnicas de Teste de Intrusão
+- Programação para Segurança da Informação
+
+**Redes / Infraestrutura / Sistemas**
+- Arquitetura TCP/IP e Aplicações em Redes de Computadores
 - Sistemas Operacionais
 - Infraestrutura de Redes e Datacenter
-- Normas e Práticas em Cabeamento Estruturado
-- Projeto de Redes Convergentes
-- Redes Convergentes e Serviços de Redes
-- Redes Metropolitanas e de Longa Distância
-- Tecnologias em Redes sem Fio
-- Arquitetura IPv6
-- Arquitetura TCP/IP e Aplicações em Redes de Computadores
-- Comunicação de Dados
-- Gerenciamento de Redes Corporativas
-- Projeto de Conectividade de Redes Locais
-- Técnicas de Controle e Monitoramento
-- Análise de Dados
-- Gestão de Dados
-- Gestão de Software como Serviço
-- Infraestrutura de TI e Computação em Nuvem
-- Lógica Aplicada à Computação
-- Projeto em Empreendedorismo e Transformação Digital
-- Segurança e Proteção de Dados
+
