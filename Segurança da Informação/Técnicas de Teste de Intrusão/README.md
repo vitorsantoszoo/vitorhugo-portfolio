@@ -4,7 +4,7 @@ Disciplina focada em metodologias, ferramentas e práticas de avaliação de seg
 
 ---
 
-## Conteúdos estudados (resumo)
+## Conteúdos estudados 
 
 - **Metodologias e fases de um pentest**
   - planejamento, reconhecimento, enumeração, exploração, pós-exploração, relatório e recuperação.
