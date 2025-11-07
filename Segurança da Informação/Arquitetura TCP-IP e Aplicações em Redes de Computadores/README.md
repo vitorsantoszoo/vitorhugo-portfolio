@@ -68,8 +68,6 @@ Nesta disciplina não houve projeto prático formal.
 
 A nota foi obtida por **prova teórica** envolvendo cálculos e resolução de questões sobre Ethernet, IPv4, TTL, Sub-redes, etc.
 
-> **arquivos de avaliação estão anexados na pasta**
-
 ---
 
 ## Conclusão
