@@ -29,13 +29,13 @@ Esta disciplina abordou os fundamentos da auditoria aplicada a sistemas de infor
 ### Forense Computacional
 - Conceito de forense e origem do termo (forensis)
 - Etapas da perícia digital:
-  1) Preparação
-  2) Coleta
-  3) Preservação
-  4) Armazenamento
-  5) Análise
-  6) Cadeia de custódia
-  7) Apresentação dos resultados
+  1°) Preparação
+  2°) Coleta
+  3°) Preservação
+  4°) Armazenamento
+  5°) Análise
+  6°) Cadeia de custódia
+  7°) Apresentação dos resultados
 - Análise viva e análise pós-morte
 - ISO 27037 — diretrizes para tratamento de evidências digitais
 
