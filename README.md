@@ -9,7 +9,7 @@ Busco iniciar minha trajetória profissional na área de Tecnologia da Informaç
 ---
 
 ### 🚀 Áreas de Atuação
-💻 Suporte Técnico • 🔐 Segurança da Informação • 🤖 Inteligência Artificial
+🔐 Segurança da Informação • 🤖 Inteligência Artificial • 💻 Suporte Técnico • 
 
 ---
 
