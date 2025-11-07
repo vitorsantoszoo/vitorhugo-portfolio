@@ -32,5 +32,4 @@ Cada disciplina possui uma pasta própria contendo:
 - atividades e projetos realizados
 - arquivos de código, notebooks, relatórios, PDFs e apresentações
 
-Formato padrão:
 
