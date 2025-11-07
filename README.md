@@ -1,7 +1,6 @@
 # 💻 Vitor Hugo – Portfólio Profissional
 
-🎯 **Sobre mim**
-Sou formado em **Segurança da Informação** e pós-graduando em **Inteligência Artificial e Aprendizagem de Máquina**. Tenho experiência em **planejamento de produção (PCP)**, **automação de relatórios com Python** e **análise de dados**. 
+🎯 Formado em **Segurança da Informação** e pós-graduando em **Inteligência Artificial e Aprendizagem de Máquina**. Tenho experiência em **planejamento de produção (PCP)**, **automação de relatórios com Python** e **análise de dados**. 
 Busco aplicar meus conhecimentos técnicos para otimizar processos, gerar insights e desenvolver soluções inteligentes em tecnologia.
 
 ---
