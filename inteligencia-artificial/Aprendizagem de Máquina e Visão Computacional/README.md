@@ -38,10 +38,24 @@ Esta disciplina faz parte da **Pós-Graduação em Inteligência Artificial e Ap
 
 ---
 
-## 🧩 Atividades e projetos da disciplina
+## 🧩 Projeto desenvolvido nesta disciplina (Visão Computacional)
 
-> Os notebooks e arquivos desenvolvidos em aula serão adicionados nesta seção.
+| Projeto | Descrição |
+|--------|----------|
+| [Sistema de Inspeção Visual Automática](./Sistema%20de%20Inspe%C3%A7%C3%A3o%20Visual.pdf) | Sistema de visão computacional criado para identificar, segmentar e contar parafusos e porcas em imagens industriais, classificando conjuntos aprovados ou reprovados. |
 
-(Assim que você me enviar os arquivos dos projetos/atividades, eu adiciono as tabelas de links.)
+### Código do Projeto (Notebook)
+
+| Arquivo | Conteúdo |
+|--------|----------|
+| [Atividade_Visão_Comp.ipynb](./Atividade_Vis%C3%A3o_Comp.ipynb) | Implementação do pipeline de visão: conversão, binarização, morfologia, extração de componentes e contagem final. |
+
+---
+
+## Observação
+
+Este projeto **é prático** — diferentemente de outros módulos da pós onde houve apenas pesquisa conceitual.
+
+Aqui foi implementado e executado um pipeline completo de visão computacional usando Python + OpenCV.
 
 ---
