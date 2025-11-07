@@ -22,12 +22,12 @@ O objetivo desta disciplina foi orientar os alunos na **estruturação de um pro
 
 ## 🧠 Projeto Desenvolvido na Disciplina
 
-### 🧠 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./deteccao-lixo-ia-smartcity)
+### 🧠 Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes
 
 Projeto acadêmico que propõe um sistema baseado em **Visão Computacional** e **Deep Learning** para identificar resíduos sólidos urbanos a partir de câmeras públicas, contribuindo para políticas de cidades inteligentes.
 
-📄 Documentação completa (PDF):  
-`./deteccao-lixo-ia-smartcity/Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes.pdf`
+📄 [Documentação completa (PDF)](./Sistema%20de%20Detec%C3%A7%C3%A3o%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)
+
 
 ---
 
