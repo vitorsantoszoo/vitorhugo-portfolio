@@ -48,6 +48,8 @@ Projeto pessoal utilizando o dataset UNSW-NB15 para classificar categorias de at
 Script desenvolvido em Python para automatizar relatórios de produção industrial, reduzindo o tempo manual de consolidação de dados e melhorando a precisão das análises.
 📘 Tecnologias: `Python`, `Pandas`, `OpenPyXL`
 
+---
+
 #### 🔹 Visão Computacional – Detecção de Objetos
 Projeto acadêmico de **IA e Visão Computacional**, usando **OpenCV e aprendizado de máquina** para identificar e contar objetos (como porcas e parafusos) em imagens industriais.
 📘 Tecnologias: `Python`, `OpenCV`, `Scikit-learn`
