@@ -11,7 +11,7 @@ Atualmente, o CertMind já suporta:
 - Core 2 (220-1202)
 
 ### 🚀 Expansão futura planejada
-O projeto foi pensado para ser universal — não apenas para CompTIA.
+O projeto foi pensado para ser universal não apenas para CompTIA.
 
 Serão incluídas no futuro (pipeline planejado):
 
