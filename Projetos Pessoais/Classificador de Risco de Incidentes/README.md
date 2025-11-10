@@ -30,8 +30,7 @@ Isso pode ajudar um usuário em situações reais, como por exemplo:
 
 Em resumo:
 
-Este projeto não é apenas uma classificação de ataques,  
-ele ajuda a **tomar decisão** e **priorizar risco**.
+Este projeto não é apenas uma classificação de ataques, ele ajuda a **tomar decisão** e **priorizar risco**.
 
 ---
 
