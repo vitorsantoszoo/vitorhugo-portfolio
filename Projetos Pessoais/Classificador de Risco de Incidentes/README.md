@@ -2,7 +2,7 @@
 
 Este projeto utiliza técnicas de Machine Learning aplicadas ao dataset UNSW-NB15 para classificar diferentes tipos de ataques cibernéticos com base em atributos de tráfego de rede capturados em nível de fluxo.
 
-Mais importante do que classificar ataques, este projeto **explica** como o modelo toma decisões — usando métodos avançados de interpretabilidade.
+Mais importante do que classificar ataques, este projeto **explica** como o modelo toma decisões usando métodos avançados de interpretabilidade.
 
 ---
 
