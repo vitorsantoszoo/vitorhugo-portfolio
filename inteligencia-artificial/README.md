@@ -2,7 +2,7 @@
 
 Este diretório reúne os projetos, atividades, exercícios práticos e materiais desenvolvidos durante minha **Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina**, com foco em modelagem, processamento, visão computacional, IA generativa e técnicas modernas de aprendizado de máquina.
 
-Ao longo da formação, foram abordados conceitos fundamentais para aplicação prática de IA em diferentes contextos — desde análise de dados até resolução de problemas reais com algoritmos de otimização, simulação e redes neurais.
+Ao longo da formação, foram abordados conceitos fundamentais para aplicação prática de IA em diferentes contextos desde análise de dados até resolução de problemas reais com algoritmos de otimização, simulação e redes neurais.
 
 ---
 
