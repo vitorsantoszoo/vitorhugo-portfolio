@@ -15,6 +15,26 @@ Mais importante do que classificar ataques, este projeto **explica** como o mode
 
 ---
 
+## Por que este projeto é útil?
+
+Este projeto é útil porque transforma dados brutos de tráfego de rede em **inteligência acionável** permitindo que um analista de segurança entenda não apenas “se” há risco, mas **por que** o modelo considera algo como ataque.
+
+Diferente de classificadores comuns, aqui o foco não é só prever mas **explicar** o que está influenciando o risco.
+
+Isso pode ajudar um usuário em situações reais, como por exemplo:
+
+- Analistas SOC que querem entender quais protocolos/serviços estão mais associados a incidentes
+- Equipes de Blue Team que desejam priorizar onde atuar primeiro
+- Profissionais que precisam justificar decisões baseadas em modelo para auditoria / compliance
+- Alguém estudando cibersegurança e querendo enxergar o “cérebro” de um classificador moderno
+
+Em resumo:
+
+Este projeto não é apenas uma classificação de ataques,  
+ele ajuda a **tomar decisão** e **priorizar risco**.
+
+---
+
 ## Técnicas utilizadas
 
 | Etapa | Tecnologias / Métodos |
@@ -49,6 +69,20 @@ Arquivos necessários:
 ## Dataset
 
 Fonte: UNSW-NB15 — dataset público para pesquisa de Intrusion Detection.
+
+---
+
+## Cenários reais de aplicação
+
+Este tipo de modelo pode ser aplicado como apoio em diferentes etapas do ciclo de detecção e resposta em Segurança da Informação, tais como:
+
+- **SOC / SIEM**: priorização de alertas com maior probabilidade de ataque real
+- **Threat Hunting**: identificação de padrões comportamentais em fluxos de rede
+- **Análise Forense**: apoio na interpretação de tráfego suspeito após um incidente
+- **Redução de Ruído Operacional**: foco nas features mais decisivas (explicabilidade SHAP)
+- **Educação e Capacitação**: demonstração prática de como algoritmos realmente “enxergam” o tráfego de rede
+
+O modelo aqui desenvolvido pode ser usado como camada adicional de decisão, como filtro preliminar ou como componente de um pipeline maior de detecção / classificação de risco.
 
 ---
 
