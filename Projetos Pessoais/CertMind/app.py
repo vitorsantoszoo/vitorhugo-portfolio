@@ -19,13 +19,21 @@ Selecione abaixo o exame e o domínio para visualizar os tópicos em português.
 # -------------------------------
 # Carregar JSONs
 # -------------------------------
+import os
+
+BASE_DIR = os.path.dirname(__file__)
+DATA_DIR = os.path.join(BASE_DIR, "data")
+
 @st.cache_data
-def load_json(path):
+def load_json(filename):
+    path = os.path.join(DATA_DIR, filename)
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-core1_pt = load_json("data/core1_pt.json")
-core2_pt = load_json("data/core2_pt.json")
+core1_pt = load_json("core1_pt.json")
+core2_pt = load_json("core2_pt.json")
+core1_en = load_json("core1_en.json")
+core2_en = load_json("core2_en.json")
 
 # -------------------------------
 # Seleção de EXAME
