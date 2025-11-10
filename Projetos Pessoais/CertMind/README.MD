@@ -57,7 +57,7 @@ streamlit run app.py
 ```
 ---
 
-| funcionalidade                       |         status        |
+| Funcionalidades                      |         Status        |
 | ------------------------------------ | :-------------------: |
 | extração automática dos PDFs         |           ✅           |
 | parser Core1 / Core2                 |           ✅           |
