@@ -30,18 +30,23 @@ Busco iniciar minha trajetória profissional na área de Tecnologia da Informaç
 Projeto acadêmico desenvolvido durante a Pós-Graduação em **Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025)**.  
 A proposta apresenta um modelo conceitual de **IA e Visão Computacional** para detectar resíduos urbanos em tempo real a partir de câmeras públicas, contribuindo para a gestão sustentável de **Cidades Inteligentes**.
 
-📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema%20de%20Detec%C3%A7%C3%A3o%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)  
+📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema%20de%20Detec%C3%A3o%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)  
 📘 Tecnologias: `Python`, `YOLOv8`, `Visão Computacional`, `Deep Learning`, `Power BI`, `AWS`, `IA Sustentável`
+
+---
+
+### 🔹 Classificador de Risco de Incidentes (Segurança + IA)
+[Ir para o projeto](./Projetos%20Pessoais/Classificador%20de%20Risco%20de%20Incidentes)
+
+Projeto pessoal utilizando o dataset UNSW-NB15 para classificar categorias de ataques cibernéticos e explicar **por que** o modelo toma determinada decisão através de SHAP (Explainable AI).  
+📘 Tecnologias: `Python`, `LightGBM`, `Machine Learning`, `SHAP`, `Cyber Security`
+
 
 ---
 
 #### 🔹 Automação de Relatórios de Produção (Python + IA)
 Script desenvolvido em Python para automatizar relatórios de produção industrial, reduzindo o tempo manual de consolidação de dados e melhorando a precisão das análises.
 📘 Tecnologias: `Python`, `Pandas`, `OpenPyXL`
-
-#### 🔹 Análise de Dados – Power BI
-Dashboard criado para visualização e acompanhamento de KPIs industriais e indicadores de desempenho.
-📘 Tecnologias: `Power BI`, `Excel`, `SQL Server`
 
 #### 🔹 Visão Computacional – Detecção de Objetos
 Projeto acadêmico de **IA e Visão Computacional**, usando **OpenCV e aprendizado de máquina** para identificar e contar objetos (como porcas e parafusos) em imagens industriais.
