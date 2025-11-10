@@ -36,3 +36,54 @@ Serão incluídas no futuro (pipeline planejado):
 
 ## 📂 Estrutura do projeto
 
+```
+CertMind/
+├─ data/
+│ ├─ core1_en.json
+│ ├─ core1_pt.json
+│ ├─ core2_en.json
+│ └─ core2_pt.json
+├─ app.py
+├─ requirements.txt
+└─ README.md ← este arquivo
+```
+---
+
+## ▶ Como executar localmente
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+---
+
+| funcionalidade                       |         status        |
+| ------------------------------------ | :-------------------: |
+| extração automática dos PDFs         |           ✅           |
+| parser Core1 / Core2                 |           ✅           |
+| tradução IA EN→PT                    |           ✅           |
+| UI Streamlit — navegação por domínio |           ✅           |
+| modo quiz com geração dinâmica       | 🚧 em desenvolvimento |
+
+---
+
+🎯 propósito
+
+CertMind nasceu para facilitar o estudo e a memorização dos exam objectives — criando uma ponte entre PDFs técnicos e estudo estruturado real.
+
+Ele serve para qualquer pessoa que esteja estudando certificações, especialmente:
+
+- estudantes iniciando carreira em TI
+
+- candidatos a certificações
+
+- profissionais querendo relembrar tópicos
+
+- autodidatas que precisam de estrutura
+
+---
+
+Feito e mantido por Vitor Hugo.
+Foco em segurança, proteção de dados e mitigação de riscos.
+
+---
