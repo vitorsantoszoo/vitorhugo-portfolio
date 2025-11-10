@@ -54,7 +54,7 @@ CertMind/
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
 | funcionalidade                       |         status        |
