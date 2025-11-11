@@ -9,16 +9,14 @@ st.set_page_config(
     layout="centered",
     page_icon="🧠"
 )
-
 st.markdown("""
 # 🧠 **CertMind**
-
 ### Estudo guiado para CompTIA A+ (Objetivos Oficiais)
 
 ---
 
-Este aplicativo **não é um curso teórico**.  
-Ele **não ensina a matéria** diretamente ele mostra **os Objetivos Oficiais da CompTIA** (blueprint da prova), que definem *o que* será cobrado nos exames:
+Este aplicativo **não é um curso teórico** – e **não** traz textos explicativos.  
+Ele mostra os **Objetivos Oficiais da CompTIA** (o que cai na prova) e gera **questões simuladas** com base nesses tópicos, para treinar **recordação ativa**:
 
 - Core 1 (220-1201)
 - Core 2 (220-1202)
