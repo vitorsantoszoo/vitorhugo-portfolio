@@ -1,7 +1,7 @@
 import json
 import os
 
-PROGRESS_PATH = os.path.join("data", "progress.json")
+PROGRESS_PATH = "progress.json"
 
 def load_progress():
     if not os.path.exists(PROGRESS_PATH):
