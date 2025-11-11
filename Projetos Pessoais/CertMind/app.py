@@ -65,46 +65,45 @@ for sub in subdomains:
         st.markdown(f"- {bullet}")
     st.write("")
 st.write("---")
-st.markdown("## 🎯 Modo Quiz — recordação ativa")
+st.markdown
+
+# -------------------------------
+# 🎯 Modo Quiz — recordação ativa (PT)
+# -------------------------------
 
 import random
 from progress_manager import mark_as_seen, load_progress
 
-# carregar progresso atual
 progress = load_progress()
 
-# gerar lista de pares
-pairs = []
-for sub in subdomains:
-    for bullet in subdomains[sub]:
-        pairs.append((sub, bullet))
+# gerar lista de (subdomínio, bullet)
+pairs = [
+    (sub, bullet)
+    for sub in subdomains
+    for bullet in subdomains[sub]
+]
 
 if pairs:
-
-    # escolher item aleatório
     sub_sel, bullet_pt = random.choice(pairs)
 
-st.markdown(f"### Subdomínio: **{sub_sel}**")
-st.markdown(f"**Item:**")
-st.markdown(f"> {bullet_pt}")
+    st.markdown("## 🎯 Modo Quiz")
+    st.markdown(f"### Subdomínio: **{sub_sel}**")
+    st.markdown(f"**Item:**")
+    st.markdown(f"> {bullet_pt}")
 
-    if st.button("Mostrar Tradução"):
-        # encontrar PT correspondente
-        bullet_pt = bullet_en  # OBS: já está PT pq carregamos JSON PT
-        st.success(f"**Tradução:** {bullet_pt}")
+    # marca automaticamente como visto
+    mark_as_seen(exam_choice, domain_choice, sub_sel, bullet_pt)
 
-        # salvar progresso
-        mark_as_seen(exam_choice, domain_choice, sub_sel, bullet_en)
-        st.info("✔ Progresso salvo!")
-
-    # mostrar progresso percentual
-    seen = progress.get(exam_choice, {}).get(domain_choice, {}).get(sub_sel, [])
-    total = len([b for s in subdomains for b in subdomains[s]])
-    done = sum([len(progress.get(exam_choice, {}).get(domain_choice, {}).get(s, [])) for s in subdomains])
-    
-    pct = (done / total) * 100 if total > 0 else 0
+    # progresso
+    total = len(pairs)
+    seen = sum([
+        len(progress.get(exam_choice, {}).get(domain_choice, {}).get(s, []))
+        for s in subdomains
+    ])
+    pct = (seen / total) * 100 if total > 0 else 0
 
     st.markdown(f"### Progresso neste domínio: `{pct:.1f}%`")
+
 else:
     st.info("Não há itens neste domínio.")
 
