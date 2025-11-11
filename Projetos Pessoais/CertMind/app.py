@@ -1,5 +1,8 @@
 import json
 import streamlit as st
+import os
+import random
+from progress_manager import mark_as_seen, load_progress
 
 st.set_page_config(
     page_title="CertMind — Estudo para Certificações",
@@ -15,6 +18,21 @@ Este aplicativo permite estudar conteúdos oficiais de certificações como Comp
 
 Selecione abaixo o exame e o domínio para visualizar os tópicos em português.
 """)
+
+# -------------------------------
+# Carregar JSONs
+# -------------------------------
+BASE_DIR = os.path.dirname(__file__)
+DATA_DIR = os.path.join(BASE_DIR, "data")
+
+@st.cache_data
+def load_json(filename):
+    path = os.path.join(DATA_DIR, filename)
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+core1_pt = load_json("core1_pt.json")
+core2_pt = load_json("core2_pt.json")
 
 # ===============================
 # Estatísticas / Landing PRO
@@ -45,23 +63,6 @@ with col2:
     st.write(f"- Bullets: {core2_stats[2]}")
 
 st.write("---")
-
-# -------------------------------
-# Carregar JSONs
-# -------------------------------
-import os
-
-BASE_DIR = os.path.dirname(__file__)
-DATA_DIR = os.path.join(BASE_DIR, "data")
-
-@st.cache_data
-def load_json(filename):
-    path = os.path.join(DATA_DIR, filename)
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-core1_pt = load_json("core1_pt.json")
-core2_pt = load_json("core2_pt.json")
 
 # -------------------------------
 # Seleção de EXAME
@@ -95,18 +96,12 @@ for sub in subdomains:
         st.markdown(f"- {bullet}")
     st.write("")
 st.write("---")
-st.markdown
 
 # -------------------------------
 # 🎯 Modo Quiz — recordação ativa (PT)
 # -------------------------------
-
-import random
-from progress_manager import mark_as_seen, load_progress
-
 progress = load_progress()
 
-# gerar lista de (subdomínio, bullet)
 pairs = [
     (sub, bullet)
     for sub in subdomains
@@ -121,10 +116,8 @@ if pairs:
     st.markdown(f"**Item:**")
     st.markdown(f"> {bullet_pt}")
 
-    # marca automaticamente como visto
     mark_as_seen(exam_choice, domain_choice, sub_sel, bullet_pt)
 
-    # progresso
     total = len(pairs)
     seen = sum([
         len(progress.get(exam_choice, {}).get(domain_choice, {}).get(s, []))
