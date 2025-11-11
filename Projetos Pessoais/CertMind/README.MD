@@ -52,11 +52,15 @@ Em futuras versões, estão planejadas as seguintes certificações:
 
 ## 📂 Estrutura do projeto
 
-data/
-├─ .gitkeep                        # Mantém a pasta versionada no Git
-├─ core1_questions_expanded.json   # Banco completo de questões — CompTIA A+ Core 1 (220-1201)
-├─ core2_questions_expanded.json   # Banco completo de questões — CompTIA A+ Core 2 (220-1202)
-├─ progress.json                   # Armazena o progresso do usuário nos quizzes
+  CertMind/
+  ├─ data/
+  │ ├─ .gitkeep                        # Mantém a pasta versionada no Git
+  │ ├─ core1_questions_expanded.json   # Banco completo de questões — CompTIA A+ Core 1 (220-1201)
+  │ ├─ core2_questions_expanded.json   # Banco completo de questões — CompTIA A+ Core 2 (220-1202)
+  │ ├─ progress.json 
+  ├─ app.py
+  ├─ requirements.txt
+  └─ README.md ← este arquivo
 
 ---
 
