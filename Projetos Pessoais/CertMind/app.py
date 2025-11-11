@@ -190,10 +190,10 @@ if domain_questions:
     st.markdown(f"### Progresso neste domínio: `{pct:.1f}%`")
 
     # Mostra botão "Próxima questão" somente após acerto
-    if st.session_state["answered_correctly"]:
-        if st.button("Próxima questão 🔁"):
-            st.session_state["answered_correctly"] = False
-            st.experimental_rerun()
+if st.session_state["answered_correctly"]:
+    if st.button("Próxima questão 🔁"):
+        st.session_state["answered_correctly"] = False
+        st.rerun()
 
 else:
     st.info("Ainda não há questões geradas para este domínio.")
