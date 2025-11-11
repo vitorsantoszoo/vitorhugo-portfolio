@@ -58,12 +58,15 @@ exam_choice = st.selectbox(
 qbank = core1_qbank if exam_choice == "Core 1 (220-1201)" else core2_qbank
 questions = qbank["questions"]
 
-# Domínios e subdomínios
 domains = sorted(set(q["domain"] for q in questions))
 domain_choice = st.selectbox("📂 Selecione um domínio:", domains, key="domain_select")
 
 subdomains = sorted(set(q["subdomain"] for q in questions if q["domain"] == domain_choice))
 subdomain_choice = st.selectbox("🧩 Selecione um subdomínio:", subdomains, key="subdomain_select")
+
+# 🔒 Bloquear edição manual (corrige comportamento visual)
+if subdomain_choice not in subdomains:
+    subdomain_choice = subdomains[0]
 
 # Resetar questão ao trocar domínio/subdomínio
 if "last_domain" not in st.session_state or "last_subdomain" not in st.session_state:
@@ -72,7 +75,6 @@ if "last_domain" not in st.session_state or "last_subdomain" not in st.session_s
 
 if (st.session_state["last_domain"] != domain_choice) or (st.session_state["last_subdomain"] != subdomain_choice):
     st.session_state["current_question"] = None
-    st.session_state["answered"] = False
     st.session_state["answered_correctly"] = False
     st.session_state["last_domain"] = domain_choice
     st.session_state["last_subdomain"] = subdomain_choice
@@ -87,15 +89,12 @@ progress = load_progress()
 # -------------------------------
 if "current_question" not in st.session_state:
     st.session_state["current_question"] = None
-if "answered" not in st.session_state:
-    st.session_state["answered"] = False
 if "answered_correctly" not in st.session_state:
     st.session_state["answered_correctly"] = False
 
-# Selecionar nova questão apenas se nenhuma estiver ativa
+# Selecionar nova questão se nenhuma estiver ativa
 if st.session_state["current_question"] is None and filtered_questions:
     st.session_state["current_question"] = random.choice(filtered_questions)
-    st.session_state["answered"] = False
     st.session_state["answered_correctly"] = False
 
 q = st.session_state["current_question"]
@@ -118,30 +117,23 @@ else:
 
     correct = q["answer"]
 
-    # Botão de resposta
-    if st.button("Responder") and not st.session_state["answered"]:
+    # Responder — sem travar reintentos
+    if st.button("Responder"):
         if choice is None:
             st.warning("⚠️ Você precisa escolher uma alternativa antes de responder.")
         elif choice == correct:
             st.success(f"✅ Resposta Correta! Alternativa {correct}) {q['options'][correct]}")
             st.session_state["answered_correctly"] = True
-            st.session_state["answered"] = True
             mark_as_seen(exam_choice, domain_choice, subdomain_choice, q["id"])
         else:
-            st.error(f"❌ Resposta Incorreta! Tente novamente.")
-            st.session_state["answered_correctly"] = False
-            st.session_state["answered"] = True
+            st.error("❌ Resposta Incorreta! Tente novamente.")
 
-    # Feedback e controle de fluxo
-    if st.session_state["answered"]:
-        if st.session_state["answered_correctly"]:
-            if st.button("Próxima questão 🔁"):
-                st.session_state["current_question"] = random.choice(filtered_questions)
-                st.session_state["answered"] = False
-                st.session_state["answered_correctly"] = False
-                st.rerun()
-        else:
-            st.info("🔁 Tente novamente. Escolha outra alternativa e clique em **Responder**.")
+    # Controle de próxima questão
+    if st.session_state["answered_correctly"]:
+        if st.button("Próxima questão 🔁"):
+            st.session_state["current_question"] = random.choice(filtered_questions)
+            st.session_state["answered_correctly"] = False
+            st.rerun()
 
     # Progresso
     seen = sum([
