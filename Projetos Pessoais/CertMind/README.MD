@@ -1,8 +1,22 @@
+# ⚠️ **STATUS: Projeto em Desenvolvimento / Temporariamente Paralisado**
+
+O projeto **CertMind** ainda está em fase de construção e experimentação.  
+No momento, o desenvolvimento foi **pausado** para reavaliação técnica e reestruturação do sistema de quiz.  
+Você pode testar a versão atual do aplicativo acessando o link abaixo:
+
+👉 **[Acessar o App CertMind no Streamlit](https://vitorhugo-portfolio-6cvthe54edfondqyywzunj.streamlit.app/)**
+
+Se você tiver interesse em **colaborar, contribuir com código, ou ajudar a finalizar o projeto**,  
+fique à vontade para abrir uma *issue*, enviar *pull requests* ou entrar em contato.  
+Toda ajuda é muito bem-vinda! 💡
+
+---
+
 # 🧠 CertMind — Study Assistant for IT Certifications
 
 O **CertMind** é um projeto pessoal desenvolvido para auxiliar no estudo de certificações técnicas da área de TI.  
 
-O objetivo é transformar PDFs oficiais, exam objectives e materiais estruturados em **conteúdo navegável**, claro e interativo — permitindo revisão de tópicos, estudo organizado por domínio, e futuramente quizzes inteligentes.
+O objetivo é transformar PDFs oficiais, *exam objectives* e materiais estruturados em **conteúdo navegável, claro e interativo** — permitindo revisão de tópicos, estudo organizado por domínio e, futuramente, **quizzes inteligentes e personalizados**.
 
 Atualmente, o CertMind já suporta:
 
@@ -10,10 +24,12 @@ Atualmente, o CertMind já suporta:
 - Core 1 (220-1201)
 - Core 2 (220-1202)
 
-### 🚀 Expansão futura planejada
-O projeto foi pensado para ser universal não apenas para CompTIA.
+---
 
-Serão incluídas no futuro (pipeline planejado):
+### 🚀 Expansão futura planejada
+O projeto foi pensado para ser universal — não apenas para CompTIA.
+
+Em futuras versões, estão planejadas as seguintes certificações:
 
 - CompTIA Network+ / Security+
 - Cisco (CCNA, CyberOps)
@@ -25,18 +41,17 @@ Serão incluídas no futuro (pipeline planejado):
 
 ## 🧩 Como o CertMind funciona
 
-1) Os PDFs oficiais são baixados
-2) Os exam objectives são mapeados automaticamente
-3) São extraídos domínios, subdomínios e bullet points
-4) Todo conteúdo é traduzido por IA (Marian)
-5) O conteúdo final é disponibilizado em JSON
-6) O app Streamlit lê os arquivos JSON e exibe para estudo
+1. Os PDFs oficiais são baixados.  
+2. Os *exam objectives* são mapeados automaticamente.  
+3. São extraídos domínios, subdomínios e *bullet points*.  
+4. Todo conteúdo é traduzido por IA (Marian).  
+5. O conteúdo final é estruturado em arquivos JSON.  
+6. O app em **Streamlit** lê esses arquivos e exibe de forma interativa para estudo.
 
 ---
 
 ## 📂 Estrutura do projeto
 
-```
 CertMind/
 ├─ data/
 │ ├─ core1_en.json
@@ -46,7 +61,7 @@ CertMind/
 ├─ app.py
 ├─ requirements.txt
 └─ README.md ← este arquivo
-```
+
 ---
 
 ## ▶ Como executar localmente
@@ -55,35 +70,38 @@ CertMind/
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
 ---
 
-| Funcionalidades                      |         Status        |
+
+| Funcionalidade                       |         Status        |
 | ------------------------------------ | :-------------------: |
-| extração automática dos PDFs         |           ✅           |
-| parser Core1 / Core2                 |           ✅           |
-| tradução IA EN→PT                    |           ✅           |
+| Extração automática dos PDFs         |           ✅           |
+| Parser Core1 / Core2                 |           ✅           |
+| Tradução IA EN→PT                    |           ✅           |
 | UI Streamlit — navegação por domínio |           ✅           |
-| modo quiz com geração dinâmica       | 🚧 em desenvolvimento |
+| Modo Quiz — geração dinâmica         | 🚧 Em desenvolvimento |
 
 ---
 
-🎯 propósito
+🎯 Propósito
 
-CertMind nasceu para facilitar o estudo e a memorização dos exam objectives — criando uma ponte entre PDFs técnicos e estudo estruturado real.
+O CertMind nasceu para facilitar o estudo e a memorização dos exam objectives — criando uma ponte entre PDFs técnicos e o aprendizado prático estruturado.
 
-Ele serve para qualquer pessoa que esteja estudando certificações, especialmente:
+É ideal para:
 
-- estudantes iniciando carreira em TI
+Estudantes iniciando na área de TI
 
-- candidatos a certificações
+Candidatos a certificações internacionais
 
-- profissionais querendo relembrar tópicos
+Profissionais revisando tópicos técnicos
 
-- autodidatas que precisam de estrutura
+Autodidatas que buscam estrutura no aprendizado
+
+---
+
+Feito e mantido por Vitor Hugo
+💬 Aberto a colaborações — foco em segurança, proteção de dados e aprendizado acessível.
 
 ---
 
-Feito e mantido por Vitor Hugo.
-Foco em segurança, proteção de dados e mitigação de riscos.
-
----
