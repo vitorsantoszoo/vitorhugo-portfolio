@@ -30,4 +30,131 @@
       "id": "1.3-01",
       "domain": "1.0 Sistemas Operacionais",
       "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
-      "stem
+      "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco?",
+      "options": {
+        "A": "sfc /scannow",
+        "B": "chkdsk",
+        "C": "diskpart",
+        "D": "defrag"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "2.1-01",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+      "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas?",
+      "options": {
+        "A": "Phishing",
+        "B": "Spoofing",
+        "C": "Keylogging",
+        "D": "Brute Force"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "2.2-01",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+      "stem_md": "A autenticação multifator (MFA) normalmente combina:",
+      "options": {
+        "A": "Senha e login",
+        "B": "Algo que você sabe, tem e é",
+        "C": "Dois logins diferentes",
+        "D": "Usuário e domínio"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "2.3-01",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.3 Políticas e melhores práticas de segurança",
+      "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP)?",
+      "options": {
+        "A": "Permitir acesso irrestrito a administradores",
+        "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+        "C": "Bloquear acesso à Internet em redes corporativas",
+        "D": "Forçar a troca de senhas diariamente"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "3.1-01",
+      "domain": "3.0 Solução de Problemas de Software",
+      "subdomain": "3.1 Diagnosticar problemas de inicialização",
+      "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows?",
+      "options": {
+        "A": "Erro de hardware ou driver crítico",
+        "B": "Falha de autenticação do usuário",
+        "C": "Problema com a GPU",
+        "D": "Sistema aguardando atualização"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "3.2-01",
+      "domain": "3.0 Solução de Problemas de Software",
+      "subdomain": "3.2 Problemas com aplicativos e desempenho",
+      "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados?",
+      "options": {
+        "A": "Painel de Controle",
+        "B": "Gerenciador de Tarefas",
+        "C": "Prompt de Comando",
+        "D": "Monitor de Recursos"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "3.3-01",
+      "domain": "3.0 Solução de Problemas de Software",
+      "subdomain": "3.3 Solução de problemas de rede e conectividade",
+      "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino?",
+      "options": {
+        "A": "ping",
+        "B": "ipconfig",
+        "C": "tracert",
+        "D": "nslookup"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "4.1-01",
+      "domain": "4.0 Operações e Suporte",
+      "subdomain": "4.1 Procedimentos de documentação e comunicação",
+      "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente?",
+      "options": {
+        "A": "Omitir detalhes irrelevantes",
+        "B": "Registrar sintomas, ações e resultados",
+        "C": "Apagar logs após a correção",
+        "D": "Focar apenas em erros críticos"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "4.2-01",
+      "domain": "4.0 Operações e Suporte",
+      "subdomain": "4.2 Boas práticas de suporte ao cliente",
+      "stem_md": "Durante um atendimento, o técnico deve sempre:",
+      "options": {
+        "A": "Usar linguagem técnica para demonstrar conhecimento",
+        "B": "Interromper o cliente para agilizar o atendimento",
+        "C": "Escutar atentamente e demonstrar empatia",
+        "D": "Resolver o problema o mais rápido possível, sem explicar"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "4.3-01",
+      "domain": "4.0 Operações e Suporte",
+      "subdomain": "4.3 Gerenciamento de backup e recuperação",
+      "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo?",
+      "options": {
+        "A": "Completo",
+        "B": "Incremental",
+        "C": "Diferencial",
+        "D": "Instantâneo"
+      },
+      "answer": "B"
+    }
+  ]
+}
