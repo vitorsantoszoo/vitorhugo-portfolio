@@ -92,30 +92,21 @@ choice = st.radio(
 )
 
 # -------------------------------
-# 🎯 Modo Quiz — com feedback completo
+# 🎯 Modo Quiz — Pratique com questões reais (versão estável)
 # -------------------------------
+
 if filtered_questions:
-    # Seleciona questão aleatória
+    # Seleciona uma questão aleatória
     q = random.choice(filtered_questions)
 
-    st.markdown(f"### Subdomínio: **{q['subdomain']}**")
+    st.markdown(f"## 🎯 Modo Quiz — {domain_choice}")
+    st.markdown(f"### Subdomínio: {q['subdomain']}")
     st.write("---")
+
     st.markdown(f"**Pergunta:** {q['stem_md']}")
+    st.write("Escolha a alternativa correta:")
 
-    # Exibir alternativas
-    choice = st.radio(
-        "Escolha a alternativa correta:",
-        options=["A", "B", "C", "D"],
-        format_func=lambda x: f"{x}) {q['options'][x]}",
-        index=None,
-        key=f"choice_{q['id']}"
-    )
-
-    correct = q["answer"]
-
-    # -------------------------------
-    # Estado de sessão corrigido
-    # -------------------------------
+    # Estado de sessão inicializado
     if "answered_correctly" not in st.session_state:
         st.session_state["answered_correctly"] = False
     if "last_question_id" not in st.session_state:
@@ -125,6 +116,19 @@ if filtered_questions:
     if st.session_state["last_question_id"] != q["id"]:
         st.session_state["answered_correctly"] = False
         st.session_state["last_question_id"] = q["id"]
+
+    # Criar chave única para evitar erro de duplicação
+    unique_key = f"radio_{exam_choice}_{domain_choice}_{subdomain_choice}_{q['id']}_{random.randint(1, 999999)}"
+
+    choice = st.radio(
+        "Alternativas:",
+        options=["A", "B", "C", "D"],
+        format_func=lambda x: f"{x}) {q['options'][x]}",
+        index=None,
+        key=unique_key
+    )
+
+    correct = q["answer"]
 
     # -------------------------------
     # Botão de resposta com feedback
@@ -141,7 +145,7 @@ if filtered_questions:
             st.session_state["answered_correctly"] = False
 
     # -------------------------------
-    # Mostrar botão “Próxima questão” apenas se acertar
+    # Próxima questão — só após acerto
     # -------------------------------
     if st.session_state["answered_correctly"]:
         if st.button("Próxima questão 🔁"):
@@ -158,14 +162,10 @@ if filtered_questions:
     total = len(questions)
     pct = (seen / total * 100) if total else 0.0
     st.progress(pct / 100)
-    st.markdown(f"### Progresso geral neste exame: `{pct:.1f}%`")
+    st.markdown(f"### Progresso neste exame: `{pct:.1f}%`")
 
 else:
     st.info("Ainda não há questões disponíveis para este subdomínio.")
-
-st.write("---")
-st.markdown("Feito com ❤️ para estudo profissional.")
-
 
 st.write("---")
 st.markdown("Feito com ❤️ para estudo profissional.")
