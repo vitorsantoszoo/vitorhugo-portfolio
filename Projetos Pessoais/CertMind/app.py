@@ -91,19 +91,43 @@ if filtered_questions:
     correct = q["answer"]
 
 # -------------------------------
-# Estado da sessão (corrigido)
+# 🎯 Modo Quiz — com feedback completo
 # -------------------------------
-if "answered_correctly" not in st.session_state:
-    st.session_state["answered_correctly"] = False
-if "last_question_id" not in st.session_state:
-    st.session_state["last_question_id"] = None
+if filtered_questions:
+    # Seleciona questão aleatória
+    q = random.choice(filtered_questions)
 
-# Se for uma nova questão, resetar estado
-if st.session_state["last_question_id"] != q["id"]:
-    st.session_state["answered_correctly"] = False
-    st.session_state["last_question_id"] = q["id"]
+    st.markdown(f"### Subdomínio: **{q['subdomain']}**")
+    st.write("---")
+    st.markdown(f"**Pergunta:** {q['stem_md']}")
 
-    # Botão de resposta
+    # Exibir alternativas
+    choice = st.radio(
+        "Escolha a alternativa correta:",
+        options=["A", "B", "C", "D"],
+        format_func=lambda x: f"{x}) {q['options'][x]}",
+        index=None,
+        key=f"choice_{q['id']}"
+    )
+
+    correct = q["answer"]
+
+    # -------------------------------
+    # Estado de sessão corrigido
+    # -------------------------------
+    if "answered_correctly" not in st.session_state:
+        st.session_state["answered_correctly"] = False
+    if "last_question_id" not in st.session_state:
+        st.session_state["last_question_id"] = None
+
+    # Resetar estado se for nova questão
+    if st.session_state["last_question_id"] != q["id"]:
+        st.session_state["answered_correctly"] = False
+        st.session_state["last_question_id"] = q["id"]
+
+    # -------------------------------
+    # Botão de resposta com feedback
+    # -------------------------------
     if st.button("Responder"):
         if choice is None:
             st.warning("⚠️ Escolha uma alternativa antes de responder.")
@@ -112,10 +136,20 @@ if st.session_state["last_question_id"] != q["id"]:
             st.session_state["answered_correctly"] = True
             mark_as_seen(exam_choice, q["domain"], q["subdomain"], q["id"])
         else:
-            st.error(f"❌ Resposta Incorreta! Tente novamente.")
+            st.error(f"❌ Resposta Incorreta! A alternativa {choice}) não é a correta. Tente novamente.")
             st.session_state["answered_correctly"] = False
 
-    # Exibir progresso do domínio
+    # -------------------------------
+    # Mostrar botão “Próxima questão” apenas se acertar
+    # -------------------------------
+    if st.session_state["answered_correctly"]:
+        if st.button("Próxima questão 🔁"):
+            st.session_state["answered_correctly"] = False
+            st.rerun()
+
+    # -------------------------------
+    # Barra de progresso do domínio
+    # -------------------------------
     seen = sum([
         1 for _q in questions
         if _q["id"] in set(progress.get(exam_choice, {}).get(_q["domain"], {}).get(_q["subdomain"], []))
@@ -125,13 +159,12 @@ if st.session_state["last_question_id"] != q["id"]:
     st.progress(pct / 100)
     st.markdown(f"### Progresso geral neste exame: `{pct:.1f}%`")
 
-    # Botão para próxima questão (só aparece se acertar)
-    if st.session_state["answered_correctly"]:
-        if st.button("Próxima questão 🔁"):
-            st.session_state["answered_correctly"] = False
-            st.rerun()
 else:
-    st.info("Ainda não há questões disponíveis para este exame.")
+    st.info("Ainda não há questões disponíveis para este subdomínio.")
+
+st.write("---")
+st.markdown("Feito com ❤️ para estudo profissional.")
+
 
 st.write("---")
 st.markdown("Feito com ❤️ para estudo profissional.")
