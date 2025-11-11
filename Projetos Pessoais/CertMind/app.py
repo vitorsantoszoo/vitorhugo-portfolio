@@ -73,22 +73,23 @@ progress = load_progress()
 
 if filtered_questions:
     # Seleciona questão aleatória
+    random.seed()  # garante chaves diferentes entre execuções
     q = random.choice(filtered_questions)
 
     st.markdown(f"### Subdomínio: **{q['subdomain']}**")
     st.write("---")
     st.markdown(f"**Pergunta:** {q['stem_md']}")
 
-    # Alternativas
-    choice = st.radio(
-        "Escolha a alternativa correta:",
-        options=["A", "B", "C", "D"],
-        format_func=lambda x: f"{x}) {q['options'][x]}",
-        index=None,
-        key=f"choice_{q['id']}"
-    )
+    # Gerar chave única de widget por questão + subdomínio + domínio
+unique_key = f"radio_{exam_choice}_{domain_choice}_{subdomain_choice}_{q['id']}_{random.randint(1, 999999)}"
 
-    correct = q["answer"]
+choice = st.radio(
+    "Escolha a alternativa correta:",
+    options=["A", "B", "C", "D"],
+    format_func=lambda x: f"{x}) {q['options'][x]}",
+    index=None,
+    key=unique_key
+)
 
 # -------------------------------
 # 🎯 Modo Quiz — com feedback completo
