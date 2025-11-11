@@ -90,14 +90,18 @@ if filtered_questions:
 
     correct = q["answer"]
 
-    # Estado da sessão
-    if "answered_correctly" not in st.session_state:
-        st.session_state["answered_correctly"] = False
-        st.session_state["last_question_id"] = q["id"]
+# -------------------------------
+# Estado da sessão (corrigido)
+# -------------------------------
+if "answered_correctly" not in st.session_state:
+    st.session_state["answered_correctly"] = False
+if "last_question_id" not in st.session_state:
+    st.session_state["last_question_id"] = None
 
-    if st.session_state["last_question_id"] != q["id"]:
-        st.session_state["answered_correctly"] = False
-        st.session_state["last_question_id"] = q["id"]
+# Se for uma nova questão, resetar estado
+if st.session_state["last_question_id"] != q["id"]:
+    st.session_state["answered_correctly"] = False
+    st.session_state["last_question_id"] = q["id"]
 
     # Botão de resposta
     if st.button("Responder"):
