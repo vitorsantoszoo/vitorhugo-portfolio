@@ -51,18 +51,31 @@ core2_qbank = load_json("core2_questions_refined.json")
 # -------------------------------
 exam_choice = st.selectbox(
     "📌 Qual exame deseja estudar?",
-    ["Core 1 (220-1201)", "Core 2 (220-1202)"]
+    ["Core 1 (220-1201)", "Core 2 (220-1202)"],
+    key="exam_select"
 )
 
 qbank = core1_qbank if exam_choice == "Core 1 (220-1201)" else core2_qbank
 questions = qbank["questions"]
 
-# Domínio e subdomínio
+# Domínios e subdomínios
 domains = sorted(set(q["domain"] for q in questions))
-domain_choice = st.selectbox("📂 Selecione um domínio:", domains)
+domain_choice = st.selectbox("📂 Selecione um domínio:", domains, key="domain_select")
 
 subdomains = sorted(set(q["subdomain"] for q in questions if q["domain"] == domain_choice))
-subdomain_choice = st.selectbox("🧩 Selecione um subdomínio:", subdomains)
+subdomain_choice = st.selectbox("🧩 Selecione um subdomínio:", subdomains, key="subdomain_select")
+
+# Resetar questão ao trocar domínio/subdomínio
+if "last_domain" not in st.session_state or "last_subdomain" not in st.session_state:
+    st.session_state["last_domain"] = None
+    st.session_state["last_subdomain"] = None
+
+if (st.session_state["last_domain"] != domain_choice) or (st.session_state["last_subdomain"] != subdomain_choice):
+    st.session_state["current_question"] = None
+    st.session_state["answered"] = False
+    st.session_state["answered_correctly"] = False
+    st.session_state["last_domain"] = domain_choice
+    st.session_state["last_subdomain"] = subdomain_choice
 
 filtered_questions = [q for q in questions if q["subdomain"] == subdomain_choice]
 
@@ -119,7 +132,7 @@ else:
             st.session_state["answered_correctly"] = False
             st.session_state["answered"] = True
 
-    # Mostra feedback se já respondeu
+    # Feedback e controle de fluxo
     if st.session_state["answered"]:
         if st.session_state["answered_correctly"]:
             if st.button("Próxima questão 🔁"):
