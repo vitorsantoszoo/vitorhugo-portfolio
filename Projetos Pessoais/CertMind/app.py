@@ -129,46 +129,72 @@ qbank = core1_qbank if exam_choice == "Core 1 (220-1201)" else core2_qbank
 domain_questions = questions_for_domain(qbank, domain_choice)
 
 # -------------------------------
-# 🎯 Modo Quiz — questões reais (MCQ)
+# 🎯 Modo Quiz — Pratique com questões reais (v2)
 # -------------------------------
 progress = load_progress()
 st.markdown("## 🎯 Modo Quiz — Pratique com questões reais")
 
 if domain_questions:
+    # Seleciona questão aleatória
     q = random.choice(domain_questions)
+    st.markdown(f"### 🧩 Questão sobre: **{q['subdomain']}**")
+    st.write("---")
 
-    st.markdown(q["stem_md"])
+    # Enunciado explicativo
+    st.markdown(
+        f"**Pergunta:**\n\n{q['stem_md']} "
+        "\n\nEscolha a alternativa correta abaixo:"
+    )
+
+    # Sessão de estado para armazenar tentativa e acerto
+    if "answered_correctly" not in st.session_state:
+        st.session_state["answered_correctly"] = False
+        st.session_state["last_question_id"] = q["id"]
+
+    # Se nova questão, resetar estado
+    if st.session_state["last_question_id"] != q["id"]:
+        st.session_state["answered_correctly"] = False
+        st.session_state["last_question_id"] = q["id"]
+
+    # Exibe alternativas
     choice = st.radio(
-        "Escolha uma alternativa:",
+        "Alternativas:",
         options=["A", "B", "C", "D"],
         format_func=lambda x: f"{x}) {q['options'][x]}",
         index=None,
-        key=q["id"]  # garante reset a cada nova questão
+        key=f"choice_{q['id']}"
     )
 
+    correct = q["answer"]
+
+    # Botão de resposta
     if st.button("Responder"):
-        correct = q["answer"]
         if choice is None:
             st.warning("Escolha uma alternativa antes de responder.")
         elif choice == correct:
-            st.success(f"✅ Correto! Alternativa {correct}.")
+            st.success(f"✅ Resposta Correta! Alternativa {correct}) {q['options'][correct]}")
+            st.session_state["answered_correctly"] = True
+            mark_as_seen(exam_choice, domain_choice, q["subdomain"], q["id"])
         else:
-            st.error(f"❌ Incorreto. Resposta certa: {correct}) {q['options'][correct]}")
+            st.error(f"❌ Resposta Incorreta! Tente novamente.")
+            st.session_state["answered_correctly"] = False
 
-        mark_as_seen(exam_choice, domain_choice, q["subdomain"], q["id"])
-
+    # Exibe progresso
     seen = sum([
         1 for _q in domain_questions
         if _q["id"] in set(progress.get(exam_choice, {}).get(domain_choice, {}).get(_q["subdomain"], []))
     ])
     total = len(domain_questions)
     pct = (seen / total * 100) if total else 0.0
-
     st.progress(pct / 100)
     st.markdown(f"### Progresso neste domínio: `{pct:.1f}%`")
 
-    if st.button("Próxima questão 🔁"):
-        st.experimental_rerun()
+    # Mostra botão "Próxima questão" somente após acerto
+    if st.session_state["answered_correctly"]:
+        if st.button("Próxima questão 🔁"):
+            st.session_state["answered_correctly"] = False
+            st.experimental_rerun()
+
 else:
     st.info("Ainda não há questões geradas para este domínio.")
 
