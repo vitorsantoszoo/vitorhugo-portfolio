@@ -1,6 +1,7 @@
 import json
 import os
 import random
+import time
 import streamlit as st
 from progress_manager import mark_as_seen, load_progress
 
@@ -47,7 +48,7 @@ core1_qbank = load_json("core1_questions_refined.json")
 core2_qbank = load_json("core2_questions_refined.json")
 
 # -------------------------------
-# Selecionar exame / domínio / subdomínio
+# Seleção de exame / domínio / subdomínio
 # -------------------------------
 exam_choice = st.selectbox(
     "📌 Qual exame deseja estudar?",
@@ -64,11 +65,13 @@ domain_choice = st.selectbox("📂 Selecione um domínio:", domains, key="domain
 subdomains = sorted(set(q["subdomain"] for q in questions if q["domain"] == domain_choice))
 subdomain_choice = st.selectbox("🧩 Selecione um subdomínio:", subdomains, key="subdomain_select")
 
-# 🔒 Bloquear edição manual (corrige comportamento visual)
+# 🔒 Evitar texto digitável inválido no selectbox
 if subdomain_choice not in subdomains:
     subdomain_choice = subdomains[0]
 
-# Resetar questão ao trocar domínio/subdomínio
+# -------------------------------
+# Reset de estado ao mudar domínio/subdomínio
+# -------------------------------
 if "last_domain" not in st.session_state or "last_subdomain" not in st.session_state:
     st.session_state["last_domain"] = None
     st.session_state["last_subdomain"] = None
@@ -80,6 +83,10 @@ if (st.session_state["last_domain"] != domain_choice) or (st.session_state["last
     st.session_state["last_subdomain"] = subdomain_choice
 
 filtered_questions = [q for q in questions if q["subdomain"] == subdomain_choice]
+
+# 🔄 Se houver mais de 10, sorteia 10 diferentes
+if len(filtered_questions) > 10:
+    filtered_questions = random.sample(filtered_questions, 10)
 
 st.markdown(f"## 🎯 Modo Quiz — {domain_choice}")
 progress = load_progress()
@@ -99,6 +106,9 @@ if st.session_state["current_question"] is None and filtered_questions:
 
 q = st.session_state["current_question"]
 
+# -------------------------------
+# Interface do Quiz
+# -------------------------------
 if not filtered_questions:
     st.info("Ainda não há questões disponíveis para este subdomínio.")
 else:
@@ -106,36 +116,39 @@ else:
     st.write("---")
     st.markdown(f"**Pergunta:** {q['stem_md']}")
 
-    # Escolha
-    choice = st.radio(
+    # 🎲 Embaralhar opções (sem alterar a correta)
+    options_shuffled = list(q["options"].items())
+    random.shuffle(options_shuffled)
+
+    # Mapeamento para saber qual é a resposta correta
+    answer_map = {opt: key for key, opt in q["options"].items()}
+    correct_answer_text = q["options"][q["answer"]]
+
+    # Exibir opções
+    choice_text = st.radio(
         "Escolha a alternativa correta:",
-        options=["A", "B", "C", "D"],
-        format_func=lambda x: f"{x}) {q['options'][x]}",
+        options=[opt for _, opt in options_shuffled],
         index=None,
         key=f"choice_{q['id']}"
     )
 
-    correct = q["answer"]
-
-    # Responder — sem travar reintentos
+    # Verificação de resposta
     if st.button("Responder"):
-        if choice is None:
+        if choice_text is None:
             st.warning("⚠️ Você precisa escolher uma alternativa antes de responder.")
-        elif choice == correct:
-            st.success(f"✅ Resposta Correta! Alternativa {correct}) {q['options'][correct]}")
+        elif choice_text == correct_answer_text:
+            st.success("✅ Resposta Correta!")
             st.session_state["answered_correctly"] = True
             mark_as_seen(exam_choice, domain_choice, subdomain_choice, q["id"])
-        else:
-            st.error("❌ Resposta Incorreta! Tente novamente.")
-
-    # Controle de próxima questão
-    if st.session_state["answered_correctly"]:
-        if st.button("Próxima questão 🔁"):
+            time.sleep(1)
+            # Pular automaticamente
             st.session_state["current_question"] = random.choice(filtered_questions)
             st.session_state["answered_correctly"] = False
             st.rerun()
+        else:
+            st.error("❌ Resposta Incorreta! Tente novamente.")
 
-    # Progresso
+    # Barra de progresso
     seen = sum([
         1 for _q in filtered_questions
         if _q["id"] in set(progress.get(exam_choice, {}).get(domain_choice, {}).get(subdomain_choice, []))
