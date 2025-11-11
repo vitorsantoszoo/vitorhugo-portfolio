@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "id": "1.1-01",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+      "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores?",
+      "options": {
+        "A": "macOS",
+        "B": "Windows Server",
+        "C": "Linux",
+        "D": "Chrome OS"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "1.2-01",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+      "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização?",
+      "options": {
+        "A": "Recovery Partition",
+        "B": "System Reserved",
+        "C": "EFI System Partition",
+        "D": "Boot Volume"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "1.3-01",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+      "stem
