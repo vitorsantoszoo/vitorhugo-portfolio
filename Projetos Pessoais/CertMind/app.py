@@ -113,37 +113,64 @@ for sub in subdomains:
 st.write("---")
 
 # -------------------------------
-# 🎯 Modo Quiz — recordação ativa (PT)
+# Carregar bancos de questões (MCQ geradas)
+# -------------------------------
+core1_qbank = load_json("core1_questions.json")
+core2_qbank = load_json("core2_questions.json")
+
+def questions_for_domain(qbank: dict, domain_title: str):
+    """Filtra questões do domínio selecionado."""
+    return [
+        q for q in qbank.get("questions", [])
+        if q["domain"] == domain_title
+    ]
+
+qbank = core1_qbank if exam_choice == "Core 1 (220-1201)" else core2_qbank
+domain_questions = questions_for_domain(qbank, domain_choice)
+
+# -------------------------------
+# 🎯 Modo Quiz — questões reais (MCQ)
 # -------------------------------
 progress = load_progress()
+st.markdown("## 🎯 Modo Quiz — Pratique com questões reais")
 
-pairs = [
-    (sub, bullet)
-    for sub in subdomains
-    for bullet in subdomains[sub]
-]
+if domain_questions:
+    q = random.choice(domain_questions)
 
-if pairs:
-    sub_sel, bullet_pt = random.choice(pairs)
+    st.markdown(q["stem_md"])
+    choice = st.radio(
+        "Escolha uma alternativa:",
+        options=["A", "B", "C", "D"],
+        format_func=lambda x: f"{x}) {q['options'][x]}",
+        index=None,
+        key=q["id"]  # garante reset a cada nova questão
+    )
 
-    st.markdown("## 🎯 Modo Quiz")
-    st.markdown(f"### Subdomínio: **{sub_sel}**")
-    st.markdown(f"**Item:**")
-    st.markdown(f"> {bullet_pt}")
+    if st.button("Responder"):
+        correct = q["answer"]
+        if choice is None:
+            st.warning("Escolha uma alternativa antes de responder.")
+        elif choice == correct:
+            st.success(f"✅ Correto! Alternativa {correct}.")
+        else:
+            st.error(f"❌ Incorreto. Resposta certa: {correct}) {q['options'][correct]}")
 
-    mark_as_seen(exam_choice, domain_choice, sub_sel, bullet_pt)
+        mark_as_seen(exam_choice, domain_choice, q["subdomain"], q["id"])
 
-    total = len(pairs)
     seen = sum([
-        len(progress.get(exam_choice, {}).get(domain_choice, {}).get(s, []))
-        for s in subdomains
+        1 for _q in domain_questions
+        if _q["id"] in set(progress.get(exam_choice, {}).get(domain_choice, {}).get(_q["subdomain"], []))
     ])
-    pct = (seen / total) * 100 if total > 0 else 0
+    total = len(domain_questions)
+    pct = (seen / total * 100) if total else 0.0
 
+    st.progress(pct / 100)
     st.markdown(f"### Progresso neste domínio: `{pct:.1f}%`")
 
+    if st.button("Próxima questão 🔁"):
+        st.experimental_rerun()
 else:
-    st.info("Não há itens neste domínio.")
+    st.info("Ainda não há questões geradas para este domínio.")
 
 st.write("---")
 st.markdown("Feito com ❤️ para estudo profissional.")
