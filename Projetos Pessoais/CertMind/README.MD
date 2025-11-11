@@ -49,7 +49,7 @@ Em futuras versões, estão planejadas as seguintes certificações:
 6. O app em **Streamlit** lê esses arquivos e exibe de forma interativa para estudo.
 
 ---
-
+```
 ## 📂 Estrutura do projeto
 
   CertMind/
@@ -61,7 +61,7 @@ Em futuras versões, estão planejadas as seguintes certificações:
   ├─ app.py
   ├─ requirements.txt
   └─ README.md ← este arquivo
-
+```
 ---
 
 ## ▶ Como executar localmente
