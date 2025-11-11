@@ -1,0 +1,2246 @@
+{
+  "exam": "220-1202",
+  "count": 160,
+  "questions": [
+    {
+      "id": "220-1202:2.0 Segurança:2.10:06",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "B": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "C": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "D": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:08",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "B": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "C": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "D": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:02",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "B": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "C": "Níveis de escalada Garantia e licenciamento Lista de verificação do usuário off-boarding",
+        "D": "Usuários Atribuídos Acordos de nível de serviço (SLAs)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:09",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Testes de caixa de areia Mudanças normais Implementação",
+        "B": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "C": "Data e hora da mudança Aceitação do usuário final",
+        "D": "Pedido de formulários Janelas de manutenção"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:11",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Diferencial 3-2-1 regra de backup",
+        "B": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "C": "Completo In-place/substitua No local vs. fora do local",
+        "D": "Backup Recuperação Esquemas de rotação de backup"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:06",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios",
+        "B": "Extensões e plug-ins Limpando cache Plug-ins",
+        "C": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "D": "Fontes confiáveis Modo de navegação privada Extensões"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:19",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Videoconferência",
+        "B": "Planilhas",
+        "C": "Ferramentas de colaboração",
+        "D": "Ferramentas de processamento de texto"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:20",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Descrição do procedimento de instalação do banco de dados de problemas (CMDB)",
+        "B": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "C": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "D": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:04",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação",
+        "B": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "C": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "D": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:16",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "B": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios",
+        "C": "Extensões e plug-ins Limpando cache Plug-ins",
+        "D": "Fontes confiáveis Modo de navegação privada Extensões"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:19",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Unidade central de processamento Implantação de imagem",
+        "B": "Requisitos de RAM Pacote para download",
+        "C": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "D": "Memória de acesso aleatório de vídeo Mídia física vs."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:13",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "B": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição",
+        "C": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "D": "Descrição do procedimento de instalação do banco de dados de problemas (CMDB)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:10",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "B": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "C": "Atualizações de firmware",
+        "D": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:05",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "B": "Unidade central de processamento Implantação de imagem",
+        "C": "Requisitos de RAM Pacote para download",
+        "D": "Dedicado vs. integrado Operação"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:09",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição",
+        "B": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado",
+        "C": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "D": "Categorias Asset tags e IDs Novo usuário/inboarding"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:07",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "B": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "C": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "D": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:07",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "B": "Requisitos de RAM Pacote para download",
+        "C": "Unidade central de processamento Implantação de imagem",
+        "D": "Requisitos do sistema (CPU) Considerações de impacto"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:17",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Atualizações de firmware",
+        "B": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "C": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "D": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:05",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Ferramentas de colaboração",
+        "C": "Sistemas de e-mail Sincronização de identidade",
+        "D": "Videoconferência"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:01",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Requisitos de RAM Pacote para download",
+        "B": "Dedicado vs. integrado Operação",
+        "C": "Requisitos do sistema (CPU) Considerações de impacto",
+        "D": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:19",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "B": "Fontes confiáveis Modo de navegação privada Extensões",
+        "C": "Fontes confiáveis Conexões seguras/ Proxy",
+        "D": "Fontes não confiáveis Configurações"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:15",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Requisitos do sistema (CPU) Considerações de impacto",
+        "B": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "C": "Dedicado vs. integrado Operação",
+        "D": "Requisitos de RAM Pacote para download"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:13",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Configurações de sincronização/pasta",
+        "C": "Sistemas de e-mail Sincronização de identidade",
+        "D": "Ferramentas de processamento de texto"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:13",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "ps Conta raiz",
+        "B": "cp Rede /etc/passwd",
+        "C": "encontrar traceroute",
+        "D": "Componentes do SO"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:20",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sintético completo Teste de backup",
+        "B": "Diferencial 3-2-1 regra de backup",
+        "C": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "D": "Completo In-place/substitua No local vs. fora do local"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:17",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "B": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "C": "Extensões e plug-ins Limpando cache Plug-ins",
+        "D": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:17",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Backup Recuperação Esquemas de rotação de backup",
+        "B": "Diferencial 3-2-1 regra de backup",
+        "C": "Completo In-place/substitua No local vs. fora do local",
+        "D": "Incremental Localização alternativa Avô-pai-filho (GFS)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:07",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "ip /etc/shadow",
+        "B": "gato bootloader",
+        "C": "top",
+        "D": "sudo df"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:15",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Descrição do procedimento de instalação do banco de dados de problemas (CMDB)",
+        "B": "Usuários Atribuídos Acordos de nível de serviço (SLAs)",
+        "C": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "D": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:02",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "ps Conta raiz",
+        "B": "cp Rede /etc/passwd",
+        "C": "sudo df",
+        "D": "ip /etc/shadow"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:08",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "ls apt nano",
+        "B": "ping /etc/hosts",
+        "C": "dig /etc/resolv.conf",
+        "D": "encontrar traceroute"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:16",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Completo In-place/substitua No local vs. fora do local",
+        "B": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "C": "Frequência",
+        "D": "Sintético completo Teste de backup"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:17",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "ls apt nano",
+        "B": "dig /etc/resolv.conf",
+        "C": "Gestão do sistema de ficheiros Informational systemd",
+        "D": "sudo df"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:12",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "B": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "C": "Atualizações de firmware",
+        "D": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:18",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Backup Recuperação Esquemas de rotação de backup",
+        "B": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "C": "Sintético completo Teste de backup",
+        "D": "Frequência"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:12",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição",
+        "B": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "C": "Níveis de escalada Garantia e licenciamento Lista de verificação do usuário off-boarding",
+        "D": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:15",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "pwd dnf",
+        "B": "gato bootloader",
+        "C": "encontrar traceroute",
+        "D": "Componentes do SO"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:07",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Finalidade da mudança Sistemas afetados/impacto",
+        "B": "Pedido de formulários Janelas de manutenção",
+        "C": "Plano de backup Mudança padrão Alterar aprovações da placa",
+        "D": "Data e hora da mudança Aceitação do usuário final"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:11",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes confiáveis Conexões seguras/ Proxy",
+        "B": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "C": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "D": "Remendar o navegador Limpar dados de navegação Ativar/desativar"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:11",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Dedicado vs. integrado Operação",
+        "B": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "C": "Requisitos do sistema (CPU) Considerações de impacto",
+        "D": "Requisitos de RAM Pacote para download"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:20",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação",
+        "B": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "C": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "D": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:14",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Mensagens instantâneas",
+        "C": "Ferramentas de colaboração",
+        "D": "Configurações de sincronização/pasta"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:19",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Completo In-place/substitua No local vs. fora do local",
+        "B": "Diferencial 3-2-1 regra de backup",
+        "C": "Frequência",
+        "D": "Sintético completo Teste de backup"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:12",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "homem kernel",
+        "B": "ls apt nano",
+        "C": "Gestão de ficheiros Gestão de pacotes Editores de texto",
+        "D": "sudo df"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:09",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Mensagens instantâneas",
+        "B": "Videoconferência",
+        "C": "Planilhas",
+        "D": "Tarefa de licenciamento"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:04",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Membros da equipe responsável Mudança de emergência Revisão por pares",
+        "B": "Gestão da mudança Alterar congelamento",
+        "C": "Finalidade da mudança Sistemas afetados/impacto",
+        "D": "Plano de backup Mudança padrão Alterar aprovações da placa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:11",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "B": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "C": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "D": "Usuários Atribuídos Acordos de nível de serviço (SLAs)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:06",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "B": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição",
+        "C": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "D": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:08",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Remendar o navegador Limpar dados de navegação Ativar/desativar",
+        "B": "Fontes confiáveis Modo de navegação privada Extensões",
+        "C": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios",
+        "D": "Fontes não confiáveis Dados de login/navegador Recursos"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:04",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de colaboração",
+        "B": "Ferramentas de apresentação",
+        "C": "Ferramentas de processamento de texto",
+        "D": "Sistemas de e-mail Sincronização de identidade"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:08",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "B": "Descrição do procedimento de instalação do banco de dados de problemas (CMDB)",
+        "C": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado",
+        "D": "Informações do usuário Procedimentos de listas de inventário (SOPs)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:14",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "B": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "C": "Atualizações de firmware",
+        "D": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:16",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "ping /etc/hosts",
+        "B": "Gestão do sistema de ficheiros Informational systemd",
+        "C": "homem kernel",
+        "D": "su du"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:20",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes confiáveis Conexões seguras/ Proxy",
+        "B": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "C": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "D": "Fontes confiáveis Modo de navegação privada Extensões"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:14",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "B": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "C": "Usuários Atribuídos Acordos de nível de serviço (SLAs)",
+        "D": "Níveis de escalada Garantia e licenciamento Lista de verificação do usuário off-boarding"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:18",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes não confiáveis Configurações",
+        "B": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios",
+        "C": "Extensões e plug-ins Limpando cache Plug-ins",
+        "D": "Fontes confiáveis Conexões seguras/ Proxy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:04",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "B": "Requisitos do sistema (CPU) Considerações de impacto",
+        "C": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "D": "Requisitos de RAM Pacote para download"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:04",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes confiáveis Conexões seguras/ Proxy",
+        "B": "Fontes não confiáveis Configurações",
+        "C": "Extensões e plug-ins Limpando cache Plug-ins",
+        "D": "Fontes confiáveis Modo de navegação privada Extensões"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:06",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Gestão de ficheiros Gestão de pacotes Editores de texto",
+        "B": "pwd dnf",
+        "C": "chown curl /etc/fstab",
+        "D": "ls apt nano"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:06",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Testes de caixa de areia Mudanças normais Implementação",
+        "B": "Plano de reversão Tipo de alteração Nível de risco",
+        "C": "Membros da equipe responsável Mudança de emergência Revisão por pares",
+        "D": "Plano de backup Mudança padrão Alterar aprovações da placa"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:17",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Finalidade da mudança Sistemas afetados/impacto",
+        "B": "Data e hora da mudança Aceitação do usuário final",
+        "C": "Membros da equipe responsável Mudança de emergência Revisão por pares",
+        "D": "Testes de caixa de areia Mudanças normais Implementação"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:13",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Completo In-place/substitua No local vs. fora do local",
+        "B": "Diferencial 3-2-1 regra de backup",
+        "C": "Sintético completo Teste de backup",
+        "D": "Incremental Localização alternativa Avô-pai-filho (GFS)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:09",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Gestão do sistema de ficheiros Informational systemd",
+        "B": "Componentes do SO",
+        "C": "homem kernel",
+        "D": "ps Conta raiz"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:18",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Requisitos de RAM Pacote para download",
+        "B": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "C": "Requisitos do sistema (CPU) Considerações de impacto",
+        "D": "Memória de acesso aleatório de vídeo Mídia física vs."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:10",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Usuários Atribuídos Acordos de nível de serviço (SLAs)",
+        "B": "Níveis de escalada Garantia e licenciamento Lista de verificação do usuário off-boarding",
+        "C": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "D": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:07",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sintético completo Teste de backup",
+        "B": "Completo In-place/substitua No local vs. fora do local",
+        "C": "Frequência",
+        "D": "Diferencial 3-2-1 regra de backup"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:18",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "B": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "C": "Descrição do procedimento de instalação do banco de dados de problemas (CMDB)",
+        "D": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:02",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "B": "Pedido de formulários Janelas de manutenção",
+        "C": "Gestão da mudança Alterar congelamento",
+        "D": "Membros da equipe responsável Mudança de emergência Revisão por pares"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:16",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Plano de backup Mudança padrão Alterar aprovações da placa",
+        "B": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "C": "Plano de reversão Tipo de alteração Nível de risco",
+        "D": "Membros da equipe responsável Mudança de emergência Revisão por pares"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:10",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Extensões e plug-ins Limpando cache Plug-ins",
+        "B": "Fontes confiáveis Conexões seguras/ Proxy",
+        "C": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios",
+        "D": "Fontes não confiáveis Configurações"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:13",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Remendar o navegador Limpar dados de navegação Ativar/desativar",
+        "B": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "C": "Fontes confiáveis Conexões seguras/ Proxy",
+        "D": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:05",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "chown curl /etc/fstab",
+        "B": "ip /etc/shadow",
+        "C": "ping /etc/hosts",
+        "D": "Gestão de ficheiros Gestão de pacotes Editores de texto"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:08",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Requisitos do sistema (CPU) Considerações de impacto",
+        "B": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "C": "Dedicado vs. integrado Operação",
+        "D": "Requisitos de RAM Pacote para download"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:12",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Sistemas de e-mail Sincronização de identidade",
+        "C": "Tarefa de licenciamento",
+        "D": "Ferramentas de processamento de texto"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:16",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "B": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "C": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "D": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:03",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Data e hora da mudança Aceitação do usuário final",
+        "B": "Membros da equipe responsável Mudança de emergência Revisão por pares",
+        "C": "Finalidade da mudança Sistemas afetados/impacto",
+        "D": "Plano de backup Mudança padrão Alterar aprovações da placa"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:04",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "mv Arquivos de configuração comuns",
+        "B": "dig /etc/resolv.conf",
+        "C": "cp Rede /etc/passwd",
+        "D": "su du"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:03",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Frequência",
+        "B": "Completo In-place/substitua No local vs. fora do local",
+        "C": "Diferencial 3-2-1 regra de backup",
+        "D": "Sintético completo Teste de backup"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:03",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "gato bootloader",
+        "B": "Gestão do sistema de ficheiros Informational systemd",
+        "C": "Gestão de ficheiros Gestão de pacotes Editores de texto",
+        "D": "pwd dnf"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:11",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Plano de backup Mudança padrão Alterar aprovações da placa",
+        "B": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "C": "Data e hora da mudança Aceitação do usuário final",
+        "D": "Testes de caixa de areia Mudanças normais Implementação"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:10",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "encontrar traceroute",
+        "B": "su du",
+        "C": "Componentes do SO",
+        "D": "gato bootloader"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:01",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "B": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "C": "Remendar o navegador Limpar dados de navegação Ativar/desativar",
+        "D": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:14",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Requisitos de RAM Pacote para download",
+        "B": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "C": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "D": "Requisitos do sistema (CPU) Considerações de impacto"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:15",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Data e hora da mudança Aceitação do usuário final",
+        "B": "Pedido de formulários Janelas de manutenção",
+        "C": "Testes de caixa de areia Mudanças normais Implementação",
+        "D": "Processos de negócios documentados mbito da mudança Análise de risco"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:09",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "B": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "C": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "D": "Atualizações de firmware"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:03",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "B": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado",
+        "C": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "D": "Descrição do procedimento de instalação do banco de dados de problemas (CMDB)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:05",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Usuários Atribuídos Acordos de nível de serviço (SLAs)",
+        "B": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "C": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "D": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:11",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "homem kernel",
+        "B": "ps Conta raiz",
+        "C": "Componentes do SO",
+        "D": "encontrar traceroute"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:18",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "B": "Atualizações de firmware",
+        "C": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação",
+        "D": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:07",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição",
+        "B": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "C": "Descrição do procedimento de instalação do banco de dados de problemas (CMDB)",
+        "D": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:03",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "B": "Unidade central de processamento Implantação de imagem",
+        "C": "Requisitos de RAM Pacote para download",
+        "D": "Dedicado vs. integrado Operação"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:10",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sintético completo Teste de backup",
+        "B": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "C": "Diferencial 3-2-1 regra de backup",
+        "D": "Frequência"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:11",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "B": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "C": "Atualizações de firmware",
+        "D": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:03",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "B": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "C": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "D": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:10",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Pedido de formulários Janelas de manutenção",
+        "B": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "C": "Data e hora da mudança Aceitação do usuário final",
+        "D": "Testes de caixa de areia Mudanças normais Implementação"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:06",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de processamento de texto",
+        "B": "Configurações de sincronização/pasta",
+        "C": "Tarefa de licenciamento",
+        "D": "Sistemas de e-mail Sincronização de identidade"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:18",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Tarefa de licenciamento",
+        "C": "Mensagens instantâneas",
+        "D": "Configurações de sincronização/pasta"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:20",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Mensagens instantâneas",
+        "C": "Planilhas",
+        "D": "Configurações de sincronização/pasta"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:02",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "B": "Atualizações de firmware",
+        "C": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação",
+        "D": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:03",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Configurações de sincronização/pasta",
+        "B": "Ferramentas de apresentação",
+        "C": "Planilhas",
+        "D": "Videoconferência"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:14",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes confiáveis Conexões seguras/ Proxy",
+        "B": "Fontes confiáveis Modo de navegação privada Extensões",
+        "C": "Remendar o navegador Limpar dados de navegação Ativar/desativar",
+        "D": "Fontes não confiáveis Dados de login/navegador Recursos"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:07",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes confiáveis Conexões seguras/ Proxy",
+        "B": "Fontes não confiáveis Configurações",
+        "C": "Extensões e plug-ins Limpando cache Plug-ins",
+        "D": "Fontes não confiáveis Dados de login/navegador Recursos"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:13",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Gestão da mudança Alterar congelamento",
+        "B": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "C": "Finalidade da mudança Sistemas afetados/impacto",
+        "D": "Data e hora da mudança Aceitação do usuário final"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:08",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sintético completo Teste de backup",
+        "B": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "C": "Frequência",
+        "D": "Completo In-place/substitua No local vs. fora do local"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:16",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Requisitos de RAM Pacote para download",
+        "B": "Dedicado vs. integrado Operação",
+        "C": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "D": "Memória de acesso aleatório de vídeo Mídia física vs."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:16",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Tarefa de licenciamento",
+        "B": "Sistemas de e-mail Sincronização de identidade",
+        "C": "Ferramentas de colaboração",
+        "D": "Planilhas"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:03",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "B": "Remendar o navegador Limpar dados de navegação Ativar/desativar",
+        "C": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "D": "Fontes não confiáveis Configurações"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:15",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes não confiáveis Configurações",
+        "B": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios",
+        "C": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "D": "Extensões e plug-ins Limpando cache Plug-ins"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:18",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Pedido de formulários Janelas de manutenção",
+        "B": "Testes de caixa de areia Mudanças normais Implementação",
+        "C": "Data e hora da mudança Aceitação do usuário final",
+        "D": "Membros da equipe responsável Mudança de emergência Revisão por pares"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:09",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Unidade central de processamento Implantação de imagem",
+        "B": "Requisitos de RAM Pacote para download",
+        "C": "Dedicado vs. integrado Operação",
+        "D": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:01",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado",
+        "B": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "C": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "D": "Usuários Atribuídos Acordos de nível de serviço (SLAs)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:12",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "B": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "C": "Unidade central de processamento Implantação de imagem",
+        "D": "Requisitos de RAM Pacote para download"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:17",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "B": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição",
+        "C": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado",
+        "D": "Informações do usuário Procedimentos de listas de inventário (SOPs)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:01",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Gestão de ficheiros Gestão de pacotes Editores de texto",
+        "B": "mv Arquivos de configuração comuns",
+        "C": "chown curl /etc/fstab",
+        "D": "ls apt nano"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:02",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Dedicado vs. integrado Operação",
+        "B": "Requisitos de RAM Pacote para download",
+        "C": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "D": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:15",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Videoconferência",
+        "B": "Planilhas",
+        "C": "Sistemas de e-mail Sincronização de identidade",
+        "D": "Configurações de sincronização/pasta"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:01",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Videoconferência",
+        "B": "Mensagens instantâneas",
+        "C": "Ferramentas de processamento de texto",
+        "D": "Configurações de sincronização/pasta"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:04",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Níveis de escalada Garantia e licenciamento Lista de verificação do usuário off-boarding",
+        "B": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "C": "Usuários Atribuídos Acordos de nível de serviço (SLAs)",
+        "D": "Informações do usuário Procedimentos de listas de inventário (SOPs)"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:12",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Diferencial 3-2-1 regra de backup",
+        "B": "Frequência",
+        "C": "Sintético completo Teste de backup",
+        "D": "Completo In-place/substitua No local vs. fora do local"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:01",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Plano de backup Mudança padrão Alterar aprovações da placa",
+        "B": "Gestão da mudança Alterar congelamento",
+        "C": "Testes de caixa de areia Mudanças normais Implementação",
+        "D": "Finalidade da mudança Sistemas afetados/impacto"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:14",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Finalidade da mudança Sistemas afetados/impacto",
+        "B": "Gestão da mudança Alterar congelamento",
+        "C": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "D": "Plano de reversão Tipo de alteração Nível de risco"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:20",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "cp Rede /etc/passwd",
+        "B": "chown curl /etc/fstab",
+        "C": "ping /etc/hosts",
+        "D": "Gestão de ficheiros Gestão de pacotes Editores de texto"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:05",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Backup Recuperação Esquemas de rotação de backup",
+        "B": "Sintético completo Teste de backup",
+        "C": "Completo In-place/substitua No local vs. fora do local",
+        "D": "Frequência"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:09",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes não confiáveis Configurações",
+        "B": "Fontes não confiáveis Dados de login/navegador Recursos",
+        "C": "Remendar o navegador Limpar dados de navegação Ativar/desativar",
+        "D": "Bloqueador de pop-up Gerenciamento de recursos do navegador"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:20",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Unidade central de processamento Implantação de imagem",
+        "B": "Requisitos do sistema (CPU) Considerações de impacto",
+        "C": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "D": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:08",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Testes de caixa de areia Mudanças normais Implementação",
+        "B": "Plano de backup Mudança padrão Alterar aprovações da placa",
+        "C": "Data e hora da mudança Aceitação do usuário final",
+        "D": "Membros da equipe responsável Mudança de emergência Revisão por pares"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:19",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação",
+        "B": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "C": "Atualizações de firmware",
+        "D": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:19",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Membros da equipe responsável Mudança de emergência Revisão por pares",
+        "B": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "C": "Plano de reversão Tipo de alteração Nível de risco",
+        "D": "Plano de backup Mudança padrão Alterar aprovações da placa"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:16",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão",
+        "B": "Informações sobre o dispositivo Gerenciamento de configuração Pacote de software personalizado",
+        "C": "Informações do usuário Procedimentos de listas de inventário (SOPs)",
+        "D": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:20",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Membros da equipe responsável Mudança de emergência Revisão por pares",
+        "B": "Data e hora da mudança Aceitação do usuário final",
+        "C": "Testes de caixa de areia Mudanças normais Implementação",
+        "D": "Plano de reversão Tipo de alteração Nível de risco"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:02",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Extensões e plug-ins Limpando cache Plug-ins",
+        "B": "Fontes confiáveis Modo de navegação privada Extensões",
+        "C": "Bloqueador de pop-up Gerenciamento de recursos do navegador",
+        "D": "Fontes confiáveis Conexões seguras/ Proxy"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:14",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "B": "Backup Recuperação Esquemas de rotação de backup",
+        "C": "Diferencial 3-2-1 regra de backup",
+        "D": "Completo In-place/substitua No local vs. fora do local"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:04",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Diferencial 3-2-1 regra de backup",
+        "B": "Sintético completo Teste de backup",
+        "C": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "D": "Backup Recuperação Esquemas de rotação de backup"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:13",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "B": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "C": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "D": "Atualizações de firmware"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:02",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Sintético completo Teste de backup",
+        "B": "Completo In-place/substitua No local vs. fora do local",
+        "C": "Frequência",
+        "D": "Incremental Localização alternativa Avô-pai-filho (GFS)"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:01",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação",
+        "B": "Filtragem de conteúdo Específico sem fios Definições de firewall",
+        "C": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados",
+        "D": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:13",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo",
+        "B": "Unidade central de processamento Implantação de imagem",
+        "C": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "D": "Requisitos de RAM Pacote para download"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:12",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes confiáveis Modo de navegação privada Extensões",
+        "B": "Download/instalação do navegador Gestores de palavra-passe Bloqueadores de anúncios",
+        "C": "Fontes não confiáveis Configurações",
+        "D": "Fontes não confiáveis Dados de login/navegador Recursos"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.11:05",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.11",
+      "stem_md": "Sobre **2.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Fontes não confiáveis Configurações",
+        "B": "Fontes confiáveis Conexões seguras/ Proxy",
+        "C": "Fontes confiáveis Modo de navegação privada Extensões",
+        "D": "Remendar o navegador Limpar dados de navegação Ativar/desativar"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:05",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Pedido de formulários Janelas de manutenção",
+        "B": "Plano de reversão Tipo de alteração Nível de risco",
+        "C": "Testes de caixa de areia Mudanças normais Implementação",
+        "D": "Data e hora da mudança Aceitação do usuário final"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:11",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Videoconferência",
+        "B": "Mensagens instantâneas",
+        "C": "Ferramentas de processamento de texto",
+        "D": "Tarefa de licenciamento"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:06",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Requisitos de RAM Pacote para download",
+        "B": "Unidade central de processamento Implantação de imagem",
+        "C": "Requisitos do sistema (CPU) Considerações de impacto",
+        "D": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:15",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Diferencial 3-2-1 regra de backup",
+        "B": "Frequência",
+        "C": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "D": "Completo In-place/substitua No local vs. fora do local"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:18",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "top",
+        "B": "ip /etc/shadow",
+        "C": "homem kernel",
+        "D": "pwd dnf"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:15",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "B": "Atualizações de firmware",
+        "C": "Configurações do roteador Sub-rede rastreada Desabilitando a transmissão SSID",
+        "D": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:19",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "ps Conta raiz",
+        "B": "ip /etc/shadow",
+        "C": "mv Arquivos de configuração comuns",
+        "D": "cp Rede /etc/passwd"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:09",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Completo In-place/substitua No local vs. fora do local",
+        "B": "Sintético completo Teste de backup",
+        "C": "Backup Recuperação Esquemas de rotação de backup",
+        "D": "Frequência"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.1:19",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.1",
+      "stem_md": "Sobre **4.1**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Categorias Asset tags e IDs Novo usuário/inboarding",
+        "B": "Severidade Lista de verificação de configuração do ciclo de vida da aquisição",
+        "C": "Níveis de escalada Garantia e licenciamento Lista de verificação do usuário off-boarding",
+        "D": "Sistemas de Ticketing Gestão de ativos Funcionamento padrão"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:01",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Completo In-place/substitua No local vs. fora do local",
+        "B": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "C": "Sintético completo Teste de backup",
+        "D": "Frequência"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.9:14",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.9",
+      "stem_md": "Sobre **1.9**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "pwd dnf",
+        "B": "sudo df",
+        "C": "su du",
+        "D": "Componentes do SO"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.3:06",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.3",
+      "stem_md": "Sobre **4.3**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Completo In-place/substitua No local vs. fora do local",
+        "B": "Sintético completo Teste de backup",
+        "C": "Incremental Localização alternativa Avô-pai-filho (GFS)",
+        "D": "Diferencial 3-2-1 regra de backup"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:07",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Sistemas de e-mail Sincronização de identidade",
+        "C": "Ferramentas de colaboração",
+        "D": "Configurações de sincronização/pasta"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:10",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "B": "Requisitos do sistema (CPU) Considerações de impacto",
+        "C": "Dedicado vs. integrado Operação",
+        "D": "32-bit vs. 64-bit dependente Requisitos de armazenamento Dispositivo"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:10",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de processamento de texto",
+        "B": "Ferramentas de colaboração",
+        "C": "Videoconferência",
+        "D": "Mensagens instantâneas"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:2.0 Segurança:2.10:05",
+      "exam": "220-1202",
+      "domain": "2.0 Segurança",
+      "subdomain": "2.10",
+      "stem_md": "Sobre **2.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Identificador de conjunto Universal Plug and Play (UPnP) (SSID) Encaminhamento/mapeamento de porta",
+        "B": "Acesso de gerenciamento de filtragem IP Configurando o acesso de hóspedes",
+        "C": "Alterar palavras-passe predefinidas Configurar seguro Definições de encriptação",
+        "D": "Locais de posicionamento físico/seguros Mudando o serviço Desativando portos não utilizados"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:17",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Ferramentas de apresentação",
+        "B": "Ferramentas de processamento de texto",
+        "C": "Mensagens instantâneas",
+        "D": "Planilhas"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:08",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Tarefa de licenciamento",
+        "B": "Ferramentas de colaboração",
+        "C": "Sistemas de e-mail Sincronização de identidade",
+        "D": "Ferramentas de apresentação"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.11:02",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.11",
+      "stem_md": "Sobre **1.11**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Planilhas",
+        "B": "Configurações de sincronização/pasta",
+        "C": "Ferramentas de colaboração",
+        "D": "Ferramentas de processamento de texto"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "220-1202:1.0 Sistemas Operacionais:1.10:17",
+      "exam": "220-1202",
+      "domain": "1.0 Sistemas Operacionais",
+      "subdomain": "1.10",
+      "stem_md": "Sobre **1.10**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Memória de acesso aleatório de vídeo Mídia física vs.",
+        "B": "Dedicado vs. integrado Operação",
+        "C": "Unidade central de processamento Implantação de imagem",
+        "D": "Requisitos do sistema (CPU) Considerações de impacto"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "220-1202:4.0 Operações e apoio:4.2:12",
+      "exam": "220-1202",
+      "domain": "4.0 Operações e apoio",
+      "subdomain": "4.2",
+      "stem_md": "Sobre **4.2**, qual afirmação está CORRETA?",
+      "options": {
+        "A": "Testes de caixa de areia Mudanças normais Implementação",
+        "B": "Plano de backup Mudança padrão Alterar aprovações da placa",
+        "C": "Processos de negócios documentados mbito da mudança Análise de risco",
+        "D": "Membros da equipe responsável Mudança de emergência Revisão por pares"
+      },
+      "answer": "A"
+    }
+  ]
+}
