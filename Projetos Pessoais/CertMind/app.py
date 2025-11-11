@@ -12,12 +12,29 @@ st.set_page_config(
 
 st.markdown("""
 # 🧠 **CertMind**
-### Aprendizado assistido para certificações técnicas internacionais
----
-Este aplicativo permite estudar conteúdos oficiais de certificações como CompTIA A+ de forma organizada e estruturada.
 
-Selecione abaixo o exame e o domínio para visualizar os tópicos em português.
+### Estudo guiado para CompTIA A+ (Objetivos Oficiais)
+
+---
+
+Este aplicativo **não é um curso teórico**.  
+Ele **não ensina a matéria** diretamente ele mostra **os Objetivos Oficiais da CompTIA** (blueprint da prova), que definem *o que* será cobrado nos exames:
+
+- Core 1 (220-1201)
+- Core 2 (220-1202)
+
+Esses objetivos são exclusivamente listas de tópicos — **não possuem textos explicativos**.
+
+A proposta do CertMind é:
+
+**→ Mostrar o que realmente cai na prova**  
+**→ Gerar questões simuladas baseadas nesses tópicos (modo Quiz)**
+
+Assim você treina *recordação ativa* e internaliza os itens que a prova realmente cobra.
+
+Escolha abaixo o exame e o domínio para estudar.
 """)
+
 
 # -------------------------------
 # Carregar JSONs
