@@ -16,6 +16,36 @@ Este aplicativo permite estudar conteúdos oficiais de certificações como Comp
 Selecione abaixo o exame e o domínio para visualizar os tópicos em português.
 """)
 
+# ===============================
+# Estatísticas / Landing PRO
+# ===============================
+
+def contar_stats(db: dict):
+    doms = len(db.keys())
+    subs = sum([len(db[d]) for d in db])
+    bullets = sum([len(db[d][s]) for d in db for s in db[d]])
+    return doms, subs, bullets
+
+core1_stats = contar_stats(core1_pt)
+core2_stats = contar_stats(core2_pt)
+
+st.write("### 🔍 Estatísticas do Conteúdo")
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("**Core 1 (220-1201)**")
+    st.write(f"- Domínios: {core1_stats[0]}")
+    st.write(f"- Subdomínios: {core1_stats[1]}")
+    st.write(f"- Bullets: {core1_stats[2]}")
+
+with col2:
+    st.markdown("**Core 2 (220-1202)**")
+    st.write(f"- Domínios: {core2_stats[0]}")
+    st.write(f"- Subdomínios: {core2_stats[1]}")
+    st.write(f"- Bullets: {core2_stats[2]}")
+
+st.write("---")
+
 # -------------------------------
 # Carregar JSONs
 # -------------------------------
