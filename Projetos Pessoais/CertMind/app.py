@@ -32,8 +32,6 @@ def load_json(filename):
 
 core1_pt = load_json("core1_pt.json")
 core2_pt = load_json("core2_pt.json")
-core1_en = load_json("core1_en.json")
-core2_en = load_json("core2_en.json")
 
 # -------------------------------
 # Seleção de EXAME
@@ -84,11 +82,11 @@ for sub in subdomains:
 if pairs:
 
     # escolher item aleatório
-    sub_sel, bullet_en = random.choice(pairs)
+    sub_sel, bullet_pt = random.choice(pairs)
 
-    st.markdown(f"### Subdomínio: **{sub_sel}**")
-    st.markdown(f"**Termo em Inglês:**")
-    st.markdown(f"> {bullet_en}")
+st.markdown(f"### Subdomínio: **{sub_sel}**")
+st.markdown(f"**Item:**")
+st.markdown(f"> {bullet_pt}")
 
     if st.button("Mostrar Tradução"):
         # encontrar PT correspondente
