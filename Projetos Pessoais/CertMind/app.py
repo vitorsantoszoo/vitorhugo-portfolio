@@ -46,8 +46,8 @@ def load_json(filename):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-core1_pt = load_json("core1_pt.json")
-core2_pt = load_json("core2_pt.json")
+core1_qbank = load_json("core1_questions_refined.json")
+core2_qbank = load_json("core2_questions_refined.json")
 
 # ===============================
 # Estatísticas / Landing PRO
