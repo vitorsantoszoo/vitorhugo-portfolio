@@ -1,0 +1,145 @@
+{
+  "1.0 Dispositivos móveis": {
+    "1.1": [
+      "Conector/colo da antena Wi-Fi",
+      "Teclado/chaves Câmera/webcam",
+      "Memória de acesso aleatório (RAM) Microfone",
+      "Unidade de disco rígido (HDD)/unidade de estado sólido (SSD)",
+      "Cartões sem fio",
+      "Componentes físicos de privacidade e segurança",
+      "biometria",
+      "Recursos de scanner de campo próximo"
+    ],
+    "1.2": [
+      "Métodos de conexão Docking station",
+      "nibus Serial Universal (USB)/USB-C/microUSB/miniUSB Replicador de porta",
+      "Trackpad/drawing pad/track points",
+      "Comunicação de campo próximo (NFC)",
+      "Bluetooth Bluetooth",
+      "Tethering/hotspot",
+      "Acessórios",
+      "Stylus",
+      "Headsets",
+      "Oradores",
+      "Webcam"
+    ],
+    "1.3": [
+      "Dados sem fios/celular Serviços de localização Contactos",
+      "Serviços 3G/4G/5G (GPS) Mail",
+      "Hotspot Serviços de localização celular Armazenamento em nuvem",
+      "Wi-Fi",
+      "Identidade do Assinante Gerenciamento de dispositivos móveis (MDM)",
+      "Traga seu próprio dispositivo (BYOD)",
+      "Habilitar Bluetooth Aplicação de políticas",
+      "Habiliting Aplicações corporativas",
+      "Encontre um dispositivo para emparelhar",
+      "Sincronização do dispositivo móvel",
+      "Conectividade de teste Calendário"
+    ]
+  },
+  "2.0 Redes": {
+    "2.7": [
+      "Tipos de conexão à Internet Tipos de rede",
+      "LAN",
+      "Fibra Rede de área ampla (WAN)",
+      "Cabo Rede de área pessoal (PAN)",
+      "DSL Rede de Área Metropolitana (MAN)",
+      "Rede de área de armazenamento (SAN)",
+      "Serviço de internet sem fio Rede de área local sem fio (WLAN)"
+    ],
+    "2.8": [
+      "Crimper Ferramenta Punchdown",
+      "stripper Testador de cabos",
+      "Analisador Wi-Fi Loopback plug",
+      "Sonda de toner Toque em rede"
+    ]
+  },
+  "3.0 Hardware": {
+    "3.7": [
+      "Dispositivo de descaixa e Dispositivos públicos/compartilhados Registros de auditoria",
+      "Use drivers apropriados para Servidor de impressão",
+      "Idioma de Controle da Impressora Configurações de Configuração E-mail",
+      "Orientação Serviços em nuvem",
+      "Firmware Configurações de bandeja",
+      "Conectividade do dispositivo Qualidade Alimentador automático de documentos",
+      "USB (ADF) / scanner plano",
+      "Ethernet Segurança",
+      "Autenticação do usuário",
+      "Badging"
+    ],
+    "3.8": [
+      "Laser térmico",
+      "Manutenção: Substitua o toner, aplique Conjunto de alimentação",
+      "Manutenção: Substituir papel, limpo",
+      "Elemento de aquecimento a jato de tinta e remover detritos",
+      "Cartucho de tinta, cabeça de impressão,",
+      "Manutenção: Limpo Papel multiparts"
+    ]
+  },
+  "4.0 Virtualização e Computação em Nuvem": {
+    "4.1": [
+      "Finalidade das máquinas virtuais Virtualização de desktop",
+      "Sandbox Virtual Desktop Infrastructure (VDI)",
+      "Desenvolvimento de teste",
+      "Virtualização de aplicativos Containers",
+      "Tipo 2",
+      "Requisitos",
+      "Segurança",
+      "Rede",
+      "Armazenamento"
+    ],
+    "4.2": [
+      "Modelos comuns de nuvem Características da nuvem",
+      "Nuvem privada Recursos compartilhados vs.",
+      "Recursos dedicados à nuvem pública",
+      "Nuvem híbrida Utilização medida",
+      "Nuvem comunitária Ingress/egress",
+      "Infraestrutura como serviço (IaaS) Elasticidade",
+      "Software como serviço (SaaS) Disponibilidade",
+      "Plataforma como serviço (PaaS) Sincronização de ficheiros",
+      "Multitenancy"
+    ]
+  },
+  "5.0 Solução de problemas de Hardware e Rede": {
+    "5.5": [
+      "Sintomas comuns Flapping do porto",
+      "Conectividade sem fios intermitente Alta latência",
+      "Velocidades de rede lentas Interferência externa",
+      "Conectividade limitada Falhas na autenticação",
+      "Jitter Conectividade de internet intermitente",
+      "Pobre Voz pela Internet"
+    ],
+    "5.6": [
+      "Linhas para baixo as páginas impressas Speckling em páginas impressas Orientação incorreta da página",
+      "Garbled print Imagens duplas/eco na impressão Bandeja não reconhecida",
+      "Compotas de papel Ruído de moedura Problemas de conectividade",
+      "Impressões falsificadas Problemas de acabamento Fila de impressão congelada",
+      "Papel não se alimentando Compo",
+      "Multipage misfeed Buraco perfurado",
+      "Várias impressões pendentes na fila",
+      "Tablet/smartphone Apple Placas-mãe Chaves de fenda",
+      "Android tablet/smartphone RAM Multímetro",
+      "Tablet Windows Discos rígidos Cortadores de fio",
+      "Chromebook Fontes de alimentação Ferramenta Punchdown",
+      "Laptop/Mac portátil para Windows/Mac portátil/ Placas de vídeo Crimper",
+      "Área de trabalho do Windows/Mac desktop/ Placas de rede stripper de cabo",
+      "Servidor Windows com Active Fãs/dispositivos de refrigeração / dissipador de calor Descarga eletrostática",
+      "Monitores Conectores/cabos variados Pasta térmica",
+      "Projetores - USB Testador de cabos",
+      "router/switch SOHO - HDMI Toner de cabo",
+      "Ponto de acesso - DisplayPort Analisador Wi-Fi",
+      "telefone VoIP - DVI Serial Tecnologia Avançada",
+      "Impressora - VGA Anexo (SATA) a USB",
+      "Cabo supressor de surtos/conectores - Linux",
+      "Adaptadores CA UPS CA",
+      "Dispositivos inteligentes (dispositivos IoT) Unidades ópticas",
+      "Servidor com hipervisor Parafusos/parafusos",
+      "Punchdown block Casos",
+      "Painel de Patch Kit de manutenção",
+      "Webcams Ratos/teclados",
+      "Alto-falantes Teclado-Vídeo-Mouse (KVM)",
+      "Microfones Cabo de console",
+      "SSD"
+    ]
+  }
+}
