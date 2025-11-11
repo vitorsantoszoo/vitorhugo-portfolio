@@ -1,0 +1,294 @@
+{
+    "1.0 Dispositivos móveis": {
+        "1.1": [
+            "Conector/colo da antena Wi-Fi",
+            "Teclado/chaves  Câmera/webcam",
+            "Memória de acesso aleatório (RAM)  Microfone",
+            "Unidade de disco rígido (HDD) / unidade de estado sólido (SSD)",
+            "Cartões sem fio",
+            "Componentes físicos de privacidade e segurança",
+            "biometria",
+            "Recursos de scanner de campo próximo"
+        ],
+        "1.2": [
+            "Métodos de conexão  Docking station",
+            "nibus Serial Universal (USB)/USB-C/microUSB/miniUSB  Replicador de porta",
+            "Trackpad/drawing pad/track points",
+            "Comunicação de campo próximo (NFC)",
+            "Bluetooth Bluetooth",
+            "Tethering/hotspot",
+            "Acessórios",
+            "Stylus",
+            "Headsets",
+            "Oradores",
+            "Webcam"
+        ],
+        "1.3": [
+            "Dados sem fios/celular  Serviços de localização  Contactos",
+            "Serviços 3G/4G/5G (GPS)  Mail",
+            "Hotspot  Serviços de localização celular  Armazenamento em nuvem",
+            "Wi-Fi",
+            "Identidade do Assinante  Gerenciamento de dispositivos móveis (MDM)",
+            "Traga seu próprio dispositivo (BYOD)",
+            "Habilitar Bluetooth  Aplicação de políticas",
+            "Habilitar emparelhamento  Aplicações corporativas",
+            "Encontre um dispositivo para emparelhar",
+            "Sincronização do dispositivo móvel",
+            "Conectividade de teste  Calendário"
+        ]
+    },
+    "Rede 2.0": {
+        "2.1": [
+            "Portos e protocolos  80 – Protocolo de Acesso a Transferência de Hipertexto (LDAP)",
+            "20-21 – Protocolo de Protocolo de Transferência de Ficheiros (FTP) (HTTP)  443 – Transferência de Hipertexto",
+            "22 – Secure Shell (SSH)  110 – Post Office Protocol 3 (POP3) Protocol Secure (HTTPS)",
+            "23 – Telnet  143 – Acesso por Correio Internet  445 – Bloco de Mensagens do Servidor (SMB)/",
+            "25 – Simple Mail Transfer Protocol (IMAP) Common Internet File System (CIFS)",
+            "53 – Sistema de Saída de Sistema de Nome de Domínio (DNS) (NetBIOS)/ Protocolo (RDP)",
+            "67/68 – Anfitrião dinâmico NetBIOS sobre TCP/IP (NetBT)"
+        ],
+        "2.2": [
+            "Frequências  Canais  Bluetooth",
+            "2.4GHz  Regulamentos  Normas 802.11",
+            "5GHz  Seleção de canais  NFC",
+            "6GHz  Larguras  Radiofrequência"
+        ],
+        "2.3": [
+            "Funções do servidor  Eletrodomésticos",
+            "DNS  Gateways de Spam",
+            "DHCP Gerenciamento unificado de ameaças (UTM)",
+            "Partilha de Ficheiros  Load balancers",
+            "Servidores de impressão  Servidores proxy",
+            "Servidores de correio",
+            "Syslog  Sistemas legados/incorporados",
+            "Servidores Web  Controle de supervisão e dados",
+            "Autenticação, Autorização, Aquisição (SCADA)",
+            "Dispositivos de Internet das Coisas (IoT)",
+            "Servidores de banco de dados",
+            "Protocolo de tempo de rede (NTP)"
+        ],
+        "2.4": [
+            "DNS  Mensagem baseada em domínio  LAN virtual [área local",
+            "Autenticação, relatórios, rede] (VLAN)",
+            "AAAA e Conformidade (DMARC)  Rede privada virtual (VPN)",
+            "Nome Canonical (CNAME)",
+            "Trocador de correio (MX)  DHCP",
+            "Texto (TXT)  Locações"
+        ],
+        "2.5": [
+            "Roteadores  modem a cabo",
+            "Interruptores  Linha de assinante digital (DSL)",
+            "Gerenciado  Terminal de rede óptica (ONT)",
+            "Placa de interface de rede (NIC)",
+            "Acesso físico aos meios de comunicação",
+            "Endereço de controle de pontos de acesso (MAC)",
+            "Painel Patch",
+            "Firewall Firewall",
+            "Power over Ethernet (PoE)",
+            "Injetores",
+            "Interruptor",
+            "Padrões PoE"
+        ],
+        "2.6": [
+            "Protocolo de Internet (IP) endereçamento",
+            "IPv4",
+            "IPv6",
+            "IP privado automático",
+            "Estática",
+            "Dinâmico Dinâmico",
+            "Máscara de sub-rede",
+            "Gateway Gateway"
+        ],
+        "2.7": [
+            "Tipos de conexão à Internet  Tipos de rede",
+            "LAN satélite",
+            "Fibra  Rede de área ampla (WAN)",
+            "Cabo  Rede de área pessoal (PAN)",
+            "DSL  Rede de Área Metropolitana (MAN)",
+            "Rede de área de armazenamento (SAN)",
+            "Serviço de internet sem fio  Rede de área local sem fio (WLAN)"
+        ],
+        "2.8": [
+            "Crimper  Ferramenta Punchdown",
+            "stripper  Testador de cabos",
+            "Analisador Wi-Fi  Loopback plug",
+            "Sonda de toner  Toque em rede"
+        ]
+    },
+    "3.0 Hardware": {
+        "3.1": [
+            "Tipos  Ecrã táctil/digitalizador",
+            "Exposição de cristal líquido (LCD)  Inversor",
+            "Diodo emissor de luz orgânico (OLED)  Resolução da tela",
+            "Diodo emissor de luz Mini (Mini-LED)  Gama de cores"
+        ],
+        "3.2": [
+            "Cabos de rede  Thunderbolt  RJ45",
+            "Cobre  F-tipo",
+            "USB-C  USB-C",
+            "ptica  Molex",
+            "Cabos de disco rígido",
+            "Tecnologia Serial Avançada",
+            "Cabos periféricos  SATA Externo (eSATA)",
+            "USB 2.0",
+            "Adaptadores",
+            "USB 3.0",
+            "Tipos de conectores",
+            "Serial",
+            "RJ11"
+        ],
+        "3.3": [
+            "iterações de Taxa de Dados Duplos (DDR)",
+            "Em linha  Código de correção de erro (ECC)",
+            "Módulo de memória em linha dupla (DIMM)  Configurações de canal"
+        ],
+        "3.4": [
+            "Discos rígidos  Componente periférico  Configurações de unidade",
+            "Velocidades do eixo do eixo Interconnect Express (PCIe)  Redundant Array of Independent",
+            "Fatores de forma  Serial Attached SCSI Disks (RAID) 0, 1, 5, 6, 10",
+            "Fatores de forma  Flash drives",
+            "Unidades de estado sólido  M.2  Cartões de memória",
+            "Interfaces de comunicação  Mini-serial Tecnologia Avançada"
+        ],
+        "3.5": [
+            "Fatores de forma de motherboard  BIOS / Firmware Extensível Unificado  Cartões de expansão",
+            "Configurações de interface de tecnologia avançada (UEFI)  Placa de som",
+            "microATX  Permissões USB  Cartão de captura",
+            "Tecnologia da Informação  Trusted Platform Module  Placa de interface de rede",
+            "Considerações dos fãs  Refrigeração",
+            "Tipos de conectores de placa-mãe  Secure Boot  Fãs",
+            "Componente periférico  Palavra-passe de arranque  dissipador de calor",
+            "PCIe  Monitorização da temperatura  Líquido",
+            "Conectores de alimentação",
+            "SATA  Suporte à virtualização",
+            "eSATA  Criptografia",
+            "Cabeçalhos  TPM",
+            "M.2  Módulo de segurança de hardware (HSM)",
+            "Compatibilidade com a placa-mãe  Arquitetura CPU",
+            "Tipos de soquete de CPU  x86/x64",
+            "Multisocket  Configurações do núcleo"
+        ],
+        "3.6": [
+            "Entrada 110120 VAC vs.  Fonte de alimentação modular",
+            "Saída 3.3V vs. 5V vs. 12V  Eficiência energética",
+            "Conector de placa-mãe de 20 + 4 pinos",
+            "Fonte de alimentação redundante"
+        ],
+        "3.7": [
+            "Dispositivo de descaixa e  Dispositivos públicos/compartilhados  Registros de auditoria",
+            "Use drivers apropriados para  Servidor de impressão",
+            "Idioma de Controle da Impressora  Configurações de Configuração  E-mail",
+            "Orientação  Serviços em nuvem",
+            "Firmware  Configurações de bandeja",
+            "Conectividade do dispositivo  Qualidade  Alimentador automático de documentos",
+            "Scanner USB (ADF)/plano",
+            "Ethernet  Segurança",
+            "Autenticação do usuário",
+            "Badging"
+        ],
+        "3.8": [
+            "Laser térmico",
+            "Manutenção: Substitua o toner, aplique  Conjunto de alimentação",
+            "Manutenção: Substituir papel, limpo",
+            "Elemento de aquecimento a jato de tinta e remover detritos",
+            "Cartucho de tinta, cabeçote de impressão,",
+            "Manutenção: Limpar  Papel multiparts"
+        ]
+    },
+    "4.0 Virtualização e Computação em Nuvem": {
+        "4.1": [
+            "Finalidade das máquinas virtuais  Virtualização de desktop",
+            "Sandbox  Virtual Desktop Infrastructure (VDI)",
+            "Desenvolvimento de teste",
+            "Virtualização de aplicativos  Containers",
+            "Tipo 2",
+            "Requisitos",
+            "Segurança",
+            "Rede",
+            "Armazenamento"
+        ],
+        "4.2": [
+            "Modelos comuns de nuvem  Características da nuvem",
+            "Nuvem privada  Recursos compartilhados vs.",
+            "Recursos dedicados à nuvem pública",
+            "Nuvem híbrida  Utilização medida",
+            "Nuvem comunitária  Ingress/egress",
+            "Infraestrutura como serviço (IaaS)  Elasticidade",
+            "Software como serviço (SaaS)  Disponibilidade",
+            "Plataforma como serviço (PaaS)  Sincronização de ficheiros",
+            "Multitenancy"
+        ]
+    },
+    "Solução de problemas de hardware e rede 5.0": {
+        "5.1": [
+            "Sintomas comuns  Desempenho lento  Ruído incomum",
+            "O auto-teste de potência (POST) apita  Superaquecimento  Inchaço do capacitor",
+            "Telas de choque proprietárias  Cheiro ardente  Sistema impreciso data/hora",
+            "Tela em branco  Desligamento aleatório",
+            "Sem energia  Falhas na aplicação"
+        ],
+        "5.2": [
+            "Sintomas comuns  Falha RAID  Array em falta",
+            "Diodo emissor de luz (LED)  Auto-monitorização e relatórios  Alarmes audíveis",
+            "Ruídos de moagem  Tempos de leitura/gravação prolongados",
+            "Sons de clique  Entrada/saída de baixo desempenho",
+            "Dispositivo inicializável não encontrado operações por segundo (IOPS)",
+            "Perda de dados / corrupção  Unidades ausentes no sistema operacional"
+        ],
+        "5.3": [
+            "Sintomas comuns  Exibir burn-in  Imagem Dim",
+            "Fonte de entrada incorreta  Píxeis mortos  Desligamento do projetor intermitente",
+            "Problemas de cabeamento físico  Tela piscando  Problemas de dimensionamento",
+            "Lâmpada queimada  Exposição a cores incorreta  Imagem distorcida",
+            "Imagem fuzzy  Problemas de áudio"
+        ],
+        "5.4": [
+            "Sintomas comuns  Danos líquidos  Incapaz de instalar novas aplicações",
+            "Saúde da bateria  Superaquecimento  Stylus não funciona",
+            "Bateria inchada  Problemas de digitação  Desempenho degradado",
+            "Tela quebrada  Portas fisicamente danificadas",
+            "Carregamento inadequado  Malware",
+            "Conectividade pobre/sem conectividade  Calibração de cursor drift/touch"
+        ],
+        "5.5": [
+            "Sintomas comuns  Flapping do porto",
+            "Conectividade sem fios intermitente  Alta latência",
+            "Velocidades de rede lentas  Interferência externa",
+            "Conectividade limitada  Falhas na autenticação",
+            "Jitter  Conectividade de internet intermitente",
+            "Pobre Voz pela Internet"
+        ],
+        "5.6": [
+            "Linhas para baixo as páginas impressas  Espetilhamento em páginas impressas  Orientação incorreta da página",
+            "Garbled print  Imagens duplas/eco na impressão  Bandeja não reconhecida",
+            "jams de papel  Ruído de moedura  Problemas de conectividade",
+            "Impressões desfeitas  Problemas de acabamento  Fila de impressão congelada",
+            "Papel não se alimentando  Compo",
+            "Multipage misfeed  Buraco perfurado",
+            "Várias impressões pendentes na fila",
+            "Tablet/smartphone Apple  Placas-mãe  Chaves de fenda",
+            "Android tablet/smartphone  RAM  Multímetro",
+            "Tablet Windows  Discos rígidos  Cortadores de fio",
+            "Chromebook  Fontes de alimentação  Ferramenta Punchdown",
+            "Computador portátil/computador portátil/Mac Windows/  Placas de vídeo  Crimper",
+            "Área de trabalho do Windows/Mac desktop/  Placas de rede  stripper de cabo",
+            "Servidor Windows com Active  Fãs/dispositivos de refrigeração / dissipador de calor  Descarga eletrostática",
+            "Monitores  Conectores/cabos variados  Pasta térmica",
+            "Projetores - USB  Testador de cabos",
+            "Roteador/interruptor SOHO - HDMI  Toner de cabo",
+            "Ponto de acesso - DisplayPort  Analisador Wi-Fi",
+            "telefone VoIP - DVI  Serial Tecnologia Avançada",
+            "Impressora - VGA Attachment (SATA) para USB",
+            "Cabo supressor de surtos/conectores - Linux",
+            "Adaptadores CA UPS  CA",
+            "Dispositivos inteligentes (dispositivos IoT)  Unidades ópticas",
+            "Servidor com hipervisor  Parafusos/parafusos",
+            "Bloco de punção  Casos",
+            "Painel de Patch  Kit de manutenção",
+            "Webcams  Ratos/teclados",
+            "Alto-falantes  Teclado-Vídeo-Mouse (KVM)",
+            "Microfones  Cabo de console",
+            "SSD"
+        ]
+    }
+}
