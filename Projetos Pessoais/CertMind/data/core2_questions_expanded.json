@@ -1,0 +1,1564 @@
+{
+    "questions": [
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_1",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores O que melhor descreve esse conceito?",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_2",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores Qual das seguintes é a correta?",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_3",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores O que melhor descreve esse conceito?",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_4",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_5",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_6",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores Selecione a opção mais apropriada.",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_7",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores O que melhor descreve esse conceito?",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_8",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores Selecione a opção mais apropriada.",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_9",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.1 Tipos e propósitos de sistemas operacionais_10",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.1 Tipos e propósitos de sistemas operacionais",
+            "stem_md": "Qual sistema operacional é conhecido por ser open-source e amplamente usado em servidores Selecione a opção mais apropriada.",
+            "options": {
+                "A": "macOS",
+                "B": "Windows Server",
+                "C": "Linux",
+                "D": "Chrome OS"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_1",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_2",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_3",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização Qual das seguintes é a correta?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_4",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_5",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_6",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_7",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_8",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_9",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.2 Instalação e atualização de sistemas operacionais_10",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.2 Instalação e atualização de sistemas operacionais",
+            "stem_md": "Durante uma instalação limpa do Windows, qual partição é criada automaticamente para armazenar arquivos de inicialização Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Recovery Partition",
+                "B": "System Reserved",
+                "C": "EFI System Partition",
+                "D": "Boot Volume"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_1",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco O que melhor descreve esse conceito?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_2",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_3",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco Qual das seguintes é a correta?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_4",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco O que melhor descreve esse conceito?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_5",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_6",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco O que melhor descreve esse conceito?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_7",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco O que melhor descreve esse conceito?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_8",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_9",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "1.0 Sistemas Operacionais_1.3 Comandos e ferramentas do sistema operacional_10",
+            "domain": "1.0 Sistemas Operacionais",
+            "subdomain": "1.3 Comandos e ferramentas do sistema operacional",
+            "stem_md": "Qual comando do Windows é usado para verificar e reparar setores defeituosos em um disco Qual das seguintes é a correta?",
+            "options": {
+                "A": "sfc /scannow",
+                "B": "chkdsk",
+                "C": "diskpart",
+                "D": "defrag"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_1",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_2",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_3",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_4",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_5",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_6",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_7",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_8",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_9",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.1 Tipos de ameaças e vulnerabilidades_10",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.1 Tipos de ameaças e vulnerabilidades",
+            "stem_md": "Qual tipo de ataque envolve o envio de e-mails falsos que se passam por instituições legítimas Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Phishing",
+                "B": "Spoofing",
+                "C": "Keylogging",
+                "D": "Brute Force"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_1",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_2",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_3",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_4",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_5",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: Qual das seguintes é a correta?",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_6",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_7",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_8",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_9",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.2 Métodos de autenticação e controle de acesso_10",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.2 Métodos de autenticação e controle de acesso",
+            "stem_md": "A autenticação multifator (MFA) normalmente combina: Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Senha e login",
+                "B": "Algo que você sabe, tem e é",
+                "C": "Dois logins diferentes",
+                "D": "Usuário e domínio"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_1",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_2",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_3",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_4",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_5",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_6",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_7",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_8",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_9",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "2.0 Segurança_2.3 Políticas e melhores práticas de segurança_10",
+            "domain": "2.0 Segurança",
+            "subdomain": "2.3 Políticas e melhores práticas de segurança",
+            "stem_md": "Qual é a principal finalidade do princípio de privilégio mínimo (PoLP) Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Permitir acesso irrestrito a administradores",
+                "B": "Garantir que usuários tenham apenas o acesso necessário para suas funções",
+                "C": "Bloquear acesso à Internet em redes corporativas",
+                "D": "Forçar a troca de senhas diariamente"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_1",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_2",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_3",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_4",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_5",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_6",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_7",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_8",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_9",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.1 Diagnosticar problemas de inicialização_10",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.1 Diagnosticar problemas de inicialização",
+            "stem_md": "O que indica uma tela azul (BSOD) durante a inicialização do Windows O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Erro de hardware ou driver crítico",
+                "B": "Falha de autenticação do usuário",
+                "C": "Problema com a GPU",
+                "D": "Sistema aguardando atualização"
+            },
+            "answer": "A"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_1",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_2",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_3",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Qual das seguintes é a correta?",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_4",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_5",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_6",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_7",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_8",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_9",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.2 Problemas com aplicativos e desempenho_10",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.2 Problemas com aplicativos e desempenho",
+            "stem_md": "Qual utilitário do Windows pode ser usado para encerrar processos travados O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Painel de Controle",
+                "B": "Gerenciador de Tarefas",
+                "C": "Prompt de Comando",
+                "D": "Monitor de Recursos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_1",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Selecione a opção mais apropriada.",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_2",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Selecione a opção mais apropriada.",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_3",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_4",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Selecione a opção mais apropriada.",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_5",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino O que melhor descreve esse conceito?",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_6",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Qual das seguintes é a correta?",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_7",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino O que melhor descreve esse conceito?",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_8",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Qual das seguintes é a correta?",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_9",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "3.0 Solução de Problemas de Software_3.3 Solução de problemas de rede e conectividade_10",
+            "domain": "3.0 Solução de Problemas de Software",
+            "subdomain": "3.3 Solução de problemas de rede e conectividade",
+            "stem_md": "Qual comando verifica a rota que um pacote percorre até o destino Qual das seguintes é a correta?",
+            "options": {
+                "A": "ping",
+                "B": "ipconfig",
+                "C": "tracert",
+                "D": "nslookup"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_1",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_2",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Qual das seguintes é a correta?",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_3",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_4",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_5",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_6",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_7",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Qual das seguintes é a correta?",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_8",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_9",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.1 Procedimentos de documentação e comunicação_10",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.1 Procedimentos de documentação e comunicação",
+            "stem_md": "Durante o suporte técnico, qual prática é considerada essencial ao documentar um incidente Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Omitir detalhes irrelevantes",
+                "B": "Registrar sintomas, ações e resultados",
+                "C": "Apagar logs após a correção",
+                "D": "Focar apenas em erros críticos"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_1",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_2",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_3",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_4",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_5",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_6",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_7",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_8",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Qual das seguintes é a correta?",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_9",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.2 Boas práticas de suporte ao cliente_10",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.2 Boas práticas de suporte ao cliente",
+            "stem_md": "Durante um atendimento, o técnico deve sempre: O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Usar linguagem técnica para demonstrar conhecimento",
+                "B": "Interromper o cliente para agilizar o atendimento",
+                "C": "Escutar atentamente e demonstrar empatia",
+                "D": "Resolver o problema o mais rápido possível, sem explicar"
+            },
+            "answer": "C"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_1",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo Selecione a opção mais apropriada.",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_2",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo Qual das seguintes é a correta?",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_3",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_4",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_5",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_6",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_7",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo Escolha a resposta certa abaixo.",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_8",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo O que melhor descreve esse conceito?",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_9",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo Qual é o propósito dessa tecnologia?",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        },
+        {
+            "id": "4.0 Operações e Suporte_4.3 Gerenciamento de backup e recuperação_10",
+            "domain": "4.0 Operações e Suporte",
+            "subdomain": "4.3 Gerenciamento de backup e recuperação",
+            "stem_md": "Qual tipo de backup copia apenas os arquivos modificados desde o último backup completo Qual das seguintes é a correta?",
+            "options": {
+                "A": "Completo",
+                "B": "Incremental",
+                "C": "Diferencial",
+                "D": "Instantâneo"
+            },
+            "answer": "B"
+        }
+    ]
+}
