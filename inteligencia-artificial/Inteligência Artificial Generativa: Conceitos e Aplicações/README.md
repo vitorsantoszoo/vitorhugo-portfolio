@@ -52,7 +52,7 @@ Também foram explorados fundamentos técnicos dos principais artigos originais:
 ---
 
 ## 🧩 Atividades Desenvolvidas
-```
+
 | Atividade / Projeto                                   | Descrição                                                                           | Arquivo                                                                                                                               |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **Previsão da Produção de Leite**                     | Aplicação de modelos de linguagem para previsão textual baseada em dados numéricos. | [Atividade 2 - Previsão da Produção de Leite.ipynb](./Atividade%202%20-%20Previs%C3%A3o%20da%20Produ%C3%A7%C3%A3o%20de%20Leite.ipynb) |
@@ -60,7 +60,7 @@ Também foram explorados fundamentos técnicos dos principais artigos originais:
 | **Atividade 4 (Processamento de Linguagem Natural)**  | Geração de texto com embeddings e RNNs.                                             | [Atividade 4.ipynb](./Atividade%204.ipynb)                                                                                            |
 | **Processamento de Áudio com IA Generativa**          | Reconhecimento e síntese de áudio com modelos generativos.                          | [Atividade_Processamento_Audio_2025.ipynb](./Atividade_Processamento_Audio_2025.ipynb)                                                |
 | **Atividade 7 (Experimento / Aplicação Avançada)**    | Teste de modelo generativo em contexto aplicado.                                    | [Atividade 7.ipynb](./Atividade%207.ipynb)                                                                                            |
-```
+
 
 ---
 
