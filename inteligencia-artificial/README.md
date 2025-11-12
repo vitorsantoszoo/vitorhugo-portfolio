@@ -24,6 +24,11 @@ As disciplinas estão sendo documentadas neste portfólio conforme os projetos e
 
 ---
 
+### Tecnologias e Ferramentas
+Python • Pandas • NumPy • Scikit-Learn • PyTorch • OpenCV • Matplotlib • Streamlit • Colab
+
+---
+
 ### Estrutura de Organização
 
 Cada disciplina possui uma pasta própria contendo:
@@ -32,4 +37,20 @@ Cada disciplina possui uma pasta própria contendo:
 - atividades e projetos realizados
 - arquivos de código, notebooks, relatórios, PDFs e apresentações
 
+---
 
+## 🚀 Projetos em destaque
+- **Inspeção Visual com OpenCV:** Contagem de porcas e parafusos usando Análise de Componentes Conectados.
+- **Classificador de Risco:** Modelo supervisionado para previsão de risco em dados tabulares.
+- **Detector de Lixo (Visão Computacional):** Rede neural treinada para identificar resíduos em ambientes urbanos.
+
+---
+
+### 📫 **Contato**
+📧 E-mail: vitoor.hugoo@hotmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/vitor-hugo-3861391b8](#)  
+💻 GitHub: [https://github.com/vitorsantoszoo](#)
+
+🔄 Repositório em constante atualização à medida que novas disciplinas e projetos são concluídos.
+
+---
