@@ -1,4 +1,4 @@
-# 🤖 AI Agent Hub Sistema Modular de Inteligência Artificial com Visão, Predição e Linguagem Natural
+# 🤖 AI Agent Hub - Sistema Modular de Inteligência Artificial com Visão, Predição e Linguagem Natural
 
 ## 🧭 Visão Geral
 
