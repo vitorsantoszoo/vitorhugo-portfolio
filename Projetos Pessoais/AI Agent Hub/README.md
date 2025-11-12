@@ -1,6 +1,6 @@
 ## 🤖 AI Agent Hub Sistema Modular de Inteligência Artificial com Visão, Predição e Linguagem Natural
 
-🧭 Visão Geral
+# 🧭 Visão Geral
 
 O AI Agent Hub é um sistema modular de Inteligência Artificial desenvolvido por Vitor Hugo, com o objetivo de integrar diferentes agentes autônomos — cada um especializado em uma função distinta da IA moderna:
 
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como uma síntese prática e acadêmica de estudos
 
 ---
 
-🧩 Arquitetura do Projeto
+# 🧩 Arquitetura do Projeto
 
 Cada notebook do repositório representa um agente autônomo, capaz de operar de forma independente ou integrada a outros.
 O fluxo de dados e conhecimento segue uma lógica de pipeline inteligente:
@@ -28,7 +28,7 @@ O fluxo de dados e conhecimento segue uma lógica de pipeline inteligente:
 
 ---
 
-📂 Estrutura de Diretórios
+# 📂 Estrutura de Diretórios
 
 AI Agent Hub/
 ├── notebooks/
@@ -48,7 +48,7 @@ AI Agent Hub/
 
 ---
 
-⚙️ Descrição dos Agentes
+# ⚙️ Descrição dos Agentes
 
 🖼️ 1. Vision Agent (Heuristic & CNN)
 
@@ -76,7 +76,7 @@ Versão aprimorada com aprendizado profundo (PyTorch + MobileNetV2):
 
 ---
 
-📈 2. Predictive Agent (predictive_pipeline.ipynb)
+# 📈 2. Predictive Agent (predictive_pipeline.ipynb)
 
 Responsável por previsão numérica com base em aprendizado supervisionado.
 Nesta versão MVP:
@@ -91,7 +91,7 @@ Nesta versão MVP:
 
 ---
 
-💬 3. Language Agent (language_pipeline.ipynb)
+# 💬 3. Language Agent (language_pipeline.ipynb)
 
 Consolida os resultados de todos os agentes em linguagem natural (NLG):
 
@@ -117,6 +117,8 @@ Consolida os resultados de todos os agentes em linguagem natural (NLG):
 
 ---
 
+# 🧰 Tecnologias Utilizadas
+
 | Categoria               | Tecnologias                            |
 | ----------------------- | -------------------------------------- |
 | Linguagem principal     | Python 3                               |
@@ -129,7 +131,8 @@ Consolida os resultados de todos os agentes em linguagem natural (NLG):
 
 ---
 
-🚀 Como Executar o Projeto
+# 🚀 Como Executar o Projeto
+
 1️⃣ Clonar o repositório
 
 ```
@@ -156,7 +159,7 @@ cd AI-Agent-Hub
 
 ---
 
-📈 Resultados
+# 📈 Resultados
 
 ✅ Modelos treinados: vision_cnn.pth
 
@@ -170,7 +173,7 @@ cd AI-Agent-Hub
 
 ---
 
-🧩 Aplicabilidade
+# 🧩 Aplicabilidade
 
 O AI Agent Hub pode ser expandido para:
 
@@ -186,7 +189,7 @@ Este projeto serve como base modular para aplicações futuras que integrem perc
 
 ---
 
-🧑‍💻 Autor
+# 🧑‍💻 Autor
 
 Vitor Hugo
 Desenvolvedor em formação e entusiasta de Inteligência Artificial
@@ -199,7 +202,7 @@ Desenvolvedor em formação e entusiasta de Inteligência Artificial
 
 ---
 
-🌱 Próximos Passos
+# 🌱 Próximos Passos
 
  Adicionar salvamento de modelo preditivo (predictive_model.pkl)
 
