@@ -1,5 +1,5 @@
-🤖 AI Agent Hub
-Sistema Modular de Inteligência Artificial com Visão, Predição e Linguagem Natural
+## 🤖 AI Agent Hub Sistema Modular de Inteligência Artificial com Visão, Predição e Linguagem Natural
+
 🧭 Visão Geral
 
 O AI Agent Hub é um sistema modular de Inteligência Artificial desenvolvido por Vitor Hugo, com o objetivo de integrar diferentes agentes autônomos — cada um especializado em uma função distinta da IA moderna:
