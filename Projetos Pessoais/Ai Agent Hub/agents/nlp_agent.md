@@ -22,5 +22,6 @@ Simular o comportamento de um **agente de conversa inteligente**, que em versõe
 2. Instale as dependências básicas (se necessário):  
    ```python
    !pip install numpy pandas
-```
+   ```
 ---
+
