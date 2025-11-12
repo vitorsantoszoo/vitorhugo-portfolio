@@ -23,5 +23,13 @@ Simular o comportamento de um **agente de conversa inteligente**, que em versõe
    ```python
    !pip install numpy pandas
    ```
----
+3.Importe e teste o agente:
+
+from agents.nlp_agent import NLPAagent
+
+bot = NLPAagent()
+print(bot.analyze("Olá!"))
+print(bot.analyze("Explique o projeto AI Agent Hub."))
+print(bot.analyze("Como funciona a visão computacional?"))
+print(bot.analyze("Tchau, até mais!"))
 
