@@ -52,7 +52,7 @@ AI Agent Hub/
 
 🖼️ 1. Vision Agent (Heuristic & CNN)
 
-Versão Heurística (vision_pipeline_heuristic.ipynb)
+Versão Heurística `(vision_pipeline_heuristic.ipynb)`
 Baseada em OpenCV, realiza:
 
 ● Segmentação e contagem de objetos por contornos;
@@ -61,14 +61,14 @@ Baseada em OpenCV, realiza:
 
 ● Classificação por regras simples (porca vs parafuso).
 
-Versão CNN (vision_pipeline_cnn.ipynb)
+Versão CNN `(vision_pipeline_cnn.ipynb)`
 Versão aprimorada com aprendizado profundo (PyTorch + MobileNetV2):
 
 ● Treinamento leve (transfer learning);
 
-● Dataset real de porcas e parafusos (images_dataset/);
+● Dataset real de porcas e parafusos `(images_dataset/)`;
 
-● Gera métricas e salva modelo (vision_cnn.pth);
+● Gera métricas e salva modelo `(vision_cnn.pth)`;
 
 ● Exporta log técnico em JSON para integração.
 
@@ -76,7 +76,7 @@ Versão aprimorada com aprendizado profundo (PyTorch + MobileNetV2):
 
 ---
 
-## 📈 2. Predictive Agent (predictive_pipeline.ipynb)
+## 📈 2. Predictive Agent `(predictive_pipeline.ipynb)` 
 
 Responsável por previsão numérica com base em aprendizado supervisionado.
 Nesta versão MVP:
@@ -91,7 +91,7 @@ Nesta versão MVP:
 
 ---
 
-## 💬 3. Language Agent (language_pipeline.ipynb)
+## 💬 3. Language Agent `(language_pipeline.ipynb)`
 
 Consolida os resultados de todos os agentes em linguagem natural (NLG):
 
@@ -142,7 +142,7 @@ cd AI-Agent-Hub
 
 2️⃣ Abrir os notebooks no Google Colab
 
-1. Abra Google Colab (https://colab.research.google.com/).
+1. Abra Google Colab `(https://colab.research.google.com/)`.
 
 2. Faça upload dos notebooks da pasta notebooks/.
 
