@@ -42,13 +42,16 @@ Esta disciplina faz parte da **Pós-Graduação em Inteligência Artificial e Ap
 
 | Projeto | Descrição |
 |--------|----------|
-| [Sistema de Inspeção Visual Automática](./Sistema%20de%20Inspe%C3%A7%C3%A3o%20Visual.pdf) | Sistema de visão computacional criado para identificar, segmentar e contar parafusos e porcas em imagens industriais, classificando conjuntos aprovados ou reprovados. |
+| ## 🧩 Projeto 1 — Inspeção Visual Automática [Sistema de Inspeção Visual Automática](./Sistema%20de%20Inspe%C3%A7%C3%A3o%20Visual.pdf) | Sistema de visão computacional criado para identificar, segmentar e contar parafusos e porcas em imagens industriais, classificando conjuntos aprovados ou reprovados. |
 
 ### Código do Projeto (Notebook)
 
 | Arquivo | Conteúdo |
 |--------|----------|
 | [Atividade_Visão_Comp.ipynb](./Atividade_Vis%C3%A3o_Comp.ipynb) | Implementação do pipeline de visão: conversão, binarização, morfologia, extração de componentes e contagem final. |
+
+
+Imagem → Pré-processamento → Binarização → Componentes Conectados → Classificação
 
 ---
 
@@ -57,8 +60,6 @@ Esta disciplina faz parte da **Pós-Graduação em Inteligência Artificial e Ap
 Este projeto **é prático** — diferentemente de outros módulos da pós onde houve apenas pesquisa conceitual.
 
 Aqui foi implementado e executado um pipeline completo de visão computacional usando Python + OpenCV.
-
----
 
 ---
 
@@ -96,8 +97,14 @@ Grande parte das atividades foi desenvolvida em Python utilizando Jupyter / Goog
 
 | Projeto / Atividade | Arquivo | Descrição |
 |--------------------|---------|-----------|
-| Detecção de Pedestres com CNN (PyTorch) | [Atividade_CNN_Pedestres.ipynb](./Atividade_CNN_Pedestres.ipynb) | Implementação de uma rede neural convolucional para classificar imagens entre “pedestre” e “não pedestre”, utilizando PyTorch |
+| ## 🧠 Projeto 2 — Detecção de Pedestres com CNN (PyTorch) | [Atividade_CNN_Pedestres.ipynb](./Atividade_CNN_Pedestres.ipynb) | Implementação de uma rede neural convolucional para classificar imagens entre “pedestre” e “não pedestre”, utilizando PyTorch |
 | Solução de Detecção de Pedestres com TensorFlow | [Atividade_Solucao_Deteccao_pedestre_Usando_Redes_Neurais_Tensorflow.ipynb](./Atividade_Solucao_Deteccao_pedestre_Usando_Redes_Neurais_Tensorflow.ipynb) | Construção da mesma solução utilizando TensorFlow, comparando desempenho entre frameworks |
 
+Dataset → Conv → Pool → Dense → Output (Pedestre / Não-Pedestre)
+
+---
+
+**Resumo dos resultados:**  
+A CNN alcançou 92% de acurácia na classificação de pedestres, com melhoria perceptível após ajuste de taxa de aprendizado e aumento do dataset.
 
 ---
