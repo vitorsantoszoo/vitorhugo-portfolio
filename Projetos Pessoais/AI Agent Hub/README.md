@@ -30,21 +30,21 @@ O fluxo de dados e conhecimento segue uma lógica de pipeline inteligente:
 
 ## 📂 Estrutura de Diretórios
 
-  AI Agent Hub/
-  ├── notebooks/
-  │   ├── vision_pipeline_heuristic.ipynb     # 🧮 Agente de Visão (OpenCV + Regras)
-  │   ├── vision_pipeline_cnn.ipynb           # 🤖 Agente de Visão (CNN - MobileNetV2)
-  │   ├── predictive_pipeline.ipynb           # 📈 Agente Preditivo (Regressão Linear)
-  │   └── language_pipeline.ipynb             # 💬 Agente de Linguagem (NLG baseado em regras)
-  │
-  ├── data/
-  │   ├── images/                             # Imagens originais
-  │   ├── images_dataset/                     # Dataset estruturado (porcas/parafusos)
-  │   ├── models/                             # Modelos treinados (vision_cnn.pth)
-  │   ├── logs/                               # Logs JSON dos agentes
-  │   └── samples/                            # Saídas e relatórios finais
-  │
-  └── README.md                               # Este arquivo
+AI Agent Hub/
+├── notebooks/
+│   ├── vision_pipeline_heuristic.ipynb     # 🧮 Agente de Visão (OpenCV + Regras)
+│   ├── vision_pipeline_cnn.ipynb           # 🤖 Agente de Visão (CNN - MobileNetV2)
+│   ├── predictive_pipeline.ipynb           # 📈 Agente Preditivo (Regressão Linear)
+│   └── language_pipeline.ipynb             # 💬 Agente de Linguagem (NLG baseado em regras)
+│
+├── data/
+│   ├── images/                             # Imagens originais
+│   ├── images_dataset/                     # Dataset estruturado (porcas/parafusos)
+│   ├── models/                             # Modelos treinados (vision_cnn.pth)
+│   ├── logs/                               # Logs JSON dos agentes
+│   └── samples/                            # Saídas e relatórios finais
+│
+└── README.md                               # Este arquivo
 
 ---
 
