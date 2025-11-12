@@ -192,6 +192,7 @@ Este projeto serve como base modular para aplicações futuras que integrem perc
 ## 🧑‍💻 Autor
 
 Vitor Hugo
+
 Desenvolvedor em formação e entusiasta de Inteligência Artificial
 📘 Projeto desenvolvido como parte dos estudos em IA Aplicada e Aprendizagem de Máquina
 
