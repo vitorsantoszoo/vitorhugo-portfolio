@@ -1,0 +1,13 @@
+{
+  "agent": "vision_agent_cnn",
+  "model": "MobileNetV2",
+  "classes": [
+    "parafuso",
+    "porca"
+  ],
+  "accuracy": 0.667,
+  "epochs": 3,
+  "train_loss_mean": 0.553,
+  "val_loss_mean": 0.629,
+  "timestamp_utc": "2025-11-12T19:22:43.065958Z"
+}

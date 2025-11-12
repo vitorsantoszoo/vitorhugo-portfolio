@@ -1,0 +1,23 @@
+{
+  "input_image": "data/images/sample_bolts_nuts.jpg",
+  "vision_result": {
+    "objetos": {
+      "porca": 0,
+      "parafuso": 1
+    },
+    "total": 1,
+    "qualidade": "boa",
+    "metrica": {
+      "n_contornos": 1,
+      "area_media": 24542.0
+    }
+  },
+  "nlp_report": "A imagem contém 1 parafuso(s) e 0 porca(s), totalizando 1 item(ns). O lote aparenta estar consistente visualmente.",
+  "decision": {
+    "decision": "Aprovar",
+    "reason": "Detecção consistente e contagens válidas.",
+    "summary": "A imagem contém 1 parafuso(s) e 0 porca(s), totalizando 1 item(ns). O lote aparenta estar consistente visualmente."
+  },
+  "timestamp_utc": "2025-11-12T19:28:21.817466Z",
+  "version": "mvp-0.1"
+}

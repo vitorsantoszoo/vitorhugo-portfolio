@@ -1,0 +1,38 @@
+{
+  "agent": "predictive_agent",
+  "model": "LinearRegression",
+  "features": [
+    "temperatura",
+    "pressao",
+    "horas_operacao",
+    "defeitos"
+  ],
+  "metrics": {
+    "MAE": 8.984,
+    "RMSE": 11.153,
+    "R2": 0.726
+  },
+  "sample_predictions": [
+    {
+      "real": 147.17,
+      "previsto": 144.53
+    },
+    {
+      "real": 103.56,
+      "previsto": 120.65
+    },
+    {
+      "real": 110.35,
+      "previsto": 117.45
+    },
+    {
+      "real": 137.31,
+      "previsto": 130.85
+    },
+    {
+      "real": 164.74,
+      "previsto": 140.87
+    }
+  ],
+  "timestamp_utc": "2025-11-12T19:30:25.123880Z"
+}
