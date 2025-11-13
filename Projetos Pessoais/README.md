@@ -81,7 +81,7 @@ Cada diretório dentro de Projetos Pessoais é um projeto completo e independent
 
 ---
 
-🌟 Projetos em Destaque
+## 🌟 Projetos em Destaque
 
 Aqui estão dois dos meus projetos mais completos, representando bem minha evolução e aplicação prática de Inteligência Artificial, visão computacional e modelagem preditiva.
 
@@ -129,14 +129,14 @@ Focado em aprendizado supervisionado aplicado ao contexto de risco operacional.
 </a> </div>
 ---
 
-##💬 Sobre mim
+## 💬 Sobre mim
 
 Sou Vitor Hugo, desenvolvedor em formação e apaixonado por Inteligência Artificial aplicada.
 Utilizo este repositório para experimentar, aprender, evoluir e criar soluções inteligentes que combinam visão computacional, aprendizado de máquina e linguagem natural.
 
 ---
 
-##🤝 Contribuições e Contato
+## 🤝 Contribuições e Contato
 
 Este repositório está em constante evolução.
 Fique à vontade para explorar, comentar, sugerir melhorias ou trocar ideias!
@@ -150,7 +150,7 @@ Fique à vontade para explorar, comentar, sugerir melhorias ou trocar ideias!
 
 ---
 
-##🧠 Frase que representa este espaço
+## 🧠 Frase que representa este espaço
 
 “Projetos pequenos constroem habilidades grandes.”
 Aqui registro cada passo dessa evolução.
