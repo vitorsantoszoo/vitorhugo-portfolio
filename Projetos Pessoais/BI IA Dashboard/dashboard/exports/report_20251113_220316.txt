@@ -1,0 +1,13 @@
+📊 Relatório Inteligente — BI IA Dashboard
+📅 Data: 2025-11-13
+
+💰 Faturamento total analisado: R$ 32,125,157.48
+📅 Média mensal: R$ 1,784,730.97
+📈 Variação do último mês: -12.61% (queda)
+
+🔮 Previsão (próximos períodos):
+[np.float64(1625567.43), np.float64(1917839.03), np.float64(1713313.36), np.float64(1839981.45), np.float64(1753293.66), np.float64(1725569.41)]
+
+💡 Insight:
+- Caso a tendência continue em queda, recomenda-se revisão de estoque e campanhas.
+- Focar nos produtos mais rentáveis e regiões de maior desempenho.
