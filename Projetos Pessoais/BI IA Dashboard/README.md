@@ -320,19 +320,6 @@ Esse método é muito utilizado em times de Data Analytics para gerar previsões
 
 ● Usuários que querem transformar seus próprios dados em dashboards reais
 
----
-
-## 📌 Como substituir o dataset
-
-Basta subir um arquivo com estrutura semelhante:
-
-```
-date,sales
-2020-01-01,15000
-2020-02-01,18000
-...
-```
-O notebook detecta automaticamente a coluna de data e valores.
 
 ---
 
