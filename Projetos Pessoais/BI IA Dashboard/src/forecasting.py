@@ -15,13 +15,14 @@ def create_lags(series: pd.Series, n_lags=6):
 
 
 def rf_forecast_with_ci(series: pd.Series, n_periods=6, n_bootstrap=80):
-    \
-    Previsão usando RandomForest + intervalos de confiança via bootstrap.
+    """
+    Previsão usando RandomForest + intervalo de confiança via bootstrap.
+
     Retorna:
     - preds_mean: previsão média
     - preds_lower: limite inferior (IC 90%)
     - preds_upper: limite superior (IC 90%)
-    \
+    """
 
     df = create_lags(series)
     X = df.drop(series.name, axis=1)
@@ -39,14 +40,13 @@ def rf_forecast_with_ci(series: pd.Series, n_periods=6, n_bootstrap=80):
     preds_lower = []
     preds_upper = []
 
-    # forecast passo a passo
     for _ in range(n_periods):
 
         # previsão principal
         last_df = pd.DataFrame(last.values, columns=feature_names)
         base_pred = model.predict(last_df)[0]
 
-        # bootstrap
+        # bootstrap para IC
         boot_preds = []
         for b in range(n_bootstrap):
             boot_model = RandomForestRegressor(
@@ -69,21 +69,3 @@ def rf_forecast_with_ci(series: pd.Series, n_periods=6, n_bootstrap=80):
         last = pd.DataFrame([new_row], columns=feature_names)
 
     return preds_mean, preds_lower, preds_upper
-
-# Escrever arquivo atualizado
-file_path = "/content/vitorhugo-portfolio/Projetos Pessoais/BI IA Dashboard/src/forecasting.py"
-with open(file_path, "w") as f:
-    f.write(forecasting_code)
-
-print("✅ forecasting.py atualizado com sucesso!")
-print("📄 Caminho:", file_path)
-
-# Recarregar o módulo
-import importlib
-import src.forecasting
-importlib.reload(src.forecasting)
-
-# Testar importação
-from src.forecasting import rf_forecast_with_ci
-
-print("\n🎉 Função rf_forecast_with_ci importada com sucesso! Tudo pronto.")
