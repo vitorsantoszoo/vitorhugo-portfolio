@@ -236,8 +236,11 @@ dashboard/reports/
 O notebook pode gerar automaticamente:
 
 📄 PDF
+
 🌐 HTML
+
 🖼️ Imagens dos gráficos (PNG/JPG)
+
 🧾 Relatório completo NLG
 
 Os arquivos ficam em:
