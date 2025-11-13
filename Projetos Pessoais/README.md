@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório de Projetos Pessoais, onde reúno todos os sistema
 
 ●  💻 Prática contínua em programação, automação e análise de dados
 
-Este espaço funciona como o meu laboratório técnico, onde transformo conceitos teóricos em projetos reais e funcionais — com código, dados, documentação e resultados práticos.
+Este espaço funciona como o meu laboratório técnico, onde transformo conceitos teóricos em projetos reais e funcionais com código, dados, documentação e resultados práticos.
 
 ---
 
@@ -27,7 +27,7 @@ modelagem, versionamento, boas práticas, documentação e pipelines de IA.
 
 ✔️ Mostrar evolução técnica
 
-Os projetos são organizados de forma progressiva — do básico ao avançado — demonstrando minha maturidade em IA, visão computacional, machine learning, otimização, NLP e muito mais.
+Os projetos são organizados de forma progressiva do básico ao avançado demonstrando minha maturidade em IA, visão computacional, machine learning, otimização, NLP e muito mais.
 
 ✔️ Criar um portfólio claro e verificável
 
