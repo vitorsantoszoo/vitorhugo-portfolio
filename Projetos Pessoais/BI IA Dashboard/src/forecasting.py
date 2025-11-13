@@ -1,6 +1,5 @@
 # ==========================================
-# forecasting.py
-# Previsão de vendas/lucro com IA
+# forecasting.py — versão corrigida
 # ==========================================
 
 import numpy as np
@@ -8,30 +7,36 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 
 def create_lags(series: pd.Series, n_lags=6):
-    df = pd.DataFrame(series)
+    df = pd.DataFrame({series.name: series})
     for lag in range(1, n_lags + 1):
         df[f"lag_{lag}"] = df[series.name].shift(lag)
-    df.dropna(inplace=True)
+    df = df.dropna()
     return df
 
 def rf_forecast(series: pd.Series, n_periods=6):
-    """
-    Previsão usando RandomForest e lags.
-    """
     df = create_lags(series)
+
     X = df.drop(series.name, axis=1)
     y = df[series.name]
 
-    model = RandomForestRegressor(n_estimators=200)
-    model.fit(X, y)
+    rf = RandomForestRegressor(
+        n_estimators=300,
+        random_state=42
+    )
+    rf.fit(X, y)
 
-    last = X.tail(1).values
+    # usa última linha COM os nomes das colunas
+    last = X.tail(1).copy()
+
     preds = []
-
     for _ in range(n_periods):
-        p = model.predict(last)[0]
-        preds.append(p)
-        last = np.roll(last, -1)
-        last[0, -1] = p
+        pred = rf.predict(last)[0]
+        preds.append(pred)
+
+        # cria nova linha com lags atualizados
+        new_row = last.iloc[0].shift(-1)
+        new_row.iloc[-1] = pred
+
+        last = pd.DataFrame([new_row], columns=last.columns)
 
     return preds
