@@ -1,5 +1,5 @@
 # ==========================================
-# forecasting.py — versão corrigida
+# forecasting.py — versão final sem warnings
 # ==========================================
 
 import numpy as np
@@ -19,24 +19,28 @@ def rf_forecast(series: pd.Series, n_periods=6):
     X = df.drop(series.name, axis=1)
     y = df[series.name]
 
+    feature_names = X.columns.tolist()
+
     rf = RandomForestRegressor(
         n_estimators=300,
         random_state=42
     )
     rf.fit(X, y)
 
-    # usa última linha COM os nomes das colunas
+    # pega última linha mantendo nomes das colunas
     last = X.tail(1).copy()
 
     preds = []
     for _ in range(n_periods):
-        pred = rf.predict(last)[0]
+        # garante preservação de nomes de colunas
+        last_df = pd.DataFrame(last.values, columns=feature_names)
+
+        pred = rf.predict(last_df)[0]
         preds.append(pred)
 
-        # cria nova linha com lags atualizados
-        new_row = last.iloc[0].shift(-1)
-        new_row.iloc[-1] = pred
-
-        last = pd.DataFrame([new_row], columns=last.columns)
+        # atualiza lags
+        new_values = last_df.iloc[0].shift(-1)
+        new_values.iloc[-1] = pred
+        last = pd.DataFrame([new_values], columns=feature_names)
 
     return preds
