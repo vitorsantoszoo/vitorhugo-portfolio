@@ -263,7 +263,7 @@ data/user_uploads/
 
 Não é necessário alterar código.
 ---
-##🟫 Requisitos
+## 🟫 Requisitos
 
 ```
 pandas
