@@ -1,5 +1,5 @@
 # 📁 Estrutura Completa do Projeto
-
+```
 BI IA Dashboard/
 │
 ├── notebooks/
@@ -23,3 +23,6 @@ BI IA Dashboard/
 │   └── reports/                           # Relatórios automáticos gerados
 │
 └── README.md                              # Documentação principal
+```
+
+---
