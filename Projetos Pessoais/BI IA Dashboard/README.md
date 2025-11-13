@@ -95,36 +95,180 @@ Python 3.10+
 
 ## 🚀 Como Executar o Projeto
 
-1️⃣ Substituir o dataset
-
-Coloque seu arquivo .csv em:
-```
-data/raw/sales_data.csv
-```
-O notebook reconhece automaticamente as colunas e processa os dados.
-
----
-
-2️⃣ Abrir o notebook principal
+Este projeto foi projetado para ser modular, extensível e totalmente executável pelo notebook principal:
 
 ```
 /notebooks/bi_dashboard_pipeline.ipynb
 ```
+Esse notebook funciona como orquestrador de todo o pipeline:
 
-Clique em “Executar tudo”.
+● 📥 Carregamento inteligente de dados `(load_data.py)`
 
-O pipeline irá:
+● 🧹 Limpeza e preparação automática `(preprocessing.py)`
 
-1. Carregar o dataset
+● 📊 Cálculo de métricas e agregações `(metrics.py)`
 
-2. Realizar limpeza automática
+● 🤖 Previsões com IA — Random Forest + Intervalo de Confiança `(forecasting.py)`
 
-3. Criar gráficos interativos
+● 📈 Visualizações interativas estilo BI `(visualization.py)`
 
-4. Gerar previsões para os próximos meses
+● 📝 Geração automática de relatório NLG `(nlg_agent.py)`
 
-5. Criar gráfico de previsão com intervalo de confiança
+● 💾 Exportação opcional para HTML / PNG / PDF `(dashboard/exports/)`
+---
 
+## 🟩 1️⃣ Coloque seus dados na pasta correta
+
+O dataset deve ser salvo em:
+
+```
+data/user_uploads/seu_arquivo.csv
+```
+✔️ O pipeline reconhece automaticamente:
+
+● A coluna de datas
+
+● A coluna de valores (faturamento / vendas / lucro)
+
+● Formatações diferentes (`YYYY-MM-DD`, `DD/MM/YYYY`, etc.)
+
+Se preferir, você também pode usar o dataset de exemplo:
+
+```
+data/examples/sample_sales.csv
+```
+## 🟦 2️⃣ Abra o notebook principal
+
+Acesse:
+
+```
+notebooks/bi_dashboard_pipeline.ipynb
+```
+E clique em Runtime > Run all (Executar tudo).
+---
+## 🟧 3️⃣ O pipeline fará automaticamente:
+✔️ Carregamento inteligente
+
+O módulo load_data.py identifica:
+
+● Coluna de datas
+
+● Coluna numérica principal
+
+● Formatação
+
+● Frequência da série
+
+✔️ Pré-processamento completo
+
+preprocessing.py faz:
+
+● Limpeza de valores ausentes
+
+● Padronização de datas
+
+● Ordenação temporal
+
+● Transformação mensal/semanal se necessário
+
+✔️ Cálculo de métricas e KPIs
+
+metrics.py calcula:
+
+● Totals
+
+● Variações percentuais
+
+● Médias móveis
+
+● Melhores e piores períodos
+
+● Sazonalidade básica
+
+✔️ Dashboard interativo
+
+● Visualization.py renderiza:
+
+● Gráfico de série temporal
+
+● Gráfico de barras
+
+● Variação percentual
+
+● Heatmaps (opcional)
+
+● Linhas de tendência
+
+✔️ Previsão com intervalo de confiança
+
+forecasting.py usa:
+
+● RandomForest + lags
+
+● Bootstrap (80 simulações)
+
+● IC 90%
+
+● Gráfico premium estilo Power BI
+
+✔️ Relatório automático NLG
+
+nlg_agent.py gera:
+
+● Texto descritivo sobre o dataset
+
+● Insights principais
+
+● Análise da tendência
+
+● Avaliação da previsão
+
+● Sugestões de ação
+
+O relatório é salvo em:
+
+```
+dashboard/reports/
+```
+---
+## 🟨 4️⃣ Exportações (opcional)
+
+O notebook pode gerar automaticamente:
+
+📄 PDF
+🌐 HTML
+🖼️ Imagens dos gráficos (PNG/JPG)
+🧾 Relatório completo NLG
+
+Os arquivos ficam em:
+
+```
+dashboard/exports/
+```
+## 🟪 5️⃣ Substituindo o dataset
+
+Para usar seu próprio arquivo:
+
+1. Coloque o arquivo em:
+
+```
+data/user_uploads/
+```
+2. No notebook, selecione o nome do arquivo na célula de configuração
+
+3. Execute tudo novamente
+
+Não é necessário alterar código.
+---
+##🟫 Requisitos
+
+```
+pandas
+numpy
+scikit-learn
+plotly
+```
+(O notebook principal cuida das instalações automaticamente no Colab.)
 ---
 
 ## 📈 Exemplo de Resultados Produzidos
