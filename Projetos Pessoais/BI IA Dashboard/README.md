@@ -5,9 +5,13 @@ Este projeto foi desenvolvido para demonstrar um fluxo completo de Análise de D
 Ele simula um mini–sistema de Business Intelligence, capaz de:
 
 ✔️ Ler um dataset de vendas/faturamento
+
 ✔️ Processar e limpar dados automaticamente
+
 ✔️ Criar visualizações profissionais (estilo BI)
+
 ✔️ Gerar previsões futuras com intervalo de confiança
+
 ✔️ Permitir que qualquer usuário substitua o dataset e gere seu próprio dashboard
 
 ---
@@ -31,8 +35,11 @@ Criar um pipeline moderno e prático de Inteligência Analítica usando apenas P
 Este projeto serve como:
 
 ✔️ Material de estudo
+
 ✔️ Demonstração técnica para portfólio
+
 ✔️ Base para dashboards corporativos automatizados
+
 ✔️ Exemplo de arquitetura simples de Data Analytics com IA
 
 ---
@@ -123,9 +130,13 @@ O pipeline irá:
 ## 📈 Exemplo de Resultados Produzidos
 
 ✔️ Gráfico de série temporal
+
 ✔️ Crescimento percentual
+
 ✔️ Gráfico de barras dos maiores meses
+
 ✔️ Previsão com intervalo de confiança (IC 90%)
+
 ✔️ Dashboard interativo via Plotly
 
 ---
