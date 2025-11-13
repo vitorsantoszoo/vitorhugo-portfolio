@@ -1,5 +1,5 @@
 # ==========================================
-# preprocessing.py
+# preprocessing.py (versão atualizada)
 # Tratamento inicial do dataset
 # ==========================================
 
@@ -23,14 +23,16 @@ def basic_clean(df: pd.DataFrame) -> pd.DataFrame:
 def fill_numeric(df: pd.DataFrame, strategy='median'):
     """
     Preenchimento das colunas numéricas.
+    Versão sem warnings (compatível com Pandas 3.0+).
     """
     df = df.copy()
     numeric_cols = df.select_dtypes(include='number').columns
 
     for c in numeric_cols:
         if strategy == 'median':
-            df[c].fillna(df[c].median(), inplace=True)
+            # forma recomendada pelo pandas (sem inplace)
+            df[c] = df[c].fillna(df[c].median())
         else:
-            df[c].fillna(0, inplace=True)
+            df[c] = df[c].fillna(0)
 
     return df
