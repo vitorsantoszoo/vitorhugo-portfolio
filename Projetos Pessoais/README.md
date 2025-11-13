@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de Projetos Pessoais, onde reúno todos os sistema
 
 ●  🎓 Segurança da Informação (Graduação)
 
-●  🤖 Inteligência Artificial / Data Science (Pós-Graduação)
+●  🤖 Inteligência Artificial / Machine Learning (Pós-Graduação)
 
 ●  💻 Prática contínua em programação, automação e análise de dados
 
