@@ -112,9 +112,6 @@ Projetos Pessoais/CertMindV2/
 
 ## 🚀 Como Usar
 
-### **Acesso Direto (Recomendado)**
-👉 **[Clique aqui para usar o CertMind V2](https://vitorhugo-portfolio-rstwqldtektltumcmxzmja.streamlit.app/)**
-
 ### **Uso Local (Desenvolvedores)**
 ```bash
 # 1. Clone o repositório
