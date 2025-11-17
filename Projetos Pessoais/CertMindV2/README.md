@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-> **🔗 Acesse agora o CertMind V2:** [https://vitorhugo-portfolio-9ytnqe2vezpqtzk6shkjee.streamlit.app/]((https://vitorhugo-portfolio-rstwqldtektltumcmxzmja.streamlit.app/))
+> **🔗 Acesse agora o CertMind V2:** [https://vitorhugo-portfolio-rstwqldtektltumcmxzmja.streamlit.app/]((https://vitorhugo-portfolio-rstwqldtektltumcmxzmja.streamlit.app/))
 
 ---
 
