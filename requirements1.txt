@@ -1,7 +1,0 @@
-streamlit
-transformers
-sentencepiece
-openai
-pandas
-torch
-protobuf
