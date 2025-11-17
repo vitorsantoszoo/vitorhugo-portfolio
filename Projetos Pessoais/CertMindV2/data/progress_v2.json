@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "user_id": "default_user",
+  "last_updated": "2025-11-17T23:29:33.439911",
+  "performance": {
+    "test_question_1": {
+      "exam": "Core 1 (220-1201)",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.1 Configurar hardware",
+      "attempts": 1,
+      "correct": 1,
+      "incorrect": 0,
+      "first_seen": "2025-11-17T23:29:33.439880",
+      "last_seen": "2025-11-17T23:29:33.439887",
+      "easiness_factor": 2.6,
+      "repetitions": 1,
+      "interval": 1,
+      "next_review": "2025-11-18T23:29:33.439895",
+      "mastery_level": 0.72,
+      "history": [
+        {
+          "timestamp": "2025-11-17T23:29:33.439888",
+          "correct": true
+        }
+      ]
+    }
+  },
+  "session_history": [],
+  "stats": {
+    "total_sessions": 0,
+    "total_questions_answered": 1,
+    "total_correct": 1,
+    "streak_days": 1,
+    "last_session_date": "2025-11-17"
+  }
+}

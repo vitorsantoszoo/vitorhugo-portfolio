@@ -1,0 +1,976 @@
+{
+  "exam_name": "CompTIA A+ CORE1",
+  "version": "2.0",
+  "last_updated": "2025-11-17",
+  "total_questions": 51,
+  "questions": [
+    {
+      "id": "1.1_o_recurso_tethering_em_dispositivos_móveis_permite",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.1 Configurar hardware de dispositivos móveis",
+      "concept": "O recurso 'tethering' em dispositivos móveis permite",
+      "question": "O recurso 'tethering' em dispositivos móveis permite?",
+      "options": {
+        "A": "Compartilhar a conexão de rede do celular com outros dispositivos",
+        "B": "Bloquear aplicativos em segundo plano",
+        "C": "Sincronizar dados com o computador",
+        "D": "Limitar o uso de Wi-Fi"
+      },
+      "answer": "A",
+      "explanation": "Tethering permite que o smartphone funcione como hotspot móvel, compartilhando sua conexão de dados com outros dispositivos via Wi-Fi, Bluetooth ou USB. É útil quando não há Wi-Fi disponível.",
+      "difficulty": "easy",
+      "tags": [
+        "mobile",
+        "compartilhamento",
+        "hotspot",
+        "conectividade"
+      ]
+    },
+    {
+      "id": "1.1_qual_componente_é_responsável_por_armazenar_dados_de_aplicativos_e_do_sistema_em_um_smartphone_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.1 Configurar hardware de dispositivos móveis",
+      "concept": "Qual componente é responsável por armazenar dados de aplicativos e do sistema em um smartphone Qual é o propósito dessa tecnologia",
+      "question": "Qual componente é responsável por armazenar dados de aplicativos e do sistema em um smartphone Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "RAM",
+        "B": "SSD interno",
+        "C": "Cache da CPU",
+        "D": "Cartão SIM"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'SSD interno'. Este conceito está relacionado ao domínio '1.0 Dispositivos móveis' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": []
+    },
+    {
+      "id": "1.1_qual_componente_é_responsável_por_armazenar_dados_de_aplicativos_e_do_sistema_em_um_smartphone_o_que_melhor_descreve_esse_conceito",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.1 Configurar hardware de dispositivos móveis",
+      "concept": "Qual componente é responsável por armazenar dados de aplicativos e do sistema em um smartphone O que melhor descreve esse conceito",
+      "question": "Qual componente é responsável por armazenar dados de aplicativos e do sistema em um smartphone O que melhor descreve esse conceito?",
+      "options": {
+        "A": "RAM",
+        "B": "SSD interno",
+        "C": "Cache da CPU",
+        "D": "Cartão SIM"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'SSD interno'. Este conceito está relacionado ao domínio '1.0 Dispositivos móveis' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": []
+    },
+    {
+      "id": "1.1_qual_componente_é_responsável_por_armazenar_dados_de_aplicativos_e_do_sistema_em_um_smartphone_selecione_a_opção_mais_apropriada",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.1 Configurar hardware de dispositivos móveis",
+      "concept": "Qual componente é responsável por armazenar dados de aplicativos e do sistema em um smartphone Selecione a opção mais apropriada",
+      "question": "Qual componente é responsável por armazenar dados de aplicativos e do sistema em um smartphone Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "RAM",
+        "B": "SSD interno",
+        "C": "Cache da CPU",
+        "D": "Cartão SIM"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'SSD interno'. Este conceito está relacionado ao domínio '1.0 Dispositivos móveis' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": []
+    },
+    {
+      "id": "1.1_uma_webcam_é_classificada_como_um_periférico_de",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.2 Comparar acessórios e opções de conectividade",
+      "concept": "Uma webcam é classificada como um periférico de",
+      "question": "Uma webcam é classificada como um periférico de?",
+      "options": {
+        "A": "Entrada",
+        "B": "Saída",
+        "C": "Armazenamento",
+        "D": "Rede"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'Entrada'. Este conceito está relacionado ao domínio '1.0 Dispositivos móveis' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": []
+    },
+    {
+      "id": "1.1_qual_tipo_de_conector_é_mais_usado_em_dispositivos_android_modernos_para_dados_e_energia_escolha_a_resposta_certa_abaixo",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.2 Comparar acessórios e opções de conectividade",
+      "concept": "Qual tipo de conector é mais usado em dispositivos Android modernos para dados e energia Escolha a resposta certa abaixo",
+      "question": "Qual tipo de conector é mais usado em dispositivos Android modernos para dados e energia Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "Micro-USB",
+        "B": "Lightning",
+        "C": "USB-C",
+        "D": "Mini-USB"
+      },
+      "answer": "C",
+      "explanation": "A alternativa correta é 'USB-C'. Este conceito está relacionado ao domínio '1.0 Dispositivos móveis' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": []
+    },
+    {
+      "id": "1.1_qual_tipo_de_conector_é_mais_usado_em_dispositivos_android_modernos_para_dados_e_energia_o_que_melhor_descreve_esse_conceito",
+      "domain": "1.0 Dispositivos móveis",
+      "subdomain": "1.2 Comparar acessórios e opções de conectividade",
+      "concept": "Qual tipo de conector é mais usado em dispositivos Android modernos para dados e energia O que melhor descreve esse conceito",
+      "question": "Qual tipo de conector é mais usado em dispositivos Android modernos para dados e energia O que melhor descreve esse conceito?",
+      "options": {
+        "A": "Micro-USB",
+        "B": "Lightning",
+        "C": "USB-C",
+        "D": "Mini-USB"
+      },
+      "answer": "C",
+      "explanation": "A alternativa correta é 'USB-C'. Este conceito está relacionado ao domínio '1.0 Dispositivos móveis' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": []
+    },
+    {
+      "id": "2.2_qual_protocolo_usa_a_porta_443_para_conexões_seguras_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "2.0 Redes",
+      "subdomain": "2.1 Comparar e contrastar portas e protocolos TCP/UDP",
+      "concept": "Qual protocolo usa a porta 443 para conexões seguras Qual é o propósito dessa tecnologia",
+      "question": "Qual protocolo usa a porta 443 para conexões seguras Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "HTTP",
+        "B": "HTTPS",
+        "C": "FTP",
+        "D": "SSH"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'HTTPS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_protocolo_usa_a_porta_443_para_conexões_seguras_qual_das_seguintes_é_a_correta",
+      "domain": "2.0 Redes",
+      "subdomain": "2.1 Comparar e contrastar portas e protocolos TCP/UDP",
+      "concept": "Qual protocolo usa a porta 443 para conexões seguras Qual das seguintes é a correta",
+      "question": "Qual protocolo usa a porta 443 para conexões seguras Qual das seguintes é a correta?",
+      "options": {
+        "A": "HTTP",
+        "B": "HTTPS",
+        "C": "FTP",
+        "D": "SSH"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'HTTPS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_protocolo_usa_a_porta_443_para_conexões_seguras_escolha_a_resposta_certa_abaixo",
+      "domain": "2.0 Redes",
+      "subdomain": "2.1 Comparar e contrastar portas e protocolos TCP/UDP",
+      "concept": "Qual protocolo usa a porta 443 para conexões seguras Escolha a resposta certa abaixo.",
+      "question": "Qual protocolo usa a porta 443 para conexões seguras Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "HTTP",
+        "B": "HTTPS",
+        "C": "FTP",
+        "D": "SSH"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'HTTPS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_a_porta_22_é_utilizada_por_qual_protocolo_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "2.0 Redes",
+      "subdomain": "2.1 Comparar e contrastar portas e protocolos TCP/UDP",
+      "concept": "A porta 22 é utilizada por qual protocolo Qual é o propósito dessa tecnologia",
+      "question": "A porta 22 é utilizada por qual protocolo Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "SMTP",
+        "B": "SSH",
+        "C": "DNS",
+        "D": "IMAP"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'SSH'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_protocolo_usa_a_porta_443_para_conexões_seguras_selecione_a_opção_mais_apropriada",
+      "domain": "2.0 Redes",
+      "subdomain": "2.1 Comparar e contrastar portas e protocolos TCP/UDP",
+      "concept": "Qual protocolo usa a porta 443 para conexões seguras Selecione a opção mais apropriada.",
+      "question": "Qual protocolo usa a porta 443 para conexões seguras Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "HTTP",
+        "B": "HTTPS",
+        "C": "FTP",
+        "D": "SSH"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'HTTPS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_a_porta_22_é_utilizada_por_qual_protocolo_o_que_melhor_descreve_esse_conceito",
+      "domain": "2.0 Redes",
+      "subdomain": "2.1 Comparar e contrastar portas e protocolos TCP/UDP",
+      "concept": "A porta 22 é utilizada por qual protocolo O que melhor descreve esse conceito",
+      "question": "A porta 22 é utilizada por qual protocolo O que melhor descreve esse conceito?",
+      "options": {
+        "A": "SMTP",
+        "B": "SSH",
+        "C": "DNS",
+        "D": "IMAP"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'SSH'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_é_a_frequência_usada_pelas_redes_wifi_80211bgn_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "2.0 Redes",
+      "subdomain": "2.2 Explicar tecnologias de rede sem fio",
+      "concept": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n Qual é o propósito dessa tecnologia",
+      "question": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "2,4 GHz",
+        "B": "5 GHz",
+        "C": "900 MHz",
+        "D": "6 GHz"
+      },
+      "answer": "A",
+      "explanation": "Wi-Fi é um padrão de rede sem fio que permite acesso à internet e comunicação entre dispositivos em uma rede local através de ondas de rádio.",
+      "difficulty": "easy",
+      "tags": [
+        "networking",
+        "internet",
+        "wireless",
+        "rede"
+      ]
+    },
+    {
+      "id": "2.2_qual_é_a_frequência_usada_pelas_redes_wifi_80211bgn_selecione_a_opção_mais_apropriada",
+      "domain": "2.0 Redes",
+      "subdomain": "2.2 Explicar tecnologias de rede sem fio",
+      "concept": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n Selecione a opção mais apropriada.",
+      "question": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "2,4 GHz",
+        "B": "5 GHz",
+        "C": "900 MHz",
+        "D": "6 GHz"
+      },
+      "answer": "A",
+      "explanation": "Wi-Fi é um padrão de rede sem fio que permite acesso à internet e comunicação entre dispositivos em uma rede local através de ondas de rádio.",
+      "difficulty": "easy",
+      "tags": [
+        "networking",
+        "internet",
+        "wireless",
+        "rede"
+      ]
+    },
+    {
+      "id": "2.2_qual_é_a_frequência_usada_pelas_redes_wifi_80211bgn_o_que_melhor_descreve_esse_conceito",
+      "domain": "2.0 Redes",
+      "subdomain": "2.2 Explicar tecnologias de rede sem fio",
+      "concept": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n O que melhor descreve esse conceito",
+      "question": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n O que melhor descreve esse conceito?",
+      "options": {
+        "A": "2,4 GHz",
+        "B": "5 GHz",
+        "C": "900 MHz",
+        "D": "6 GHz"
+      },
+      "answer": "A",
+      "explanation": "Wi-Fi é um padrão de rede sem fio que permite acesso à internet e comunicação entre dispositivos em uma rede local através de ondas de rádio.",
+      "difficulty": "easy",
+      "tags": [
+        "networking",
+        "internet",
+        "wireless",
+        "rede"
+      ]
+    },
+    {
+      "id": "2.2_qual_é_a_frequência_usada_pelas_redes_wifi_80211bgn_qual_das_seguintes_é_a_correta",
+      "domain": "2.0 Redes",
+      "subdomain": "2.2 Explicar tecnologias de rede sem fio",
+      "concept": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n Qual das seguintes é a correta",
+      "question": "Qual é a frequência usada pelas redes Wi-Fi 802.11b/g/n Qual das seguintes é a correta?",
+      "options": {
+        "A": "2,4 GHz",
+        "B": "5 GHz",
+        "C": "900 MHz",
+        "D": "6 GHz"
+      },
+      "answer": "A",
+      "explanation": "Wi-Fi é um padrão de rede sem fio que permite acesso à internet e comunicação entre dispositivos em uma rede local através de ondas de rádio.",
+      "difficulty": "easy",
+      "tags": [
+        "networking",
+        "internet",
+        "wireless",
+        "rede"
+      ]
+    },
+    {
+      "id": "2.2_qual_serviço_traduz_nomes_de_domínio_em_endereços_ip_selecione_a_opção_mais_apropriada",
+      "domain": "2.0 Redes",
+      "subdomain": "2.3 Resumir serviços providos por hosts de rede",
+      "concept": "Qual serviço traduz nomes de domínio em endereços IP Selecione a opção mais apropriada.",
+      "question": "Qual serviço traduz nomes de domínio em endereços IP Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "DHCP",
+        "B": "DNS",
+        "C": "FTP",
+        "D": "NTP"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'DNS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_serviço_traduz_nomes_de_domínio_em_endereços_ip_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "2.0 Redes",
+      "subdomain": "2.3 Resumir serviços providos por hosts de rede",
+      "concept": "Qual serviço traduz nomes de domínio em endereços IP Qual é o propósito dessa tecnologia",
+      "question": "Qual serviço traduz nomes de domínio em endereços IP Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "DHCP",
+        "B": "DNS",
+        "C": "FTP",
+        "D": "NTP"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'DNS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_serviço_traduz_nomes_de_domínio_em_endereços_ip_qual_das_seguintes_é_a_correta",
+      "domain": "2.0 Redes",
+      "subdomain": "2.3 Resumir serviços providos por hosts de rede",
+      "concept": "Qual serviço traduz nomes de domínio em endereços IP Qual das seguintes é a correta",
+      "question": "Qual serviço traduz nomes de domínio em endereços IP Qual das seguintes é a correta?",
+      "options": {
+        "A": "DHCP",
+        "B": "DNS",
+        "C": "FTP",
+        "D": "NTP"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'DNS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_serviço_traduz_nomes_de_domínio_em_endereços_ip_o_que_melhor_descreve_esse_conceito",
+      "domain": "2.0 Redes",
+      "subdomain": "2.3 Resumir serviços providos por hosts de rede",
+      "concept": "Qual serviço traduz nomes de domínio em endereços IP O que melhor descreve esse conceito",
+      "question": "Qual serviço traduz nomes de domínio em endereços IP O que melhor descreve esse conceito?",
+      "options": {
+        "A": "DHCP",
+        "B": "DNS",
+        "C": "FTP",
+        "D": "NTP"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'DNS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "2.2_qual_serviço_traduz_nomes_de_domínio_em_endereços_ip_escolha_a_resposta_certa_abaixo",
+      "domain": "2.0 Redes",
+      "subdomain": "2.3 Resumir serviços providos por hosts de rede",
+      "concept": "Qual serviço traduz nomes de domínio em endereços IP Escolha a resposta certa abaixo.",
+      "question": "Qual serviço traduz nomes de domínio em endereços IP Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "DHCP",
+        "B": "DNS",
+        "C": "FTP",
+        "D": "NTP"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'DNS'. Este conceito está relacionado ao domínio '2.0 Redes' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "networking"
+      ]
+    },
+    {
+      "id": "3.3_em_um_monitor_lcd_o_painel_ips_se_destaca_por",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.1 Comparar e contrastar componentes de exibição",
+      "concept": "Em um monitor LCD, o painel IPS se destaca por",
+      "question": "Em um monitor LCD, o painel IPS se destaca por?",
+      "options": {
+        "A": "Menor consumo de energia que OLED",
+        "B": "Melhores ângulos de visão e cores precisas",
+        "C": "Maior taxa de atualização que TN",
+        "D": "Ser mais barato que VA"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Melhores ângulos de visão e cores precisas'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_conector_rj45_é_utilizado_em_qual_tipo_de_cabo_escolha_a_resposta_certa_abaixo",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.2 Resumir tipos de cabos e conectores",
+      "concept": "O conector RJ-45 é utilizado em qual tipo de cabo Escolha a resposta certa abaixo.",
+      "question": "O conector RJ-45 é utilizado em qual tipo de cabo Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "Cabo coaxial",
+        "B": "Cabo de rede Ethernet",
+        "C": "Cabo HDMI",
+        "D": "Cabo VGA"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo de rede Ethernet'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_conector_rj45_é_utilizado_em_qual_tipo_de_cabo_selecione_a_opção_mais_apropriada",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.2 Resumir tipos de cabos e conectores",
+      "concept": "O conector RJ-45 é utilizado em qual tipo de cabo Selecione a opção mais apropriada.",
+      "question": "O conector RJ-45 é utilizado em qual tipo de cabo Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "Cabo coaxial",
+        "B": "Cabo de rede Ethernet",
+        "C": "Cabo HDMI",
+        "D": "Cabo VGA"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo de rede Ethernet'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_conector_rj45_é_utilizado_em_qual_tipo_de_cabo_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.2 Resumir tipos de cabos e conectores",
+      "concept": "O conector RJ-45 é utilizado em qual tipo de cabo Qual é o propósito dessa tecnologia",
+      "question": "O conector RJ-45 é utilizado em qual tipo de cabo Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "Cabo coaxial",
+        "B": "Cabo de rede Ethernet",
+        "C": "Cabo HDMI",
+        "D": "Cabo VGA"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo de rede Ethernet'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_conector_rj45_é_utilizado_em_qual_tipo_de_cabo_o_que_melhor_descreve_esse_conceito",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.2 Resumir tipos de cabos e conectores",
+      "concept": "O conector RJ-45 é utilizado em qual tipo de cabo O que melhor descreve esse conceito",
+      "question": "O conector RJ-45 é utilizado em qual tipo de cabo O que melhor descreve esse conceito?",
+      "options": {
+        "A": "Cabo coaxial",
+        "B": "Cabo de rede Ethernet",
+        "C": "Cabo HDMI",
+        "D": "Cabo VGA"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo de rede Ethernet'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_qual_tecnologia_oferece_as_maiores_velocidades_de_leitura_e_gravação_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.4 Comparar e contrastar dispositivos de armazenamento",
+      "concept": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Qual é o propósito dessa tecnologia",
+      "question": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "HDD",
+        "B": "SSD SATA",
+        "C": "SSD NVMe",
+        "D": "DVD-RW"
+      },
+      "answer": "C",
+      "explanation": "A alternativa correta é 'SSD NVMe'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_qual_tecnologia_oferece_as_maiores_velocidades_de_leitura_e_gravação_escolha_a_resposta_certa_abaixo",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.4 Comparar e contrastar dispositivos de armazenamento",
+      "concept": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Escolha a resposta certa abaixo",
+      "question": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "HDD",
+        "B": "SSD SATA",
+        "C": "SSD NVMe",
+        "D": "DVD-RW"
+      },
+      "answer": "C",
+      "explanation": "A alternativa correta é 'SSD NVMe'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_qual_tecnologia_oferece_as_maiores_velocidades_de_leitura_e_gravação_o_que_melhor_descreve_esse_conceito",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.4 Comparar e contrastar dispositivos de armazenamento",
+      "concept": "Qual tecnologia oferece as maiores velocidades de leitura e gravação O que melhor descreve esse conceito",
+      "question": "Qual tecnologia oferece as maiores velocidades de leitura e gravação O que melhor descreve esse conceito?",
+      "options": {
+        "A": "HDD",
+        "B": "SSD SATA",
+        "C": "SSD NVMe",
+        "D": "DVD-RW"
+      },
+      "answer": "C",
+      "explanation": "A alternativa correta é 'SSD NVMe'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_qual_tecnologia_oferece_as_maiores_velocidades_de_leitura_e_gravação_qual_das_seguintes_é_a_correta",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.4 Comparar e contrastar dispositivos de armazenamento",
+      "concept": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Qual das seguintes é a correta",
+      "question": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Qual das seguintes é a correta?",
+      "options": {
+        "A": "HDD",
+        "B": "SSD SATA",
+        "C": "SSD NVMe",
+        "D": "DVD-RW"
+      },
+      "answer": "C",
+      "explanation": "A alternativa correta é 'SSD NVMe'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_qual_tecnologia_oferece_as_maiores_velocidades_de_leitura_e_gravação_selecione_a_opção_mais_apropriada",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.4 Comparar e contrastar dispositivos de armazenamento",
+      "concept": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Selecione a opção mais apropriada",
+      "question": "Qual tecnologia oferece as maiores velocidades de leitura e gravação Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "HDD",
+        "B": "SSD SATA",
+        "C": "SSD NVMe",
+        "D": "DVD-RW"
+      },
+      "answer": "C",
+      "explanation": "A alternativa correta é 'SSD NVMe'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_soquete_lga_1700_é_usado_em_processadores_de_qual_fabricante_qual_das_seguintes_é_a_correta",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.5 Instalar e configurar placas-mãe, CPUs e placas de expansão",
+      "concept": "O soquete LGA 1700 é usado em processadores de qual fabricante Qual das seguintes é a correta",
+      "question": "O soquete LGA 1700 é usado em processadores de qual fabricante Qual das seguintes é a correta?",
+      "options": {
+        "A": "AMD",
+        "B": "Intel",
+        "C": "Qualcomm",
+        "D": "Apple"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Intel'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_soquete_lga_1700_é_usado_em_processadores_de_qual_fabricante_selecione_a_opção_mais_apropriada",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.5 Instalar e configurar placas-mãe, CPUs e placas de expansão",
+      "concept": "O soquete LGA 1700 é usado em processadores de qual fabricante Selecione a opção mais apropriada.",
+      "question": "O soquete LGA 1700 é usado em processadores de qual fabricante Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "AMD",
+        "B": "Intel",
+        "C": "Qualcomm",
+        "D": "Apple"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Intel'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_soquete_lga_1700_é_usado_em_processadores_de_qual_fabricante_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.5 Instalar e configurar placas-mãe, CPUs e placas de expansão",
+      "concept": "O soquete LGA 1700 é usado em processadores de qual fabricante Qual é o propósito dessa tecnologia",
+      "question": "O soquete LGA 1700 é usado em processadores de qual fabricante Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "AMD",
+        "B": "Intel",
+        "C": "Qualcomm",
+        "D": "Apple"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Intel'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_soquete_lga_1700_é_usado_em_processadores_de_qual_fabricante_escolha_a_resposta_certa_abaixo",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.5 Instalar e configurar placas-mãe, CPUs e placas de expansão",
+      "concept": "O soquete LGA 1700 é usado em processadores de qual fabricante Escolha a resposta certa abaixo.",
+      "question": "O soquete LGA 1700 é usado em processadores de qual fabricante Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "AMD",
+        "B": "Intel",
+        "C": "Qualcomm",
+        "D": "Apple"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Intel'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "3.3_o_soquete_lga_1700_é_usado_em_processadores_de_qual_fabricante_o_que_melhor_descreve_esse_conceito",
+      "domain": "3.0 Hardware",
+      "subdomain": "3.5 Instalar e configurar placas-mãe, CPUs e placas de expansão",
+      "concept": "O soquete LGA 1700 é usado em processadores de qual fabricante O que melhor descreve esse conceito",
+      "question": "O soquete LGA 1700 é usado em processadores de qual fabricante O que melhor descreve esse conceito?",
+      "options": {
+        "A": "AMD",
+        "B": "Intel",
+        "C": "Qualcomm",
+        "D": "Apple"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Intel'. Este conceito está relacionado ao domínio '3.0 Hardware' e é importante para a certificação CompTIA A+.",
+      "difficulty": "easy",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "4.4_em_um_ambiente_virtual_o_software_responsável_por_criar_e_gerenciar_máquinas_virtuais_é_chamado_de",
+      "domain": "4.0 Virtualização e Computação em Nuvem",
+      "subdomain": "4.1 Conceitos de virtualização",
+      "concept": "Em um ambiente virtual, o software responsável por criar e gerenciar máquinas virtuais é chamado de",
+      "question": "Em um ambiente virtual, o software responsável por criar e gerenciar máquinas virtuais é chamado de?",
+      "options": {
+        "A": "Kernel",
+        "B": "Hipervisor",
+        "C": "Emulador",
+        "D": "Container"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Hipervisor'. Este conceito está relacionado ao domínio '4.0 Virtualização e Computação em Nuvem' e é importante para a certificação CompTIA A+.",
+      "difficulty": "medium",
+      "tags": []
+    },
+    {
+      "id": "4.4_qual_modelo_de_serviço_em_nuvem_fornece_infraestrutura_como_serviço_escolha_a_resposta_certa_abaixo",
+      "domain": "4.0 Virtualização e Computação em Nuvem",
+      "subdomain": "4.2 Conceitos de nuvem",
+      "concept": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Escolha a resposta certa abaixo.",
+      "question": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "DaaS"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'IaaS'. Este conceito está relacionado ao domínio '4.0 Virtualização e Computação em Nuvem' e é importante para a certificação CompTIA A+.",
+      "difficulty": "medium",
+      "tags": []
+    },
+    {
+      "id": "4.4_qual_modelo_de_serviço_em_nuvem_fornece_infraestrutura_como_serviço_o_que_melhor_descreve_esse_conceito",
+      "domain": "4.0 Virtualização e Computação em Nuvem",
+      "subdomain": "4.2 Conceitos de nuvem",
+      "concept": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço O que melhor descreve esse conceito",
+      "question": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço O que melhor descreve esse conceito?",
+      "options": {
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "DaaS"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'IaaS'. Este conceito está relacionado ao domínio '4.0 Virtualização e Computação em Nuvem' e é importante para a certificação CompTIA A+.",
+      "difficulty": "medium",
+      "tags": []
+    },
+    {
+      "id": "4.4_qual_modelo_de_serviço_em_nuvem_fornece_infraestrutura_como_serviço_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "4.0 Virtualização e Computação em Nuvem",
+      "subdomain": "4.2 Conceitos de nuvem",
+      "concept": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Qual é o propósito dessa tecnologia",
+      "question": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "DaaS"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'IaaS'. Este conceito está relacionado ao domínio '4.0 Virtualização e Computação em Nuvem' e é importante para a certificação CompTIA A+.",
+      "difficulty": "medium",
+      "tags": []
+    },
+    {
+      "id": "4.4_qual_modelo_de_serviço_em_nuvem_fornece_infraestrutura_como_serviço_qual_das_seguintes_é_a_correta",
+      "domain": "4.0 Virtualização e Computação em Nuvem",
+      "subdomain": "4.2 Conceitos de nuvem",
+      "concept": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Qual das seguintes é a correta",
+      "question": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Qual das seguintes é a correta?",
+      "options": {
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "DaaS"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'IaaS'. Este conceito está relacionado ao domínio '4.0 Virtualização e Computação em Nuvem' e é importante para a certificação CompTIA A+.",
+      "difficulty": "medium",
+      "tags": []
+    },
+    {
+      "id": "4.4_qual_modelo_de_serviço_em_nuvem_fornece_infraestrutura_como_serviço_selecione_a_opção_mais_apropriada",
+      "domain": "4.0 Virtualização e Computação em Nuvem",
+      "subdomain": "4.2 Conceitos de nuvem",
+      "concept": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Selecione a opção mais apropriada",
+      "question": "Qual modelo de serviço em nuvem fornece infraestrutura como serviço Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "DaaS"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'IaaS'. Este conceito está relacionado ao domínio '4.0 Virtualização e Computação em Nuvem' e é importante para a certificação CompTIA A+.",
+      "difficulty": "medium",
+      "tags": []
+    },
+    {
+      "id": "5.5_um_pc_não_exibe_vídeo_após_ser_ligado_o_que_deve_ser_verificado_primeiro_escolha_a_resposta_certa_abaixo",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.1 Diagnosticar problemas de hardware",
+      "concept": "Um PC não exibe vídeo após ser ligado",
+      "question": "Um PC não exibe vídeo após ser ligado. O que deve ser verificado primeiro Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "Drivers de vídeo",
+        "B": "Cabo do monitor e GPU",
+        "C": "Configuração de BIOS",
+        "D": "Sistema operacional"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo do monitor e GPU'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    },
+    {
+      "id": "5.5_um_pc_não_exibe_vídeo_após_ser_ligado_o_que_deve_ser_verificado_primeiro_o_que_melhor_descreve_esse_conceito",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.1 Diagnosticar problemas de hardware",
+      "concept": "Um PC não exibe vídeo após ser ligado",
+      "question": "Um PC não exibe vídeo após ser ligado. O que deve ser verificado primeiro O que melhor descreve esse conceito?",
+      "options": {
+        "A": "Drivers de vídeo",
+        "B": "Cabo do monitor e GPU",
+        "C": "Configuração de BIOS",
+        "D": "Sistema operacional"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo do monitor e GPU'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    },
+    {
+      "id": "5.5_um_pc_não_exibe_vídeo_após_ser_ligado_o_que_deve_ser_verificado_primeiro_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.1 Diagnosticar problemas de hardware",
+      "concept": "Um PC não exibe vídeo após ser ligado",
+      "question": "Um PC não exibe vídeo após ser ligado. O que deve ser verificado primeiro Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "Drivers de vídeo",
+        "B": "Cabo do monitor e GPU",
+        "C": "Configuração de BIOS",
+        "D": "Sistema operacional"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo do monitor e GPU'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    },
+    {
+      "id": "5.5_um_pc_não_exibe_vídeo_após_ser_ligado_o_que_deve_ser_verificado_primeiro_selecione_a_opção_mais_apropriada",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.1 Diagnosticar problemas de hardware",
+      "concept": "Um PC não exibe vídeo após ser ligado",
+      "question": "Um PC não exibe vídeo após ser ligado. O que deve ser verificado primeiro Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "Drivers de vídeo",
+        "B": "Cabo do monitor e GPU",
+        "C": "Configuração de BIOS",
+        "D": "Sistema operacional"
+      },
+      "answer": "B",
+      "explanation": "A alternativa correta é 'Cabo do monitor e GPU'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    },
+    {
+      "id": "5.5_um_usuário_não_consegue_acessar_sites_externos_mas_acessa_recursos_internos_qual_pode_ser_a_causa_o_que_melhor_descreve_esse_conceito",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.2 Solucionar problemas de rede",
+      "concept": "Um usuário não consegue acessar sites externos, mas acessa recursos internos",
+      "question": "Um usuário não consegue acessar sites externos, mas acessa recursos internos. Qual pode ser a causa O que melhor descreve esse conceito?",
+      "options": {
+        "A": "Servidor DNS incorreto",
+        "B": "Cabo de rede rompido",
+        "C": "Placa de rede desativada",
+        "D": "Conflito de IP"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'Servidor DNS incorreto'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    },
+    {
+      "id": "5.5_um_usuário_não_consegue_acessar_sites_externos_mas_acessa_recursos_internos_qual_pode_ser_a_causa_qual_é_o_propósito_dessa_tecnologia",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.2 Solucionar problemas de rede",
+      "concept": "Um usuário não consegue acessar sites externos, mas acessa recursos internos",
+      "question": "Um usuário não consegue acessar sites externos, mas acessa recursos internos. Qual pode ser a causa Qual é o propósito dessa tecnologia?",
+      "options": {
+        "A": "Servidor DNS incorreto",
+        "B": "Cabo de rede rompido",
+        "C": "Placa de rede desativada",
+        "D": "Conflito de IP"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'Servidor DNS incorreto'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    },
+    {
+      "id": "5.5_um_usuário_não_consegue_acessar_sites_externos_mas_acessa_recursos_internos_qual_pode_ser_a_causa_escolha_a_resposta_certa_abaixo",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.2 Solucionar problemas de rede",
+      "concept": "Um usuário não consegue acessar sites externos, mas acessa recursos internos",
+      "question": "Um usuário não consegue acessar sites externos, mas acessa recursos internos. Qual pode ser a causa Escolha a resposta certa abaixo.?",
+      "options": {
+        "A": "Servidor DNS incorreto",
+        "B": "Cabo de rede rompido",
+        "C": "Placa de rede desativada",
+        "D": "Conflito de IP"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'Servidor DNS incorreto'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    },
+    {
+      "id": "5.5_um_usuário_não_consegue_acessar_sites_externos_mas_acessa_recursos_internos_qual_pode_ser_a_causa_selecione_a_opção_mais_apropriada",
+      "domain": "5.0 Solução de Problemas de Hardware e Rede",
+      "subdomain": "5.2 Solucionar problemas de rede",
+      "concept": "Um usuário não consegue acessar sites externos, mas acessa recursos internos",
+      "question": "Um usuário não consegue acessar sites externos, mas acessa recursos internos. Qual pode ser a causa Selecione a opção mais apropriada.?",
+      "options": {
+        "A": "Servidor DNS incorreto",
+        "B": "Cabo de rede rompido",
+        "C": "Placa de rede desativada",
+        "D": "Conflito de IP"
+      },
+      "answer": "A",
+      "explanation": "A alternativa correta é 'Servidor DNS incorreto'. Este conceito está relacionado ao domínio '5.0 Solução de Problemas de Hardware e Rede' e é importante para a certificação CompTIA A+.",
+      "difficulty": "hard",
+      "tags": [
+        "hardware",
+        "networking"
+      ]
+    }
+  ]
+}
