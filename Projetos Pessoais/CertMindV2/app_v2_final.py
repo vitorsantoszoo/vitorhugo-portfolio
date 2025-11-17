@@ -520,10 +520,14 @@ def display_progress_charts():
         wrong = st.session_state.user_data['quiz_data']['wrong_answers']
         
         if correct + wrong > 0:
-            st.pie_chart({
-                'Corretas': correct,
-                'Incorretas': wrong
-            })
+            # Usar métricas em vez de pie chart para evitar erros
+            col_a, col_b = st.columns(2)
+            with col_a:
+                st.metric("✅ Corretas", correct, f"{correct/(correct+wrong)*100:.1f}%")
+            with col_b:
+                st.metric("❌ Incorretas", wrong, f"{wrong/(correct+wrong)*100:.1f}%")
+        else:
+            st.info("📝 Complete um quiz para ver a distribuição de respostas")
     
     with col2:
         # Progresso semanal
