@@ -1,10 +1,10 @@
-🌐 Inteligência Artificial Generativa: Conceitos e Aplicações
+## 🌐 Inteligência Artificial Generativa: Conceitos e Aplicações
 
 Disciplina da Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina, com foco na evolução, fundamentos teóricos e aplicações práticas de sistemas generativos, desde abordagens estatísticas até modelos modernos baseados em arquiteturas neurais avançadas.
 
 ---
 
-🧠 Conteúdo Programático
+# 🧠 Conteúdo Programático
 
 Principais tópicos estudados:
 
@@ -38,9 +38,9 @@ Artigos clássicos analisados durante a disciplina:
 
 ---
 
-🧰 Tecnologias e Ferramentas Utilizadas
+# 🧰 Tecnologias e Ferramentas Utilizadas
 
-```
+
 | Categoria                | Tecnologias                                    |
 | ------------------------ | ---------------------------------------------- |
 | Linguagem de Programação | Python 🐍                                      |
@@ -49,11 +49,11 @@ Artigos clássicos analisados durante a disciplina:
 | Análise e Visualização   | pandas, NumPy, Matplotlib                      |
 | Áudio & Sinais           | Librosa                                        |
 | Ambiente                 | Google Colab                                   |
-```
+
 
 ---
 
-🧩 Atividades Desenvolvidas
+# 🧩 Atividades Desenvolvidas
 
 ```
 | Atividade / Projeto                      | Descrição                                                                           | Arquivo                                           |
@@ -67,7 +67,7 @@ Artigos clássicos analisados durante a disciplina:
 
 ---
 
-🎯 Projeto Final — Similaridade Semântica com Sentence-BERT
+# 🎯 Projeto Final — Similaridade Semântica com Sentence-BERT
 
 Este projeto aplica um modelo Encoder-Only, baseado na arquitetura BERT, para gerar representações vetoriais de sentenças e medir similaridade semântica entre textos no domínio de Inteligência Artificial.
 
@@ -97,7 +97,7 @@ Demonstrar como embeddings contextuais (h_CLS) podem ser utilizados para:
 
 ---
 
-🧾 Sobre a Disciplina
+# 🧾 Sobre a Disciplina
 
 Esta disciplina capacitou o estudante a:
 
@@ -108,7 +108,7 @@ Esta disciplina capacitou o estudante a:
 
 ---
 
-🏁 Conclusão
+# 🏁 Conclusão
 
 O repositório consolida os conteúdos estudados e demonstra, na prática, como diferentes abordagens de IA generativa e representações vetoriais podem ser aplicadas em problemas reais. O projeto final, baseado em Sentence-BERT, reforça o domínio dos conceitos de encoders e similaridade semântica, alinhando teoria e aplicação.
 
