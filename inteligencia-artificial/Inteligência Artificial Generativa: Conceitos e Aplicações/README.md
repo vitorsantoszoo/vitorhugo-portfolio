@@ -1,10 +1,10 @@
-## 🌐 Inteligência Artificial Generativa: Conceitos e Aplicações
+# 🌐 Inteligência Artificial Generativa: Conceitos e Aplicações
 
 Disciplina da Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina, com foco na evolução, fundamentos teóricos e aplicações práticas de sistemas generativos, desde abordagens estatísticas até modelos modernos baseados em arquiteturas neurais avançadas.
 
 ---
 
-# 🧠 Conteúdo Programático
+## 🧠 Conteúdo Programático
 
 Principais tópicos estudados:
 
@@ -38,7 +38,7 @@ Artigos clássicos analisados durante a disciplina:
 
 ---
 
-# 🧰 Tecnologias e Ferramentas Utilizadas
+## 🧰 Tecnologias e Ferramentas Utilizadas
 
 
 | Categoria                | Tecnologias                                    |
@@ -53,9 +53,9 @@ Artigos clássicos analisados durante a disciplina:
 
 ---
 
-# 🧩 Atividades Desenvolvidas
+## 🧩 Atividades Desenvolvidas
 
-```
+
 | Atividade / Projeto                      | Descrição                                                                           | Arquivo                                           |
 | ---------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------- |
 | Previsão da Produção de Leite            | Aplicação de modelos de linguagem para previsão textual a partir de dados numéricos | Atividade 2 - Previsão da Produção de Leite.ipynb |
@@ -63,11 +63,11 @@ Artigos clássicos analisados durante a disciplina:
 | Processamento de Linguagem Natural       | Geração de texto com embeddings e redes recorrentes                                 | Atividade 4.ipynb                                 |
 | Processamento de Áudio com IA Generativa | Reconhecimento e síntese de áudio                                                   | Atividade_Processamento_Audio_2025.ipynb          |
 | Experimento Prático                      | Aplicação de modelo generativo em contexto experimental                             | Atividade 7.ipynb                                 |
-```
+
 
 ---
 
-# 🎯 Projeto Final — Similaridade Semântica com Sentence-BERT
+## 🎯 Projeto Final — Similaridade Semântica com Sentence-BERT
 
 Este projeto aplica um modelo Encoder-Only, baseado na arquitetura BERT, para gerar representações vetoriais de sentenças e medir similaridade semântica entre textos no domínio de Inteligência Artificial.
 
@@ -97,7 +97,7 @@ Demonstrar como embeddings contextuais (h_CLS) podem ser utilizados para:
 
 ---
 
-# 🧾 Sobre a Disciplina
+## 🧾 Sobre a Disciplina
 
 Esta disciplina capacitou o estudante a:
 
@@ -108,7 +108,7 @@ Esta disciplina capacitou o estudante a:
 
 ---
 
-# 🏁 Conclusão
+## 🏁 Conclusão
 
 O repositório consolida os conteúdos estudados e demonstra, na prática, como diferentes abordagens de IA generativa e representações vetoriais podem ser aplicadas em problemas reais. O projeto final, baseado em Sentence-BERT, reforça o domínio dos conceitos de encoders e similaridade semântica, alinhando teoria e aplicação.
 
