@@ -1,87 +1,115 @@
-# 🤖 Inteligência Artificial Generativa: Conceitos e Aplicações
+🌐 Inteligência Artificial Generativa: Conceitos e Aplicações
 
-📚 Disciplina da Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina com foco em fundamentos, evolução e aplicações práticas de sistemas generativos, desde modelos baseados em estatística até arquiteturas modernas de IA generativa (RNN, LSTM, embeddings, geração de texto e áudio, entre outros).
+Disciplina da Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina, com foco na evolução, fundamentos teóricos e aplicações práticas de sistemas generativos, desde abordagens estatísticas até modelos modernos baseados em arquiteturas neurais avançadas.
 
 ---
 
-## 🧠 Conteúdo Programático
+🧠 Conteúdo Programático
 
-● Principais tópicos estudados durante a disciplina:
+Principais tópicos estudados:
 
 ● Evolução da IA Generativa
 
 ● Modelos generativos baseados em estatística
 
-● NLP (Processamento de Linguagem Natural) aplicado à geração de texto
+● Processamento de Linguagem Natural (NLP)
 
 ● Redes Neurais Recorrentes (RNN)
 
-● LSTM (Long Short-Term Memory)
+● LSTM — Long Short-Term Memory
 
 ● Embeddings (Word2Vec, GloVe)
 
-● Similaridade semântica e análise de contexto
+● Similaridade semântica e representação contextual
 
 ● Geração de texto e áudio com modelos generativos
 
-● Aplicações reais e estudos de caso em GenAI
+● Aplicações reais e estudos de caso
 
 ● Impactos, riscos e ética no uso de IA Generativa
 
-Também foram explorados fundamentos técnicos dos principais artigos originais:
+Artigos clássicos analisados durante a disciplina:
 
-● Efficient Estimation of Word Representations in Vector Space — Word2Vec
+● Efficient Estimation of Word Representations in Vector Space (Word2Vec)
 
-● GloVe: Global Vectors for Word Representation
+● GloVe — Global Vectors for Word Representation
 
-● Modelos de espaço vetorial e avanços em representação de linguagem
-
----
-
-## 🧰 Tecnologias e Ferramentas
-
-| Categoria                   | Principais Tecnologias                         |
-| --------------------------- | ---------------------------------------------- |
-| Linguagem de Programação    | Python 🐍                                      |
-| Bibliotecas de IA           | TensorFlow, PyTorch, scikit-learn              |
-| NLP & Embeddings            | NLTK, spaCy, Gensim, Hugging Face Transformers |
-| Análise e Visualização      | pandas, NumPy, Matplotlib                      |
-| Áudio & Sinais              | Librosa                                        |
-| Ambiente de Desenvolvimento | Google Colab                                   |
+● Conceitos sobre modelos de espaço vetorial e avanços em representação de linguagem
 
 ---
 
-## 🧩 Atividades Desenvolvidas
+🧰 Tecnologias e Ferramentas Utilizadas
 
-| Atividade / Projeto                                   | Descrição                                                                           | Arquivo                                                                                                                               |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Previsão da Produção de Leite**                     | Aplicação de modelos de linguagem para previsão textual baseada em dados numéricos. | [Atividade 2 - Previsão da Produção de Leite.ipynb](./Atividade%202%20-%20Previs%C3%A3o%20da%20Produ%C3%A7%C3%A3o%20de%20Leite.ipynb) |
-| **Classificação MasterCard (IA Generativa aplicada)** | Análise de textos e imagens com abordagem generativa para categorização.            | [Atividade 3 - MasterCard.ipynb](./Atividade%203%20-%20MasterCard.ipynb)                                                              |
-| **Atividade 4 (Processamento de Linguagem Natural)**  | Geração de texto com embeddings e RNNs.                                             | [Atividade 4.ipynb](./Atividade%204.ipynb)                                                                                            |
-| **Processamento de Áudio com IA Generativa**          | Reconhecimento e síntese de áudio com modelos generativos.                          | [Atividade_Processamento_Audio_2025.ipynb](./Atividade_Processamento_Audio_2025.ipynb)                                                |
-| **Atividade 7 (Experimento / Aplicação Avançada)**    | Teste de modelo generativo em contexto aplicado.                                    | [Atividade 7.ipynb](./Atividade%207.ipynb)                                                                                            |
-
+```
+| Categoria                | Tecnologias                                    |
+| ------------------------ | ---------------------------------------------- |
+| Linguagem de Programação | Python 🐍                                      |
+| Bibliotecas de IA        | TensorFlow, PyTorch, scikit-learn              |
+| NLP & Embeddings         | NLTK, spaCy, Gensim, Hugging Face Transformers |
+| Análise e Visualização   | pandas, NumPy, Matplotlib                      |
+| Áudio & Sinais           | Librosa                                        |
+| Ambiente                 | Google Colab                                   |
+```
 
 ---
 
-## 🚧 Projeto Final — Em Desenvolvimento
+🧩 Atividades Desenvolvidas
 
-A disciplina ainda contará com um projeto final a ser adicionado nesta seção.
+```
+| Atividade / Projeto                      | Descrição                                                                           | Arquivo                                           |
+| ---------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------- |
+| Previsão da Produção de Leite            | Aplicação de modelos de linguagem para previsão textual a partir de dados numéricos | Atividade 2 - Previsão da Produção de Leite.ipynb |
+| Classificação MasterCard                 | IA generativa aplicada à análise de imagens e textos                                | Atividade 3 - MasterCard.ipynb                    |
+| Processamento de Linguagem Natural       | Geração de texto com embeddings e redes recorrentes                                 | Atividade 4.ipynb                                 |
+| Processamento de Áudio com IA Generativa | Reconhecimento e síntese de áudio                                                   | Atividade_Processamento_Audio_2025.ipynb          |
+| Experimento Prático                      | Aplicação de modelo generativo em contexto experimental                             | Atividade 7.ipynb                                 |
+```
 
-🔜 Assim que concluído, o projeto será disponibilizado neste repositório (em formato .ipynb, .pdf ou .pptx) com documentação completa e explicação técnica.
+---
+
+🎯 Projeto Final — Similaridade Semântica com Sentence-BERT
+
+Este projeto aplica um modelo Encoder-Only, baseado na arquitetura BERT, para gerar representações vetoriais de sentenças e medir similaridade semântica entre textos no domínio de Inteligência Artificial.
+
+🔍 Objetivo
+
+Demonstrar como embeddings contextuais (h_CLS) podem ser utilizados para:
+
+● Comparar sentenças
+
+● Identificar relações semânticas
+
+● Agrupar conceitos relacionados
+
+🧪 Tecnologias utilizadas no projeto final
+
+● sentence-transformers
+
+● Modelo: multi-qa-MiniLM-L6-cos-v1
+
+● Similaridade de cosseno
+
+● Python + Google Colab
+
+📂 Notebook do Projeto
+
+👉 Similaridade Semântica com Sentence.ipynb
 
 ---
 
 🧾 Sobre a Disciplina
 
-Esta disciplina integra o curso de Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina, com foco em:
+Esta disciplina capacitou o estudante a:
 
-Capacitar o aluno a compreender e aplicar modelos generativos em diferentes contextos (texto, imagem, som);
-
-Entender os fundamentos teóricos e avaliações de performance de modelos como RNN e LSTM;
-
-Desenvolver senso crítico sobre os impactos sociais e éticos da IA Generativa.
+✔ Entender e aplicar modelos generativos modernos
+✔ Diferenciar arquiteturas encoder, decoder e encoder-decoder
+✔ Utilizar embeddings e modelos pré-treinados para tarefas de NLP
+✔ Avaliar riscos, impactos e implicações éticas da IA
 
 ---
 
+🏁 Conclusão
 
+O repositório consolida os conteúdos estudados e demonstra, na prática, como diferentes abordagens de IA generativa e representações vetoriais podem ser aplicadas em problemas reais. O projeto final, baseado em Sentence-BERT, reforça o domínio dos conceitos de encoders e similaridade semântica, alinhando teoria e aplicação.
+
+---
