@@ -102,8 +102,11 @@ Demonstrar como embeddings contextuais (h_CLS) podem ser utilizados para:
 Esta disciplina capacitou o estudante a:
 
 ✔ Entender e aplicar modelos generativos modernos
+
 ✔ Diferenciar arquiteturas encoder, decoder e encoder-decoder
+
 ✔ Utilizar embeddings e modelos pré-treinados para tarefas de NLP
+
 ✔ Avaliar riscos, impactos e implicações éticas da IA
 
 ---
