@@ -35,9 +35,9 @@ Python • Pandas • NumPy • Scikit-Learn • PyTorch • OpenCV • Matplotl
 
 Cada disciplina possui uma pasta própria contendo:
 
-- resumo do conteúdo estudado (README)
-- atividades acadêmicas e projetos desenvolvidos
-- arquivos de código, notebooks, relatórios, PDFs e apresentações
+- Resumo do conteúdo estudado (README)
+- Atividades acadêmicas e projetos desenvolvidos
+- Arquivos de código, notebooks, relatórios, PDFs e apresentações
 
 ---
 
