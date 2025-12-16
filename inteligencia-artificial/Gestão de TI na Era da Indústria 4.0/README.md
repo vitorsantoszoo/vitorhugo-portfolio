@@ -1,68 +1,88 @@
-
 # 🏭 Gestão de TI na Era da Indústria 4.0
 
-Esta disciplina faz parte da Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina e aborda o papel estratégico da Tecnologia da Informação no contexto da Indústria 4.0.
+Esta disciplina faz parte da **Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina** e tem como objetivo analisar o papel estratégico da Tecnologia da Informação no contexto da **Indústria 4.0**, com ênfase na **transformação digital nas organizações**.
 
-Ao longo das aulas, foram estudados os impactos da transformação digital, das tecnologias habilitadoras e da Inteligência Artificial na gestão organizacional, com ênfase no alinhamento entre TI, negócios e inovação.
-
----
-
-## 📚 Conteúdos Estudados
-
-A disciplina abordou os seguintes temas:
-
-- Introdução à Indústria 4.0 e Gestão de TI
-- Tecnologias habilitadoras da Indústria 4.0 (IoT, Cloud, Big Data, IA)
-- Transformação digital nas organizações
-- Arquitetura de TI e Infraestrutura na Indústria 4.0
-- Arquitetura Empresarial e alinhamento Negócios–TI
-- Big Data, Data Analytics, Cibersegurança e Privacidade de Dados
-- Inteligência Artificial e Machine Learning aplicados à gestão
-- Gestão de Projetos de TI (PMBOK e práticas ágeis)
-- TI Verde e Sustentabilidade
+Ao longo da disciplina, foram discutidos conceitos teóricos, tecnológicos e organizacionais relacionados à integração entre sistemas digitais, físicos e cognitivos, bem como os impactos dessa transformação nos modelos de negócio, na gestão e na tomada de decisão empresarial.
 
 ---
 
-## 🧩 Projeto Prático Aplicado
+## 📚 Conteúdos Abordados
 
-### **AI Agent Hub — Arquitetura de Sistemas Inteligentes para a Indústria 4.0**
+Os principais temas estudados na disciplina incluem:
 
-Como aplicação prática dos conceitos estudados, foi desenvolvido o projeto **AI Agent Hub**, que simula uma arquitetura moderna de TI baseada em agentes inteligentes.
-
-O projeto demonstra como a Inteligência Artificial pode ser integrada a uma arquitetura organizada, modular e escalável, apoiando a tomada de decisão e a automação de processos — princípios centrais da Indústria 4.0.
-
-### 🔧 Componentes do Projeto
-- **Vision Agent** — simulação de inspeção e análise visual
-- **NLP Agent** — interação textual e suporte à decisão
-- **Decision Agent** — integração de dados e geração de decisões
-- **Arquitetura modular** inspirada em Arquitetura Empresarial
-- **Conceitos de MLOps** aplicados de forma introdutória
-- Execução em ambiente **Google Colab (CPU)**, alinhada aos princípios de TI Verde
-
-📁 Projeto principal: `AI Agent Hub/`
-
----
-
-## 🎯 Relação com a Indústria 4.0
-
-O projeto reflete diretamente os princípios da Indústria 4.0 ao demonstrar:
-
-- Integração entre dados, modelos e processos
-- Uso estratégico da TI como habilitadora do negócio
-- Aplicação prática de IA em ambientes organizacionais
-- Arquitetura orientada à escalabilidade e governança
-- Preocupação com eficiência computacional e sustentabilidade
+- Evolução das revoluções industriais (1.0 a 4.0)
+- Conceito e fundamentos da Indústria 4.0
+- Transformação digital nas empresas
+- Tecnologias habilitadoras da Indústria 4.0:
+  - Internet das Coisas (IoT)
+  - Inteligência Artificial
+  - Big Data e Analytics
+  - Computação em Nuvem
+  - Robótica Avançada e Gêmeos Digitais
+- Arquitetura de TI e integração entre sistemas
+- Impactos organizacionais da Indústria 4.0
+- Benefícios estratégicos da transformação digital
+- Desafios e barreiras para a adoção da Indústria 4.0
+- Cultura organizacional, competências digitais e governança de TI
 
 ---
 
-## 📈 Status
+## 🧩 Atividade Acadêmica Desenvolvida
 
-🚧 Projeto em desenvolvimento contínuo, com evolução incremental conforme o aprofundamento dos estudos.
+### **Seminário: Transformação Digital nas Empresas — Impactos da Indústria 4.0**
+
+Como atividade avaliativa da disciplina, foi desenvolvido um **seminário acadêmico em grupo**, cujo objetivo foi analisar de forma crítica e fundamentada os impactos da Indústria 4.0 no ambiente corporativo.
+
+O trabalho abordou a transformação digital como um processo que vai além da adoção tecnológica, envolvendo mudanças estruturais em **processos, cultura organizacional, modelos de gestão e competências profissionais**.
+
+📄 **Arquivo do seminário:**  
+`Seminario Transformacao Digital Industria 4.0.pdf`
+
+---
+
+## 🧠 Principais Pontos Analisados no Seminário
+
+- A Indústria 4.0 como uma mudança paradigmática na lógica produtiva e gerencial
+- A integração entre IoT, IA, Big Data e Cloud como base da transformação digital
+- A consolidação de organizações **data-driven**
+- O papel da Inteligência Artificial na automação inteligente e na tomada de decisão
+- Impactos organizacionais, incluindo novas competências e estruturas mais ágeis
+- Benefícios como eficiência operacional, inovação contínua e redução de custos
+- Desafios relacionados à resistência cultural, segurança da informação, sistemas legados e capacitação profissional
+
+---
+
+## 🏢 Casos de Sucesso Estudados
+
+O seminário analisou exemplos reais de aplicação da Indústria 4.0 em empresas nacionais e internacionais, destacando:
+
+- **Bosch** — uso de IoT e análise preditiva para redução de falhas e custos operacionais
+- **Heineken** — aplicação de Big Data para otimização da produção e logística, com foco em cultura organizacional
+- **Natura** — automação, robótica e uso de tecnologias inteligentes no processo produtivo
+- **Siemens, Embraer e Ambev** — digitalização, gêmeos digitais e monitoramento em tempo real
+
+Esses casos evidenciam que o sucesso da Indústria 4.0 depende da **integração entre tecnologia, gestão e estratégia organizacional**.
+
+---
+
+## 🎯 Conclusões
+
+A disciplina permitiu compreender que a transformação digital não se resume à implementação de tecnologias isoladas, mas exige uma abordagem sistêmica, envolvendo:
+
+- Alinhamento entre TI e estratégia empresarial
+- Governança tecnológica
+- Cultura orientada a dados
+- Capacitação contínua de pessoas
+- Integração entre processos, sistemas e decisões
+
+Nesse contexto, a Gestão de TI assume um papel central como facilitadora da inovação e da competitividade na Era da Indústria 4.0.
 
 ---
 
 ## 📬 Autor
 
-**Vitor Hugo**  
+**Vitor Hugo da Silva Santos**  
 Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina  
+Universidade Nove de Julho – UNINOVE  
 GitHub: https://github.com/vitorsantoszoo
+
