@@ -1,56 +1,66 @@
 # 🤖 Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina
 
-Este diretório reúne os projetos, atividades, exercícios práticos e materiais desenvolvidos durante minha **Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina**, com foco em modelagem, processamento, visão computacional, IA generativa e técnicas modernas de aprendizado de máquina.
+Este diretório reúne os projetos, atividades, exercícios práticos e materiais desenvolvidos durante minha **Pós-Graduação em Inteligência Artificial e Aprendizagem de Máquina**, com foco em modelagem, processamento de dados, visão computacional, IA generativa e técnicas modernas de aprendizado de máquina.
 
-Ao longo da formação, foram abordados conceitos fundamentais para aplicação prática de IA em diferentes contextos desde análise de dados até resolução de problemas reais com algoritmos de otimização, simulação e redes neurais.
+Ao longo da formação, foram abordados conceitos fundamentais para aplicação prática da Inteligência Artificial em diferentes contextos, desde análise de dados até a resolução de problemas reais com algoritmos de otimização, simulação e redes neurais.
 
 ---
 
-## Disciplinas da Pós-Graduação
+## 📚 Disciplinas da Pós-Graduação
 
-As disciplinas estão sendo documentadas neste portfólio conforme os projetos e atividades são adicionados.
+As disciplinas estão sendo documentadas neste portfólio conforme os projetos, atividades acadêmicas e materiais são desenvolvidos e organizados.
 
 ### Disciplinas estudadas
 
-- Introdução ao Python
-- Análise e Processamento de Dados
-- Aprendizagem de Máquina e Visão Computacional
-- Arquitetura e Governança de Dados
-- Modelagem e Simulação Aplicada ao Processo Decisório
-- Resolução de Problemas com Inteligência Artificial e Aprendizagem de Máquina
-- Inteligência Artificial Generativa: Conceitos e Aplicações
-
-(*lista pode ser expandida à medida que novas disciplinas forem concluídas*)
-
----
-
-### Tecnologias e Ferramentas
-Python • Pandas • NumPy • Scikit-Learn • PyTorch • OpenCV • Matplotlib • Streamlit • Colab
+- Introdução ao Python  
+- Análise e Processamento de Dados  
+- Estatística para Inteligência Artificial e Aprendizagem de Máquina  
+- Aprendizagem de Máquina e Visão Computacional  
+- Arquitetura e Governança de Dados  
+- Modelagem e Simulação Aplicadas ao Processo Decisório  
+- Resolução de Problemas com Inteligência Artificial e Aprendizagem de Máquina  
+- Inteligência Artificial Generativa: Conceitos e Aplicações  
+- Gestão de TI na Era da Indústria 4.0  
+- Projetos de Inteligência Artificial e Aprendizagem de Máquina  
 
 ---
 
-### Estrutura de Organização
+## 🛠️ Tecnologias e Ferramentas
+
+Python • Pandas • NumPy • Scikit-Learn • PyTorch • OpenCV • Matplotlib • Streamlit • Google Colab
+
+---
+
+## 📂 Estrutura de Organização
 
 Cada disciplina possui uma pasta própria contendo:
 
 - resumo do conteúdo estudado (README)
-- atividades e projetos realizados
+- atividades acadêmicas e projetos desenvolvidos
 - arquivos de código, notebooks, relatórios, PDFs e apresentações
 
 ---
 
-## 🚀 Projetos em destaque
-- **Inspeção Visual com OpenCV:** Contagem de porcas e parafusos usando Análise de Componentes Conectados.
-- **Classificador de Risco:** Modelo supervisionado para previsão de risco em dados tabulares.
-- **Detector de Lixo (Visão Computacional):** Rede neural treinada para identificar resíduos em ambientes urbanos.
+## 🚀 Projetos em Destaque
+
+- **Inspeção Visual com OpenCV**  
+  Contagem de porcas e parafusos utilizando análise de Componentes Conectados.
+
+- **Classificador de Risco**  
+  Modelo supervisionado para previsão de risco a partir de dados tabulares.
+
+- **Detector de Lixo (Visão Computacional)**  
+  Rede neural treinada para identificação de resíduos em ambientes urbanos.
+
+- **Seminário — Transformação Digital nas Empresas: Impactos da Indústria 4.0**  
+  Pesquisa acadêmica desenvolvida na disciplina *Gestão de TI na Era da Indústria 4.0*, abordando os efeitos da transformação digital, tecnologias habilitadoras, impactos organizacionais, benefícios, desafios e estudos de caso reais.
 
 ---
 
-### 📫 **Contato**
+## 📫 Contato
+
 📧 E-mail: vitoor.hugoo@hotmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/vitor-hugo-3861391b8](#)  
-💻 GitHub: [https://github.com/vitorsantoszoo](#)
+🔗 LinkedIn: https://www.linkedin.com/in/vitor-hugo-3861391b8  
+💻 GitHub: https://github.com/vitorsantoszoo  
 
 🔄 Repositório em constante atualização à medida que novas disciplinas e projetos são concluídos.
-
----
