@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Sistemas de Informação** na UNINOVE (2026-2027), com formação em **Segurança da Informação** e pós-graduação em **Inteligência Artificial e Aprendizagem de Máquina** (conclusão em 02/2026).
+Sou estudante de **Sistemas de Informação** na UNINOVE (2026-2027), com formação em **Segurança da Informação** e pós-graduação em **Inteligência Artificial e Aprendizagem de Máquina**.
 
 Atuo profissionalmente em **Suporte Técnico** na Konecta (HelpDesk ASUS), onde realizo diagnósticos técnicos de hardware e software. Tenho experiência prévia em **automação de processos industriais com Python**, desenvolvendo scripts de IA para otimizar relatórios de produção.
 
@@ -45,7 +45,7 @@ Atuo profissionalmente em **Suporte Técnico** na Konecta (HelpDesk ASUS), onde 
 ## 📚 Formação Acadêmica
 
 🎓 **Bacharelado em Sistemas de Informação** - UNINOVE *(2026 - 2027)*  
-🎓 **Pós-graduação em IA e Aprendizagem de Máquina** - UNINOVE *(2024 - 2026)*  
+🎓 **Pós-graduação em IA e Aprendizagem de Máquina** - UNINOVE *(2025 - 2026)*  
 🎓 **Tecnólogo em Segurança da Informação** - UNINOVE *(2021 - 2023)*
 
 ### 📜 Certificações
