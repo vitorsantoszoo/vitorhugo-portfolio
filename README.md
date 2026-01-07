@@ -1,70 +1,134 @@
-# 💻 Vitor Hugo – Portfólio Profissional
+# 💻 Vitor Hugo da Silva Santos
 
-🎯 Sou formado em **Segurança da Informação** e atualmente curso pós-graduação em **Inteligência Artificial e Aprendizagem de Máquina**. Tenho conhecimento teórico em boas práticas de segurança, fundamentos de cibersegurança e no padrão ISO 27001, incluindo conceitos de gestão de riscos, proteção de dados e políticas de segurança.
+<div align="center">
 
-Também possuo experiência em **planejamento de produção (PCP)** e em automação de relatórios com Python(I.A), onde pude trabalhar com organização de informações e suporte a processos internos, apoio na rotina de apontamento de produção e fechamento de ordens, análise de capacidade produtiva e identificação de gargalos com emissão de relatórios de acompanhamento de performance industrial.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-3861391b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorsantoszoo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoor.hugoo@hotmail.com)
 
-Busco iniciar minha trajetória profissional na área de Tecnologia da Informação, especialmente em Segurança da Informação para aplicar o que aprendi na parte teórica e prática acadêmica, afim de aprender com profissionais mais experientes e desenvolver minhas habilidades dentro do ambiente corporativo.
+</div>
 
----
+## 👨‍💻 Sobre Mim
 
-### 🚀 Áreas de Atuação
-🔐 Segurança da Informação • 🤖 Inteligência Artificial • 💻 Suporte Técnico • 
+Sou estudante de **Sistemas de Informação** na UNINOVE (2026-2027), com formação em **Segurança da Informação** e pós-graduação em **Inteligência Artificial e Aprendizagem de Máquina** (conclusão em 02/2026).
 
----
+Atuo profissionalmente em **Suporte Técnico** na Konecta (HelpDesk ASUS), onde realizo diagnósticos técnicos de hardware e software. Tenho experiência prévia em **automação de processos industriais com Python**, desenvolvendo scripts de IA para otimizar relatórios de produção.
 
-### ⚙️ **Principais competências**
-- Governança e Segurança da Informação (ISO 27001)
-- Python (automação, análise e aprendizado de máquina)
-- Power BI e Excel 
-- SQL (SQL Server e MySQL)
-- Redes, infraestrutura e suporte técnico
+**🎯 Objetivo:** Busco oportunidades de estágio em TI, com foco em Segurança da Informação, Desenvolvimento ou áreas relacionadas à Inteligência Artificial.
 
 ---
 
-### 🧠 **Projetos em destaque**
+## 🚀 Stack Tecnológica
 
-## 🤖 Inteligência Artificial e Pesquisa
+### Linguagens e Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./inteligencia-artificial/deteccao-lixo-ia-smartcity)
-Projeto acadêmico desenvolvido durante a Pós-Graduação em **Inteligência Artificial e Aprendizado de Máquina (UNINOVE, 2025)**.  
-A proposta apresenta um modelo conceitual de **IA e Visão Computacional** para detectar resíduos urbanos em tempo real a partir de câmeras públicas, contribuindo para a gestão sustentável de **Cidades Inteligentes**.
+### IA & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema%20de%20Detec%C3%A3o%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)  
-📘 Tecnologias: `Python`, `YOLOv8`, `Visão Computacional`, `Deep Learning`, `Power BI`, `AWS`, `IA Sustentável`
+### Segurança & Infraestrutura
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-005C9E?style=for-the-badge)
 
----
-
-### 🔹 Classificador de Risco de Incidentes (Segurança + IA)
-[Ir para o projeto](./Projetos%20Pessoais/Classificador%20de%20Risco%20de%20Incidentes)
-
-Projeto pessoal utilizando o dataset UNSW-NB15 para classificar categorias de ataques cibernéticos e explicar **por que** o modelo toma determinada decisão através de SHAP (Explainable AI).  
-📘 Tecnologias: `Python`, `LightGBM`, `Machine Learning`, `SHAP`, `Cyber Security`
-
-
----
-
-#### 🔹 Automação de Relatórios de Produção (Python + IA)
-Script desenvolvido em Python para automatizar relatórios de produção industrial, reduzindo o tempo manual de consolidação de dados e melhorando a precisão das análises.
-📘 Tecnologias: `Python`, `Pandas`, `OpenPyXL`
+### Ferramentas
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-#### 🔹 Visão Computacional – Detecção de Objetos
-Projeto acadêmico de **IA e Visão Computacional**, usando **OpenCV e aprendizado de máquina** para identificar e contar objetos (como porcas e parafusos) em imagens industriais.
-📘 Tecnologias: `Python`, `OpenCV`, `Scikit-learn`
+## 📚 Formação Acadêmica
+
+🎓 **Bacharelado em Sistemas de Informação** - UNINOVE *(2026 - 2027)*  
+🎓 **Pós-graduação em IA e Aprendizagem de Máquina** - UNINOVE *(2024 - 2026)*  
+🎓 **Tecnólogo em Segurança da Informação** - UNINOVE *(2021 - 2023)*
+
+### 📜 Certificações
+- ✅ EXIN Information Security Foundation (ISO/IEC 27001)
+- ✅ AWS Cloud Practitioner Essentials
+- ✅ Cisco - Introduction to Cybersecurity
+- ✅ Microsoft Power BI para Business Intelligence
 
 ---
 
-### 🌐 **Certificações**
-- EXIN – Information Security Foundation (ISO/IEC 27001)
-- AWS Academy Cloud Foundations
-- Cisco – Networking Essentials
-- Power BI Analyst
+## 🔥 Projetos em Destaque
+
+### 🤖 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./inteligencia-artificial/deteccao-lixo-ia-smartcity)
+Projeto acadêmico de Visão Computacional e IA para identificar resíduos urbanos em câmeras públicas, contribuindo para gestão sustentável de Smart Cities.
+
+**Tecnologias:** `Python` • `YOLOv8` • `Deep Learning` • `Power BI` • `AWS`  
+📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema%20de%20Detecção%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)
 
 ---
 
-### 📫 **Contato**
-📧 E-mail: vitoor.hugoo@hotmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/vitor-hugo-3861391b8](#)  
-💻 GitHub: [https://github.com/vitorsantoszoo](#)
+### 🔐 [Classificador de Risco de Incidentes (Segurança + IA)](./Projetos%20Pessoais/Classificador%20de%20Risco%20de%20Incidentes)
+Modelo de Machine Learning usando o dataset UNSW-NB15 para classificar tipos de ataques cibernéticos com Explainable AI (SHAP).
+
+**Tecnologias:** `Python` • `LightGBM` • `SHAP` • `Cybersecurity`  
+**Resultado:** Classificação de 9 categorias de ataques com interpretabilidade
+
+---
+
+### 👁️ Visão Computacional - Detecção e Contagem de Objetos
+Sistema acadêmico para identificar e contabilizar objetos industriais (porcas e parafusos) via OpenCV e análise de Componentes Conectados.
+
+**Tecnologias:** `Python` • `OpenCV` • `Scikit-learn`
+
+---
+
+### ⚙️ Automação de Relatórios de Produção (IA aplicada)
+Scripts em Python para automatização de relatórios industriais, reduzindo tempo de consolidação de dados e melhorando precisão de análises.
+
+**Tecnologias:** `Python` • `Pandas` • `OpenPyXL`  
+**Impacto:** Redução de 70% no tempo de geração de relatórios
+
+---
+
+## 💼 Experiência Profissional
+
+**🔧 Atendente de Suporte - HelpDesk ASUS** | *KONECTA* | 11/2025 - Atual
+- Diagnóstico técnico de hardware (No Power, No Boot, Artefatos de Vídeo) e software (Drivers, BIOS)
+- Gestão de RMA e documentação de defeitos
+- Análise de casos complexos seguindo protocolos de qualidade
+
+**📊 Auxiliar de PCP** | *Arruda Ind. e Com. de Máquinas* | 07/2021 - 03/2025
+- Desenvolvimento de scripts de IA em Python para automação de relatórios
+- Análise de capacidade produtiva e identificação de gargalos
+- Controle de estoques e planejamento de produção
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorsantoszoo&show_icons=true&theme=dracula&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsantoszoo&layout=compact&theme=dracula)
+
+</div>
+
+---
+
+## 📫 Contato
+
+Estou aberto a oportunidades de **estágio** e **networking**!
+
+📧 **Email:** vitoor.hugoo@hotmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/vitor-hugo-3861391b8](https://www.linkedin.com/in/vitor-hugo-3861391b8/)  
+💼 **Localização:** Osasco/SP, Brasil
+
+---
+
+<div align="center">
+
+### 🚀 "Transformando conhecimento em soluções práticas através de Tecnologia, Segurança e Inteligência Artificial"
+
+⭐ Se você achou meus projetos interessantes, deixe uma estrela nos repositórios!
+
+</div>
