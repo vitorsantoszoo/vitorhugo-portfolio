@@ -1,4 +1,4 @@
-# 💻 Portfólio — Graduação em Sistemas de Informação
+# 💻 Bacharelado em Sistemas de Informação
 
 Este repositório reúne projetos, atividades práticas e estudos desenvolvidos
 durante minha graduação em **Sistemas de Informação**.
