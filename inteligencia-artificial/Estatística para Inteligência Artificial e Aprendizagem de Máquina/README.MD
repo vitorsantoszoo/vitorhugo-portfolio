@@ -1,48 +1,85 @@
-# 📊 Análise Estatística Descritiva — Insurance Dataset
+# 📊 Estatística para Inteligência Artificial e Aprendizagem de Máquina
 
-Projeto desenvolvido na disciplina **Estatística para Inteligência Artificial e Aprendizagem de Máquina**, com o objetivo de aplicar conceitos de estatística descritiva em um conjunto de dados real.
+Esta pasta reúne os materiais, estudos e projetos desenvolvidos durante a disciplina
+**Estatística para Inteligência Artificial e Aprendizagem de Máquina**, cursada na
+pós-graduação em Inteligência Artificial.
 
-## 🎯 Objetivo
+A disciplina teve como objetivo apresentar os fundamentos estatísticos necessários
+para análise de dados e compreensão matemática dos algoritmos utilizados em
+Machine Learning e Inteligência Artificial.
 
-Realizar uma análise exploratória utilizando medidas estatísticas e visualizações gráficas para compreender o comportamento das variáveis e identificar padrões presentes nos dados.
+---
 
-## 📁 Dataset
+## 🎯 Objetivos da Disciplina
 
-**Insurance Dataset**
+- Compreender conceitos fundamentais de estatística aplicada à análise de dados;
+- Aplicar estatística descritiva e inferencial em conjuntos de dados reais;
+- Interpretar relações entre variáveis por meio de medidas estatísticas;
+- Entender a base estatística utilizada em modelos de aprendizado de máquina;
+- Desenvolver capacidade analítica para interpretação de resultados.
 
-O conjunto de dados contém informações de beneficiários de plano de saúde, incluindo:
+---
 
-- idade (age)
-- gênero (sex)
-- índice de massa corporal (bmi)
-- número de filhos (children)
-- região (region)
-- custos médicos individuais (charges)
+## 📚 Conteúdos Estudados
 
-## 📊 Análises Realizadas
+Durante a disciplina foram abordados os seguintes tópicos:
 
 ### Estatística Descritiva
-- Média
-- Mediana
-- Desvio-padrão
-- Variância
-- Quartis
-- Amplitude
-- Assimetria (skewness)
+- Tipos de variáveis (quantitativas e categóricas)
+- Medidas de tendência central (média, mediana)
+- Medidas de dispersão (variância, desvio-padrão, amplitude)
+- Quartis e análise de outliers
+- Assimetria e distribuição de dados
+- Visualização estatística (histogramas, boxplots e gráficos de barras)
 
-### Visualizações
-- Histogramas
-- Boxplots
-- Gráficos de barras
-- Gráfico de dispersão (age × charges)
-- Comparações por grupos (region × charges)
+### Relação entre Variáveis
+- Covariância e correlação
+- Análise exploratória de dados (EDA)
+- Gráficos de dispersão
 
-## 🧠 Principais Insights
+### Inferência Estatística
+- Variância amostral
+- Intervalos de confiança
+- Testes de hipóteses
+- Comparação entre populações
+- Interpretação estatística aplicada
 
-- Os custos médicos apresentam forte assimetria positiva.
-- Há grande variabilidade nos valores de charges.
-- Diferenças visuais podem ser observadas entre regiões e perfis demográficos.
-- A idade apresenta distribuição relativamente homogênea em comparação aos custos médicos.
+### Estatística aplicada à IA
+- Papel da estatística no pipeline de Machine Learning
+- Preparação e análise de dados
+- Fundamentação matemática da regressão e modelos preditivos
+
+---
+
+## 📂 Projetos Desenvolvidos
+
+### 📈 1. Análise Estatística Descritiva — Insurance Dataset
+Projeto focado na aplicação de estatística descritiva em dados reais de seguros médicos.
+
+Principais atividades:
+- análise de variáveis quantitativas e categóricas;
+- cálculo de medidas estatísticas;
+- identificação de padrões e outliers;
+- visualizações gráficas;
+- interpretação descritiva dos resultados.
+
+📁 Pasta: `analise-estatistica-insurance-dataset`
+
+---
+
+### 📊 2. Inferência Estatística e Regressão
+Projeto voltado à aplicação de conceitos de inferência estatística e análise de relações
+entre variáveis, conectando fundamentos estatísticos ao contexto de Inteligência Artificial.
+
+Principais atividades:
+- análise de variância e covariância;
+- estudo de correlação entre variáveis;
+- aplicação de testes estatísticos;
+- interpretação dos resultados sob perspectiva analítica.
+
+📁 Pasta: `inferencia-estatistica-e-regressao`
+
+---
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -53,15 +90,17 @@ O conjunto de dados contém informações de beneficiários de plano de saúde, 
 - Seaborn
 - Google Colab
 
-## 📌 Competências Demonstradas
+---
+
+## 🧠 Competências Desenvolvidas
 
 - Análise exploratória de dados (EDA)
-- Estatística descritiva aplicada
+- Estatística descritiva e inferencial
+- Interpretação estatística aplicada
 - Visualização de dados
-- Interpretação estatística
-- Organização de notebooks analíticos
+- Fundamentação estatística para Machine Learning
 
 ---
 
-Projeto desenvolvido como parte do portfólio acadêmico em Inteligência Artificial e Aprendizagem de Máquina.
-
+📌 Esta disciplina representa a base estatística necessária para o desenvolvimento
+de soluções em Ciência de Dados, Inteligência Artificial e Aprendizagem de Máquina.
