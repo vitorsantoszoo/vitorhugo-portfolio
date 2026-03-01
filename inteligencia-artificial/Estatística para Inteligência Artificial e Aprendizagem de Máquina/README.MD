@@ -63,8 +63,6 @@ Principais atividades:
 - visualizações gráficas;
 - interpretação descritiva dos resultados.
 
-📁 Pasta: `analise-estatistica-insurance-dataset`
-
 ---
 
 ### 📊 2. Inferência Estatística e Regressão
@@ -76,8 +74,6 @@ Principais atividades:
 - estudo de correlação entre variáveis;
 - aplicação de testes estatísticos;
 - interpretação dos resultados sob perspectiva analítica.
-
-📁 Pasta: `inferencia-estatistica-e-regressao`
 
 ---
 
