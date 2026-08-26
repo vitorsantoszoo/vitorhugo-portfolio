@@ -14,6 +14,8 @@ Notebook introdutório abordando conceitos de sintaxe, operadores, tipos de dado
 📂 **Arquivo:** `Aula 1.ipynb`  
 🧠 **Conceitos aplicados:** variáveis, entrada e saída de dados, e manipulação básica de estruturas.
 
+⚠️ Este notebook importa módulos auxiliares (`estatisticas`, `fibo`, `romanos`) fornecidos separadamente em sala de aula, que não fazem parte deste repositório — algumas células não executam de forma isolada.
+
 ---
 
 ## 📘 Projetos da Disciplina
