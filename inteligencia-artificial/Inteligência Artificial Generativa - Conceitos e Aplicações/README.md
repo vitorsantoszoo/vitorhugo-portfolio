@@ -61,7 +61,6 @@ Artigos clássicos analisados durante a disciplina:
 | Previsão da Produção de Leite            | Aplicação de modelos de linguagem para previsão textual a partir de dados numéricos | Atividade 2 - Previsão da Produção de Leite.ipynb |
 | Classificação MasterCard                 | IA generativa aplicada à análise de imagens e textos                                | Atividade 3 - MasterCard.ipynb                    |
 | Processamento de Linguagem Natural       | Geração de texto com embeddings e redes recorrentes                                 | Atividade 4.ipynb                                 |
-| Processamento de Áudio com IA Generativa | Reconhecimento e síntese de áudio                                                   | Atividade_Processamento_Audio_2025.ipynb          |
 | Experimento Prático                      | Aplicação de modelo generativo em contexto experimental                             | Atividade 7.ipynb                                 |
 
 

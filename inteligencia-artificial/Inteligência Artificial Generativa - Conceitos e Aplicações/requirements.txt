@@ -1,0 +1,9 @@
+kagglehub
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+sentence-transformers
+tensorflow
+torch
