@@ -55,13 +55,17 @@ Este projeto não é apenas uma classificação de ataques, ele ajuda a **tomar 
 
 ---
 
-## Execução
+## 🚀 Como executar
 
-Este projeto foi desenvolvido e executado via Google Colab.
+Desenvolvido e executado via Google Colab.
 
-Arquivos necessários:
+```bash
+git clone https://github.com/vitorsantoszoo/vitorhugo-portfolio.git
+cd vitorhugo-portfolio/projetos/classificador-risco-incidentes
+pip install -r requirements.txt
+```
 
-- o notebook principal → `Classificador de Risco de Incidentes.ipynb`
+Abra o notebook principal `Classificador_de_Risco_de_Incidentes.ipynb` no Colab (ou Jupyter local) e execute célula por célula.
 
 ---
 
@@ -94,5 +98,13 @@ Próximas etapas possíveis (futuras melhorias):
 - Exportar modelo para API REST
 - Criar dashboard visual (Streamlit)
 - Testar com dados de rede capturados via pcap
+
+---
+
+## 📫 Contato
+
+📧 **Email:** vitoor.hugoo@hotmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/vitor-hugo-3861391b8](https://www.linkedin.com/in/vitor-hugo-3861391b8/)  
+💻 **GitHub:** [github.com/vitorsantoszoo](https://github.com/vitorsantoszoo)
 
 ---

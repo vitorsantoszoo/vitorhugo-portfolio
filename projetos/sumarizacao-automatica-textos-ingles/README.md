@@ -1,66 +1,56 @@
 # 📘 Sumarização Automática de Textos com Transformers (DistilBART)
 
-Este projeto demonstra como utilizar modelos pré-treinados da biblioteca **Hugging Face Transformers**
-para realizar **resumo automático de textos** em inglês, utilizando o modelo
-`sshleifer/distilbart-cnn-12-6`, uma versão compacta e eficiente do BART.
+Resumo automático de textos em inglês usando o modelo pré-treinado `sshleifer/distilbart-cnn-12-6` (versão compacta do BART), da biblioteca Hugging Face Transformers.
 
 ---
 
 ## 🎯 Objetivo
-Aplicar um modelo *encoder-decoder* pré-treinado para gerar resumos coerentes a partir de textos
-curtos e médios, demonstrando um exemplo prático de IA aplicada a Processamento de Linguagem Natural (NLP).
 
-O projeto inclui:
-- Uso do pipeline de sumarização;
-- Formatação organizada da saída;
-- Tradução manual do resumo para PT-BR;
-- Análise interpretativa dos resultados.
+Aplicar um modelo *encoder-decoder* pré-treinado para gerar resumos coerentes a partir de textos curtos e médios, demonstrando um exemplo prático de IA aplicada a Processamento de Linguagem Natural (NLP). O notebook cobre: uso do pipeline de sumarização, formatação da saída, tradução manual do resumo para PT-BR e uma análise interpretativa dos resultados.
 
 ---
 
-## 🧠 Sobre o Modelo Utilizado
-O **DistilBART CNN-12-6** é uma versão reduzida do modelo BART, treinado no dataset CNN/DailyMail
-para tarefas de summarization.  
-Ele é rápido, leve e produz resumos de boa qualidade em inglês.
+## 🧠 Sobre o modelo
+
+**DistilBART CNN-12-6** é uma versão reduzida do BART, treinada no dataset CNN/DailyMail para tarefas de summarization. É rápido, leve e produz resumos de boa qualidade em inglês.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
-- Python  
-- Google Colab  
-- Hugging Face Transformers  
-- Modelo: `sshleifer/distilbart-cnn-12-6`
+## 🛠️ Tecnologias
+
+Python • Google Colab • Hugging Face Transformers (`sshleifer/distilbart-cnn-12-6`) • PyTorch (backend do pipeline)
 
 ---
 
-## 📦 Estrutura do Notebook
-O notebook contém:
+## 🚀 Como executar
 
-1. **Instalação das bibliotecas**
-2. **Carregamento do modelo**
-3. **Definição do texto de entrada**
-4. **Geração do resumo**
-5. **Formatação legível da saída**
-6. **Tradução manual do resumo**
-7. **Comentário interpretativo**
+```bash
+git clone https://github.com/vitorsantoszoo/vitorhugo-portfolio.git
+cd vitorhugo-portfolio/projetos/sumarizacao-automatica-textos-ingles
+pip install -r requirements.txt
+```
 
----
-
-## 📝 Exemplo de Uso
+Abra `notebooks/Sumarização_cleaned.ipynb` no Colab (ou Jupyter local) e execute célula por célula: instalação, carregamento do modelo, texto de entrada, geração e formatação do resumo.
 
 ```python
 from transformers import pipeline
 
-summarizer = pipeline(
-    task="summarization",
-    model="sshleifer/distilbart-cnn-12-6"
-)
+summarizer = pipeline(task="summarization", model="sshleifer/distilbart-cnn-12-6")
 
-resumo = summarizer(
-    text,
-    max_length=60,
-    min_length=25
-)[0]["summary_text"]
-
+resumo = summarizer(text, max_length=60, min_length=25)[0]["summary_text"]
 print(resumo)
+```
 
+---
+
+## 📈 Resultados
+
+O pipeline gera resumos coerentes e concisos a partir de textos em inglês, com formatação legível da saída e tradução manual para PT-BR incluída no notebook como parte da análise interpretativa.
+
+---
+
+## 📫 Contato
+
+📧 **Email:** vitoor.hugoo@hotmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/vitor-hugo-3861391b8](https://www.linkedin.com/in/vitor-hugo-3861391b8/)  
+💻 **GitHub:** [github.com/vitorsantoszoo](https://github.com/vitorsantoszoo)

@@ -135,9 +135,10 @@ Consolida os resultados de todos os agentes em linguagem natural (NLG):
 
 1️⃣ Clonar o repositório
 
-```
-git clone https://github.com/<seu_usuario>/AI-Agent-Hub.git
-cd AI-Agent-Hub
+```bash
+git clone https://github.com/vitorsantoszoo/vitorhugo-portfolio.git
+cd vitorhugo-portfolio/projetos/ai-agent-hub
+pip install -r requirements.txt
 ```
 
 2️⃣ Abrir os notebooks no Google Colab
@@ -165,7 +166,7 @@ cd AI-Agent-Hub
 
 ✅ Logs JSON: salvos em data/logs/
 
-✅ Relatório final: disponível em data/samples/language_agent_report.txt
+✅ Relatório final: disponível em data/samples/language_agent_report_b2abff17.txt
 
 ✅ Acurácia do modelo de visão (CNN): ~90%+
 
@@ -196,10 +197,11 @@ Vitor Hugo
 Desenvolvedor em formação e entusiasta de Inteligência Artificial
 📘 Projeto desenvolvido como parte dos estudos em IA Aplicada e Aprendizagem de Máquina
 
-### 📫 **Contato**
-📧 E-mail: vitoor.hugoo@hotmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/vitor-hugo-3861391b8](#)  
-💻 GitHub: [https://github.com/vitorsantoszoo](#)
+## 📫 Contato
+
+📧 **Email:** vitoor.hugoo@hotmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/vitor-hugo-3861391b8](https://www.linkedin.com/in/vitor-hugo-3861391b8/)  
+💻 **GitHub:** [github.com/vitorsantoszoo](https://github.com/vitorsantoszoo)
 
 ---
 

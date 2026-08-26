@@ -1,346 +1,99 @@
 # 🧠 BI IA Dashboard — Inteligência Analítica com Python
 
-Este projeto foi desenvolvido para demonstrar um fluxo completo de Análise de Dados + Visualização + Previsões com IA, totalmente implementado em Python e executável no Google Colab.
-
-Ele simula um mini–sistema de Business Intelligence, capaz de:
-
-✔️ Ler um dataset de vendas/faturamento
-
-✔️ Processar e limpar dados automaticamente
-
-✔️ Criar visualizações profissionais (estilo BI)
-
-✔️ Gerar previsões futuras com intervalo de confiança
-
-✔️ Permitir que qualquer usuário substitua o dataset e gere seu próprio dashboard
+Mini-sistema de Business Intelligence que lê um dataset de vendas/faturamento, limpa e processa os dados, gera visualizações estilo BI e produz previsões futuras com intervalo de confiança — tudo em Python, executável no Google Colab.
 
 ---
 
-## 📊 Objetivo do Projeto
+## 🎯 Objetivo
 
-Criar um pipeline moderno e prático de Inteligência Analítica usando apenas Python, contemplando:
+Demonstrar um pipeline completo de Inteligência Analítica:
 
-● ETL (extração, transformação e limpeza)
-
-● Visualizações exploratórias e estratégicas
-
-● Modelos de previsão usando Random Forest e lags
-
-● Intervalo de confiança via bootstrap
-
-● Gráficos interativos estilo Power BI
-
-● Pipeline modular organizado em src/
-
-Este projeto serve como:
-
-✔️ Material de estudo
-
-✔️ Demonstração técnica para portfólio
-
-✔️ Base para dashboards corporativos automatizados
-
-✔️ Exemplo de arquitetura simples de Data Analytics com IA
+- ETL (extração, transformação e limpeza automática dos dados)
+- Visualizações exploratórias e estratégicas (estilo Power BI)
+- Previsão com Random Forest + intervalo de confiança via bootstrap
+- Geração automática de relatório em linguagem natural (NLG)
+- Suporte para o usuário substituir o dataset e gerar seu próprio dashboard
 
 ---
 
-# 📁 Estrutura Completa do Projeto
+## 🧠 Como funciona
+
+O notebook `notebooks/bi_dashboard_pipeline.ipynb` orquestra os módulos de `src/`:
+
 ```
-BI IA Dashboard/
-│
+load_data.py        → identifica automaticamente coluna de datas, coluna de valores e formatação
+preprocessing.py     → limpeza de valores ausentes, padronização de datas, ordenação temporal
+metrics.py           → KPIs, variações percentuais, médias móveis, sazonalidade básica
+forecasting.py       → RandomForestRegressor + lags, intervalo de confiança via bootstrap (90%)
+visualization.py     → gráficos interativos (Plotly): série temporal, barras, tendência
+nlg_agent.py         → relatório automático em texto a partir dos resultados
+```
+
+Para usar seus próprios dados, salve o arquivo em `data/user_uploads/`, selecione-o na célula de configuração do notebook e rode tudo novamente — não é necessário alterar código.
+
+---
+
+## 🛠️ Tecnologias
+
+Python 3.10+ • Pandas • NumPy • Scikit-learn (RandomForestRegressor) • Plotly • Google Colab
+
+Lista completa em [`requirements.txt`](./requirements.txt).
+
+---
+
+## 📂 Estrutura
+
+```
+bi-ia-dashboard/
 ├── notebooks/
-│   └── bi_dashboard_pipeline.ipynb        # Notebook principal (orquestrador)
-│
+│   └── bi_dashboard_pipeline.ipynb   # Notebook principal (orquestrador)
 ├── src/
-│   ├── load_data.py                       # Módulo de leitura e inferência de colunas
-│   ├── preprocessing.py                   # Tratamento e limpeza de dados
-│   ├── metrics.py                         # Cálculo de KPIs e agregações
-│   ├── forecasting.py                     # IA para previsões (RF / Prophet)
-│   ├── visualization.py                   # Gráficos interativos (Plotly)
-│   └── nlg_agent.py                       # Geração automática de relatórios (NLG)
-│
+│   ├── load_data.py
+│   ├── preprocessing.py
+│   ├── metrics.py
+│   ├── forecasting.py
+│   ├── visualization.py
+│   └── nlg_agent.py
 ├── data/
-│   ├── examples/
-│   │   └── sample_sales.csv               # Dataset de exemplo usado no projeto
-│   └── user_uploads/                      # (opcional) onde o usuário pode salvar dados
-│
+│   ├── examples/sample_sales.csv     # Dataset de exemplo
+│   └── user_uploads/                 # Onde o usuário coloca seus próprios dados
 ├── dashboard/
-│   ├── exports/                           # Saída final: HTML, PDF, gráficos
-│   └── reports/                           # Relatórios automáticos gerados
-│
-└── README.md                              # Documentação principal
+│   └── exports/                      # Saída gerada: HTML, CSV, relatório NLG
+└── requirements.txt
 ```
 
 ---
 
-## 🛠️ Tecnologias e Bibliotecas Utilizadas
+## 🚀 Como executar
 
-Python 3.10+
+```bash
+git clone https://github.com/vitorsantoszoo/vitorhugo-portfolio.git
+cd vitorhugo-portfolio/projetos/bi-ia-dashboard
+pip install -r requirements.txt
+```
 
-● Pandas
-
-● NumPy
-
-● Scikit-learn
-
-● Plotly
-
-● RandomForestRegressor
-
-● Bootstrap Forecasting (Intervalo de Confiança)
-
-● Google Colab
+Abra `notebooks/bi_dashboard_pipeline.ipynb` (Colab ou Jupyter local) e execute todas as células. Por padrão ele usa `data/examples/sample_sales.csv`; para usar outro dataset, salve-o em `data/user_uploads/` e aponte o notebook para ele.
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-Este projeto foi projetado para ser modular, extensível e totalmente executável pelo notebook principal:
-
-```
-/notebooks/bi_dashboard_pipeline.ipynb
-```
-Esse notebook funciona como orquestrador de todo o pipeline:
-
-● 📥 Carregamento inteligente de dados `(load_data.py)`
-
-● 🧹 Limpeza e preparação automática `(preprocessing.py)`
-
-● 📊 Cálculo de métricas e agregações `(metrics.py)`
-
-● 🤖 Previsões com IA — Random Forest + Intervalo de Confiança `(forecasting.py)`
-
-● 📈 Visualizações interativas estilo BI `(visualization.py)`
-
-● 📝 Geração automática de relatório NLG `(nlg_agent.py)`
-
-● 💾 Exportação opcional para HTML / PNG / PDF `(dashboard/exports/)`
----
-
-## 🟩 1️⃣ Coloque seus dados na pasta correta
-
-O dataset deve ser salvo em:
-
-```
-data/user_uploads/seu_arquivo.csv
-```
-✔️ O pipeline reconhece automaticamente:
-
-● A coluna de datas
-
-● A coluna de valores (faturamento / vendas / lucro)
-
-● Formatações diferentes (`YYYY-MM-DD`, `DD/MM/YYYY`, etc.)
-
-Se preferir, você também pode usar o dataset de exemplo:
-
-```
-data/examples/sample_sales.csv
-```
-## 🟦 2️⃣ Abra o notebook principal
-
-Acesse:
-
-```
-notebooks/bi_dashboard_pipeline.ipynb
-```
-E clique em Runtime > Run all (Executar tudo).
----
-## 🟧 3️⃣ O pipeline fará automaticamente:
-✔️ Carregamento inteligente
-
-O módulo load_data.py identifica:
-
-● Coluna de datas
-
-● Coluna numérica principal
-
-● Formatação
-
-● Frequência da série
-
-✔️ Pré-processamento completo
-
-preprocessing.py faz:
-
-● Limpeza de valores ausentes
-
-● Padronização de datas
-
-● Ordenação temporal
-
-● Transformação mensal/semanal se necessário
-
-✔️ Cálculo de métricas e KPIs
-
-metrics.py calcula:
-
-● Totals
-
-● Variações percentuais
-
-● Médias móveis
-
-● Melhores e piores períodos
-
-● Sazonalidade básica
-
-✔️ Dashboard interativo
-
-● Visualization.py renderiza:
-
-● Gráfico de série temporal
-
-● Gráfico de barras
-
-● Variação percentual
-
-● Heatmaps (opcional)
-
-● Linhas de tendência
-
-✔️ Previsão com intervalo de confiança
-
-forecasting.py usa:
-
-● RandomForest + lags
-
-● Bootstrap (80 simulações)
-
-● IC 90%
-
-● Gráfico premium estilo Power BI
-
-✔️ Relatório automático NLG
-
-nlg_agent.py gera:
-
-● Texto descritivo sobre o dataset
-
-● Insights principais
-
-● Análise da tendência
-
-● Avaliação da previsão
-
-● Sugestões de ação
-
-O relatório é salvo em:
-
-```
-dashboard/reports/
-```
----
-## 🟨 4️⃣ Exportações (opcional)
-
-O notebook pode gerar automaticamente:
-
-📄 PDF
-
-🌐 HTML
-
-🖼️ Imagens dos gráficos (PNG/JPG)
-
-🧾 Relatório completo NLG
-
-Os arquivos ficam em:
-
-```
-dashboard/exports/
-```
-## 🟪 5️⃣ Substituindo o dataset
-
-Para usar seu próprio arquivo:
-
-1. Coloque o arquivo em:
-
-```
-data/user_uploads/
-```
-2. No notebook, selecione o nome do arquivo na célula de configuração
-
-3. Execute tudo novamente
-
-Não é necessário alterar código.
----
-## 🟫 Requisitos
-
-```
-pandas
-numpy
-scikit-learn
-plotly
-```
-(O notebook principal cuida das instalações automaticamente no Colab.)
----
-
-## 📈 Exemplo de Resultados Produzidos
-
-✔️ Gráfico de série temporal
-
-✔️ Crescimento percentual
-
-✔️ Gráfico de barras dos maiores meses
-
-✔️ Previsão com intervalo de confiança (IC 90%)
-
-✔️ Dashboard interativo via Plotly
+## 📈 Resultados / Status
+
+✅ Pipeline completo funcional: ETL → métricas → previsão → visualização → relatório NLG  
+✅ Exportações (HTML, CSV, relatório de texto) salvas em `dashboard/exports/`  
+✅ Previsão com Random Forest + intervalo de confiança de 90% via bootstrap (80 simulações)
 
 ---
 
-## 🤖 Previsão com Intervalo de Confiança
+## 🌱 Próximos passos
 
-O projeto utiliza:
-
-● RandomForestRegressor para previsão
-
-● Lags automáticos
-
-● Bootstrap com 80 simulações
-
-● Faixa de confiança (IC 90%)
-
-● Visualização premium estilo BI
-
-Esse método é muito utilizado em times de Data Analytics para gerar previsões interpretáveis.
+- Exportar dashboard consolidado em um único HTML
+- Adicionar comparação Forecast vs. Meta
+- Heatmap de sazonalidade
 
 ---
 
-## 👥 Quem pode usar este projeto?
+## 📫 Contato
 
-● Estudantes de IA / Data Science
-
-● Analistas de dados
-
-● Times de BI
-
-● Pequenas e médias empresas
-
-● Pessoas que querem gerar previsões rapidamente
-
-● Usuários que querem transformar seus próprios dados em dashboards reais
-
-
----
-
-## 📝 Próximos Passos (Roadmap)
-
- ● Exportar dashboard em HTML
-
- ● Comparação Forecast vs Meta
-
- ● Inclusão de Prophet
-
- ● Heatmap de sazonalidade
-
- ● Geração automática de relatório PDF
-
- ---
-
- ## 💬 Contato
-
-Caso queira explorar ainda mais o projeto ou alguma funcionalidade específica, estou aberto a trocar ideias e evoluir este dashboard!
-
----
-
-
+📧 **Email:** vitoor.hugoo@hotmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/vitor-hugo-3861391b8](https://www.linkedin.com/in/vitor-hugo-3861391b8/)  
+💻 **GitHub:** [github.com/vitorsantoszoo](https://github.com/vitorsantoszoo)
