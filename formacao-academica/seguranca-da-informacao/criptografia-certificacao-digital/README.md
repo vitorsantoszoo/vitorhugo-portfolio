@@ -46,19 +46,10 @@ Ao longo da disciplina foram analisados:
 - certificados A1, A2, A3, A4
 - usos práticos na sociedade (eSocial, NF-e, assinatura de contratos, etc.)
 
-## Projeto desenvolvido
-
-**Laudo Pericial Criptográfico — Estudo e Análise Forense Aplicada à Criptografia**
-
-> Projeto acadêmico com foco na análise de evidências digitais e validação de informações utilizando hashing e conceitos de autenticidade documental.
-
-📄 **Arquivo do projeto:**  
-[Sistema de Laudo Pericial — PDF](Trabalho Laudo Pericial.pdf)
-
 ---
 
 ### Status
 
 ✔ Disciplina concluída  
-📚 Material armazenado no repositório para referência técnica futura
+📌 Ainda sem projeto/material próprio versionado neste repositório
 
