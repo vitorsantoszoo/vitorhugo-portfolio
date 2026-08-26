@@ -102,11 +102,11 @@ O **CertMind V2** é um assistente inteligente e interativo desenvolvido especif
 ### **Estrutura do Repositório GitHub**
 ```
 vitorhugo-portfolio/                 # Repositório principal
-├── requirements.txt                 # Dependências Python (raiz)
-└── Projetos Pessoais/CertMindV2/    # Projeto CertMind V2
+└── projetos/certmindv2/             # Projeto CertMind V2
     ├── app_v2_final.py              # Aplicação principal
     ├── README.md                    # Documentação do projeto
     ├── QUICK_START.md              # Guia de início rápido
+    ├── requirements.txt             # Dependências Python do projeto
     ├── data/                        # Dados e recursos
     ├── modules/                     # Módulos auxiliares
     └── utils/                       # Utilitários

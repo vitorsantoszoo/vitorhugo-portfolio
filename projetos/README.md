@@ -90,7 +90,7 @@ Aqui estão dois dos meus projetos mais completos, representando bem minha evolu
 Sistema modular de Inteligência Artificial integrando Visão Computacional, Predição e Linguagem Natural.
 Cada agente funciona de forma independente, mas se comunica via logs JSON em um pipeline inspirado em arquiteturas reais de IA.
 
-<div align="left"> <a href="https://github.com/vitorsantoszoo/vitorhugo-portfolio/tree/main/Projetos%20Pessoais/AI%20Agent%20Hub" target="_blank">
+<div align="left"> <a href="./ai-agent-hub" target="_blank">
 
 🎯 AI Agent Hub
 <br>
@@ -112,7 +112,7 @@ Cada agente funciona de forma independente, mas se comunica via logs JSON em um 
 Projeto supervisionado de classificação binária, com pipeline completo de análise, pré-processamento, modelagem e avaliação.
 Focado em aprendizado supervisionado aplicado ao contexto de risco operacional.
 
-<div align="left"> <a href="https://github.com/vitorsantoszoo/vitorhugo-portfolio/tree/main/Projetos%20Pessoais/Classificador%20de%20Risco%20de%20Incidentes" target="_blank">
+<div align="left"> <a href="./classificador-risco-incidentes" target="_blank">
 
 📊 Classificador de Risco de Incidentes
 <br>
