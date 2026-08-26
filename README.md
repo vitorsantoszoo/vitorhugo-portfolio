@@ -58,15 +58,15 @@ Atuo profissionalmente em **Suporte Técnico** na Konecta (HelpDesk ASUS), onde 
 
 ## 🔥 Projetos em Destaque
 
-### 🤖 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./inteligencia-artificial/deteccao-lixo-ia-smartcity)
+### 🤖 [Sistema de Detecção de Lixo em Tempo Real para Cidades Inteligentes](./formacao-academica/inteligencia-artificial/projetos-ia-machine-learning)
 Projeto acadêmico de Visão Computacional e IA para identificar resíduos urbanos em câmeras públicas, contribuindo para gestão sustentável de Smart Cities.
 
 **Tecnologias:** `Python` • `YOLOv8` • `Deep Learning` • `Power BI` • `AWS`  
-📄 [Documentação completa (PDF)](./inteligencia-artificial/deteccao-lixo-ia-smartcity/Sistema%20de%20Detecção%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)
+📄 [Documentação completa (PDF)](./formacao-academica/inteligencia-artificial/projetos-ia-machine-learning/Sistema%20de%20Detec%C3%A7%C3%A3o%20de%20Lixo%20em%20Tempo%20Real%20para%20Cidades%20Inteligentes.pdf)
 
 ---
 
-### 🔐 [Classificador de Risco de Incidentes (Segurança + IA)](./Projetos%20Pessoais/Classificador%20de%20Risco%20de%20Incidentes)
+### 🔐 [Classificador de Risco de Incidentes (Segurança + IA)](./projetos/classificador-risco-incidentes)
 Modelo de Machine Learning usando o dataset UNSW-NB15 para classificar tipos de ataques cibernéticos com Explainable AI (SHAP).
 
 **Tecnologias:** `Python` • `LightGBM` • `SHAP` • `Cybersecurity`  
